@@ -12,7 +12,5 @@
 - [Ne eeettin Istio?(Sidecar Lifecycle Problemi)  ⛵️](https://medium.com/trendyol-tech/ne-eeettin-istio-sidecar-lifecycle-problemi-%EF%B8%8F-fcec4c866a70?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-<a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bthnapydin" height="30" width="30" /></a>
-<a href="https://medium.com/@batuhan.apaydin_11378" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@batuhan.apaydin_113" height="30" width="30" /></a>
-</p>
+<a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
+<a href="https://medium.com/@batuhan.apaydin_11378" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
