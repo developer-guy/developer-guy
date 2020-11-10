@@ -25,8 +25,8 @@
 <!--END_SECTION:activity-->
 
 ### :octocat: Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html" alt="developer-guy" /></p> <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html&theme=radical" alt="developer-guy" /></p> <br>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
 <a href="https://medium.com/@batuhan.apaydin_11378" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
