@@ -6,8 +6,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true" alt="developer-guy" /></p>
 
 
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bthnapydin" height="30" width="30" /></a>
