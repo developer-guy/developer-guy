@@ -18,7 +18,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" widht="100" />
+<img  src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
 </p>
 
