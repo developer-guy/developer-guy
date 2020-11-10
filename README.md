@@ -7,9 +7,7 @@
 
 
 ### :rocket: Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html" alt="developer-guy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true" alt="developer-guy" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" /></p> <br>
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,6 +23,9 @@
 4. 🗣 Commented on [#270](https://github.com/alexellis/arkade/issues/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
 5. 💪 Opened PR [#270](https://github.com/alexellis/arkade/pull/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
+
+### :octocat: Most Used Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html" alt="developer-guy" /></p> <br>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me
 <a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
