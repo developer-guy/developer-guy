@@ -31,11 +31,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#283](https://github.com/alexellis/k3sup/pull/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-2. ❗️ Opened issue [#282](https://github.com/alexellis/k3sup/issues/282) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-3. ❌ Closed PR [#1](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/1) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
-4. 🗣 Commented on [#270](https://github.com/alexellis/arkade/issues/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 💪 Opened PR [#270](https://github.com/alexellis/arkade/pull/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#910](https://github.com/kubernetes-sigs/krew-index/pull/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+2. 💪 Opened PR [#283](https://github.com/alexellis/k3sup/pull/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+3. ❗️ Opened issue [#282](https://github.com/alexellis/k3sup/issues/282) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+4. ❌ Closed PR [#1](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/1) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
+5. 🗣 Commented on [#270](https://github.com/alexellis/arkade/issues/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
