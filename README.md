@@ -33,9 +33,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#910](https://github.com/kubernetes-sigs/krew-index/issues/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
 2. 🗣 Commented on [#910](https://github.com/kubernetes-sigs/krew-index/issues/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-3. 💪 Opened PR [#910](https://github.com/kubernetes-sigs/krew-index/pull/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-4. ❌ Closed PR [#1](https://github.com/developer-guy/admission-webhook-example-with-openfaas/pull/1) in [developer-guy/admission-webhook-example-with-openfaas](https://github.com/developer-guy/admission-webhook-example-with-openfaas)
-5. 🗣 Commented on [#270](https://github.com/alexellis/arkade/issues/270) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#910](https://github.com/kubernetes-sigs/krew-index/issues/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+4. 🗣 Commented on [#910](https://github.com/kubernetes-sigs/krew-index/issues/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+5. 💪 Opened PR [#910](https://github.com/kubernetes-sigs/krew-index/pull/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
 <!--END_SECTION:activity-->
 
 
