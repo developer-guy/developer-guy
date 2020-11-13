@@ -1,8 +1,7 @@
 ## Hi there, I'm Batuhan Apaydın 👋
-
+![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Long life Learner !! 
-
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
