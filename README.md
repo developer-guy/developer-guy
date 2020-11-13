@@ -31,11 +31,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#913](https://github.com/kubernetes-sigs/krew-index/issues/913) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-2. 🗣 Commented on [#912](https://github.com/kubernetes-sigs/krew-index/issues/912) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-3. 🗣 Commented on [#912](https://github.com/kubernetes-sigs/krew-index/issues/912) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-4. 🗣 Commented on [#911](https://github.com/kubernetes-sigs/krew-index/issues/911) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-5. 🗣 Commented on [#910](https://github.com/kubernetes-sigs/krew-index/issues/910) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+1. 🗣 Commented on [#914](https://github.com/kubernetes-sigs/krew-index/issues/914) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+2. 🗣 Commented on [#914](https://github.com/kubernetes-sigs/krew-index/issues/914) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+3. 🗣 Commented on [#913](https://github.com/kubernetes-sigs/krew-index/issues/913) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+4. 🗣 Commented on [#912](https://github.com/kubernetes-sigs/krew-index/issues/912) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+5. 🗣 Commented on [#912](https://github.com/kubernetes-sigs/krew-index/issues/912) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
 <!--END_SECTION:activity-->
 
 
