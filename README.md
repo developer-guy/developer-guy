@@ -29,11 +29,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-2. 🎉 Merged PR [#2](https://github.com/Trendyol/kubectl-view-webhook/pull/2) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-3. ❗️ Closed issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-4. 🗣 Commented on [#2](https://github.com/Trendyol/kubectl-view-webhook/issues/2) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-5. 🗣 Commented on [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+1. 🗣 Commented on [#922](https://github.com/kubernetes-sigs/krew-index/issues/922) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+2. 🗣 Commented on [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+3. 🎉 Merged PR [#2](https://github.com/Trendyol/kubectl-view-webhook/pull/2) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+4. ❗️ Closed issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+5. 🗣 Commented on [#2](https://github.com/Trendyol/kubectl-view-webhook/issues/2) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
 <!--END_SECTION:activity-->
 
 
