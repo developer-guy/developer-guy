@@ -29,11 +29,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/openfaas/ingress-operator/issues/41) in [openfaas/ingress-operator](https://github.com/openfaas/ingress-operator)
-2. 🗣 Commented on [#8](https://github.com/openfaas/cron-connector/issues/8) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
-3. 🗣 Commented on [#922](https://github.com/kubernetes-sigs/krew-index/issues/922) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
-4. 🗣 Commented on [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-5. 🎉 Merged PR [#2](https://github.com/Trendyol/kubectl-view-webhook/pull/2) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+1. 💪 Opened PR [#9](https://github.com/openfaas/cron-connector/pull/9) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
+2. 🗣 Commented on [#41](https://github.com/openfaas/ingress-operator/issues/41) in [openfaas/ingress-operator](https://github.com/openfaas/ingress-operator)
+3. 🗣 Commented on [#8](https://github.com/openfaas/cron-connector/issues/8) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
+4. 🗣 Commented on [#922](https://github.com/kubernetes-sigs/krew-index/issues/922) in [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index)
+5. 🗣 Commented on [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
 <!--END_SECTION:activity-->
 
 
