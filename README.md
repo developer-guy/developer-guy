@@ -39,4 +39,4 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
-<a href="https://medium.com/@batuhan.apaydin_11378" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
+<a href="https://batuhan-apaydin-11378.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
