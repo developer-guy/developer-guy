@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/alexellis/arkade/issues/269) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❌ Closed PR [#289](https://github.com/alexellis/k3sup/pull/289) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-3. 💪 Opened PR [#289](https://github.com/alexellis/k3sup/pull/289) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-4. 🗣 Commented on [#12](https://github.com/alexellis/registry-creds/issues/12) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-5. 💪 Opened PR [#42](https://github.com/openfaas/ingress-operator/pull/42) in [openfaas/ingress-operator](https://github.com/openfaas/ingress-operator)
+1. ❌ Closed PR [#200](https://github.com/openfaas/openfaas.github.io/pull/200) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+2. 🗣 Commented on [#201](https://github.com/openfaas/openfaas.github.io/issues/201) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+3. 🗣 Commented on [#269](https://github.com/alexellis/arkade/issues/269) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❌ Closed PR [#289](https://github.com/alexellis/k3sup/pull/289) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+5. 💪 Opened PR [#289](https://github.com/alexellis/k3sup/pull/289) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
 <!--END_SECTION:activity-->
 
 
