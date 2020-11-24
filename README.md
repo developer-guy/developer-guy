@@ -24,8 +24,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distribute your policies with the power of functions](https://medium.com/@batuhan-apaydin-11378/distribute-your-policies-with-the-power-of-functions-3a79faf0ed47?source=rss-57d794f14ac9------2)
 - [Observe your Kubernetes Admission Webhook Configurations easily](https://medium.com/trendyol-tech/observe-your-kubernetes-admission-webhook-configurations-easily-c47d4d2917df?source=rss-57d794f14ac9------2)
-- [TLS Certificates for Kubernetes Admission Webhooks made easy with Certificator and Helm Hook?](https://medium.com/trendyol-tech/tls-certificates-for-kubernetes-admission-webhooks-made-easy-with-certificator-and-helm-hook-89ece42fa193?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
