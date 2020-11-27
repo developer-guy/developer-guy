@@ -30,9 +30,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/openfaas/openfaas.github.io/issues/201) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 💪 Opened PR [#205](https://github.com/openfaas/openfaas.github.io/pull/205) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 💪 Opened PR [#53](https://github.com/openfaas/connector-sdk/pull/53) in [openfaas/connector-sdk](https://github.com/openfaas/connector-sdk)
+1. ❗️ Opened issue [#1](https://github.com/developer-guy/test-probot-github/issues/1) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
+2. 🗣 Commented on [#201](https://github.com/openfaas/openfaas.github.io/issues/201) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+3. 💪 Opened PR [#205](https://github.com/openfaas/openfaas.github.io/pull/205) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 4. ❌ Closed PR [#200](https://github.com/openfaas/openfaas.github.io/pull/200) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 5. 🗣 Commented on [#201](https://github.com/openfaas/openfaas.github.io/issues/201) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
