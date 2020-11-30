@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/alexellis/k3sup/issues/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+1. 🗣 Commented on [#283](https://github.com/alexellis/arkade/issues/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
 2. 🗣 Commented on [#283](https://github.com/alexellis/k3sup/issues/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-3. 🗣 Commented on [#283](https://github.com/alexellis/arkade/issues/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Closed issue [#1](https://github.com/developer-guy/test-probot-github/issues/1) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-5. 💪 Opened PR [#283](https://github.com/alexellis/arkade/pull/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#283](https://github.com/alexellis/k3sup/issues/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+4. 🗣 Commented on [#283](https://github.com/alexellis/arkade/issues/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❗️ Closed issue [#1](https://github.com/developer-guy/test-probot-github/issues/1) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
 <!--END_SECTION:activity-->
 
 
