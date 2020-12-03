@@ -31,9 +31,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/alexellis/registry-creds/issues/16) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-2. 🗣 Commented on [#21](https://github.com/alexellis/registry-creds/issues/21) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-3. 🗣 Commented on [#283](https://github.com/alexellis/arkade/issues/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#283](https://github.com/alexellis/k3sup/issues/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+2. 🗣 Commented on [#16](https://github.com/alexellis/registry-creds/issues/16) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+3. 🗣 Commented on [#21](https://github.com/alexellis/registry-creds/issues/21) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+4. 🗣 Commented on [#283](https://github.com/alexellis/arkade/issues/283) in [alexellis/arkade](https://github.com/alexellis/arkade)
 5. 🗣 Commented on [#283](https://github.com/alexellis/k3sup/issues/283) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
 <!--END_SECTION:activity-->
 
