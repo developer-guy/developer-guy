@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/alexellis/registry-creds/pull/23) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-2. 💪 Opened PR [#22](https://github.com/alexellis/registry-creds/pull/22) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-3. 🗣 Commented on [#16](https://github.com/alexellis/registry-creds/issues/16) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-4. 🗣 Commented on [#16](https://github.com/alexellis/registry-creds/issues/16) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-5. 🗣 Commented on [#21](https://github.com/alexellis/registry-creds/issues/21) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+1. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+2. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+3. 💪 Opened PR [#23](https://github.com/alexellis/registry-creds/pull/23) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+4. 💪 Opened PR [#22](https://github.com/alexellis/registry-creds/pull/22) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+5. 🗣 Commented on [#16](https://github.com/alexellis/registry-creds/issues/16) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
 <!--END_SECTION:activity-->
 
 
