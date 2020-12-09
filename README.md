@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-2. ❗️ Opened issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-3. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+1. 🗣 Commented on [#4](https://github.com/mstrYoda/kubernetes-kitap/issues/4) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. ❗️ Closed issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
+3. ❗️ Opened issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
 4. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
-5. 💪 Opened PR [#23](https://github.com/alexellis/registry-creds/pull/23) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+5. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
 <!--END_SECTION:activity-->
 
 
