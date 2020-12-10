@@ -30,10 +30,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mstrYoda/kubernetes-kitap/issues/4) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-2. ❗️ Closed issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-3. ❗️ Opened issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-4. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
+1. 💪 Opened PR [#11874](https://github.com/docker/docker.github.io/pull/11874) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+2. 🗣 Commented on [#4](https://github.com/mstrYoda/kubernetes-kitap/issues/4) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. ❗️ Closed issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
+4. ❗️ Opened issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
 5. 🗣 Commented on [#24](https://github.com/alexellis/registry-creds/issues/24) in [alexellis/registry-creds](https://github.com/alexellis/registry-creds)
 <!--END_SECTION:activity-->
 
