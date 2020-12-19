@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
-2. 💪 Opened PR [#11874](https://github.com/docker/docker.github.io/pull/11874) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 🗣 Commented on [#4](https://github.com/mstrYoda/kubernetes-kitap/issues/4) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. ❗️ Closed issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
-5. ❗️ Opened issue [#2](https://github.com/developer-guy/test-probot-github/issues/2) in [developer-guy/test-probot-github](https://github.com/developer-guy/test-probot-github)
+1. 🗣 Commented on [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+2. ❗️ Reopened issue [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+3. 🗣 Commented on [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+4. 🗣 Commented on [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+5. ❗️ Opened issue [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
 <!--END_SECTION:activity-->
 
 
