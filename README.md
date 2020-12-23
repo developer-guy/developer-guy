@@ -30,10 +30,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/4) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
-2. 🗣 Commented on [#4](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/4) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
-3. 🗣 Commented on [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
-4. ❗️ Reopened issue [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+1. 🗣 Commented on [#1](https://github.com/developer-guy/test-faasd-github-bot/issues/1) in [developer-guy/test-faasd-github-bot](https://github.com/developer-guy/test-faasd-github-bot)
+2. ❗️ Opened issue [#1](https://github.com/developer-guy/test-faasd-github-bot/issues/1) in [developer-guy/test-faasd-github-bot](https://github.com/developer-guy/test-faasd-github-bot)
+3. ❗️ Closed issue [#4](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/4) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
+4. 🗣 Commented on [#4](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/4) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
 5. 🗣 Commented on [#5](https://github.com/developer-guy/issues-bot-faas-test-repository/issues/5) in [developer-guy/issues-bot-faas-test-repository](https://github.com/developer-guy/issues-bot-faas-test-repository)
 <!--END_SECTION:activity-->
 
