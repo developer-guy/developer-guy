@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/developer-guy/faasd-github-bot/issues/1) in [developer-guy/faasd-github-bot](https://github.com/developer-guy/faasd-github-bot)
-2. 🗣 Commented on [#5](https://github.com/Trendyol/kubectl-view-webhook/issues/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-3. 🎉 Merged PR [#5](https://github.com/Trendyol/kubectl-view-webhook/pull/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-4. ❗️ Closed issue [#4](https://github.com/Trendyol/kubectl-view-webhook/issues/4) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-5. 🗣 Commented on [#11874](https://github.com/docker/docker.github.io/issues/11874) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. 🎉 Merged PR [#1](https://github.com/developer-guy/faasd-github-bot/pull/1) in [developer-guy/faasd-github-bot](https://github.com/developer-guy/faasd-github-bot)
+2. 🗣 Commented on [#1](https://github.com/developer-guy/faasd-github-bot/issues/1) in [developer-guy/faasd-github-bot](https://github.com/developer-guy/faasd-github-bot)
+3. 🗣 Commented on [#5](https://github.com/Trendyol/kubectl-view-webhook/issues/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+4. 🎉 Merged PR [#5](https://github.com/Trendyol/kubectl-view-webhook/pull/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+5. ❗️ Closed issue [#4](https://github.com/Trendyol/kubectl-view-webhook/issues/4) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
 <!--END_SECTION:activity-->
 
 
