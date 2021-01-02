@@ -30,8 +30,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/inlets/inlets.dev/pull/19) in [inlets/inlets.dev](https://github.com/inlets/inlets.dev)
-2. 🎉 Merged PR [#1](https://github.com/developer-guy/faasd-github-bot/pull/1) in [developer-guy/faasd-github-bot](https://github.com/developer-guy/faasd-github-bot)
+1. 💪 Opened PR [#399](https://github.com/cert-manager/website/pull/399) in [cert-manager/website](https://github.com/cert-manager/website)
+2. 💪 Opened PR [#19](https://github.com/inlets/inlets.dev/pull/19) in [inlets/inlets.dev](https://github.com/inlets/inlets.dev)
 3. 🗣 Commented on [#1](https://github.com/developer-guy/faasd-github-bot/issues/1) in [developer-guy/faasd-github-bot](https://github.com/developer-guy/faasd-github-bot)
 4. 🗣 Commented on [#5](https://github.com/Trendyol/kubectl-view-webhook/issues/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
 5. 🎉 Merged PR [#5](https://github.com/Trendyol/kubectl-view-webhook/pull/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
