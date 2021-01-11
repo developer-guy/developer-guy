@@ -30,11 +30,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Trendyol/kubectl-easy-rollback/pull/7) in [Trendyol/kubectl-easy-rollback](https://github.com/Trendyol/kubectl-easy-rollback)
-2. 💪 Opened PR [#399](https://github.com/cert-manager/website/pull/399) in [cert-manager/website](https://github.com/cert-manager/website)
-3. 💪 Opened PR [#19](https://github.com/inlets/inlets.dev/pull/19) in [inlets/inlets.dev](https://github.com/inlets/inlets.dev)
-4. 🗣 Commented on [#5](https://github.com/Trendyol/kubectl-view-webhook/issues/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-5. 🎉 Merged PR [#5](https://github.com/Trendyol/kubectl-view-webhook/pull/5) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+1. ❌ Closed PR [#209](https://github.com/openfaas/openfaas.github.io/pull/209) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+2. 🗣 Commented on [#209](https://github.com/openfaas/openfaas.github.io/issues/209) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+3. 💪 Opened PR [#210](https://github.com/openfaas/openfaas.github.io/pull/210) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+4. 💪 Opened PR [#209](https://github.com/openfaas/openfaas.github.io/pull/209) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 🗣 Commented on [#19](https://github.com/inlets/inlets.dev/issues/19) in [inlets/inlets.dev](https://github.com/inlets/inlets.dev)
 <!--END_SECTION:activity-->
 
 
