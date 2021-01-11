@@ -24,6 +24,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to enable Kubernetes Auditing feature in Minikube running locally](https://medium.com/trendyol-tech/how-to-enable-kubernetes-auditing-feature-in-minikube-running-locally-e45f0d68ff82?source=rss-57d794f14ac9------2)
 - [Distribute your policies with the power of functions](https://medium.com/@batuhan-apaydin-11378/distribute-your-policies-with-the-power-of-functions-3a79faf0ed47?source=rss-57d794f14ac9------2)
 - [Observe your Kubernetes Admission Webhook Configurations easily](https://medium.com/trendyol-tech/observe-your-kubernetes-admission-webhook-configurations-easily-c47d4d2917df?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
