@@ -31,8 +31,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/anderseknert/awesome-opa/pull/3) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
-2. 🗣 Commented on [#209](https://github.com/openfaas/openfaas.github.io/issues/209) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+1. ❗️ Opened issue [#313](https://github.com/alexellis/arkade/issues/313) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 💪 Opened PR [#3](https://github.com/anderseknert/awesome-opa/pull/3) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
 3. 💪 Opened PR [#210](https://github.com/openfaas/openfaas.github.io/pull/210) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 4. 💪 Opened PR [#209](https://github.com/openfaas/openfaas.github.io/pull/209) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 5. 🗣 Commented on [#19](https://github.com/inlets/inlets.dev/issues/19) in [inlets/inlets.dev](https://github.com/inlets/inlets.dev)
