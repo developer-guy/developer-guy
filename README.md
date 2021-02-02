@@ -33,11 +33,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/alexellis/arkade/issues/324) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#1502](https://github.com/theupdateframework/notary/issues/1502) in [theupdateframework/notary](https://github.com/theupdateframework/notary)
-3. 💪 Opened PR [#215](https://github.com/openfaas/openfaas.github.io/pull/215) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#214](https://github.com/openfaas/openfaas.github.io/pull/214) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. ❗️ Opened issue [#301](https://github.com/alexellis/k3sup/issues/301) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+1. 💪 Opened PR [#325](https://github.com/alexellis/arkade/pull/325) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#324](https://github.com/alexellis/arkade/issues/324) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#1502](https://github.com/theupdateframework/notary/issues/1502) in [theupdateframework/notary](https://github.com/theupdateframework/notary)
+4. 💪 Opened PR [#215](https://github.com/openfaas/openfaas.github.io/pull/215) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 💪 Opened PR [#214](https://github.com/openfaas/openfaas.github.io/pull/214) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 
