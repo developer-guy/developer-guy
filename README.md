@@ -33,11 +33,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/alexellis/k3sup/issues/282) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-2. 🎉 Merged PR [#1](https://github.com/developer-guy/tini-and-distroless-poc/pull/1) in [developer-guy/tini-and-distroless-poc](https://github.com/developer-guy/tini-and-distroless-poc)
-3. 💪 Opened PR [#325](https://github.com/alexellis/arkade/pull/325) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#324](https://github.com/alexellis/arkade/issues/324) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#1502](https://github.com/theupdateframework/notary/issues/1502) in [theupdateframework/notary](https://github.com/theupdateframework/notary)
+1. 💪 Opened PR [#949](https://github.com/PKief/vscode-material-icon-theme/pull/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 🗣 Commented on [#282](https://github.com/alexellis/k3sup/issues/282) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+3. 🎉 Merged PR [#1](https://github.com/developer-guy/tini-and-distroless-poc/pull/1) in [developer-guy/tini-and-distroless-poc](https://github.com/developer-guy/tini-and-distroless-poc)
+4. 💪 Opened PR [#325](https://github.com/alexellis/arkade/pull/325) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#324](https://github.com/alexellis/arkade/issues/324) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
