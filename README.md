@@ -33,11 +33,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#949](https://github.com/PKief/vscode-material-icon-theme/issues/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. 🗣 Commented on [#949](https://github.com/PKief/vscode-material-icon-theme/issues/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-3. 💪 Opened PR [#949](https://github.com/PKief/vscode-material-icon-theme/pull/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-4. 🗣 Commented on [#282](https://github.com/alexellis/k3sup/issues/282) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-5. 🎉 Merged PR [#1](https://github.com/developer-guy/tini-and-distroless-poc/pull/1) in [developer-guy/tini-and-distroless-poc](https://github.com/developer-guy/tini-and-distroless-poc)
+1. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. ❗️ Opened issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 🗣 Commented on [#949](https://github.com/PKief/vscode-material-icon-theme/issues/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+4. 🗣 Commented on [#949](https://github.com/PKief/vscode-material-icon-theme/issues/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+5. 💪 Opened PR [#949](https://github.com/PKief/vscode-material-icon-theme/pull/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
 <!--END_SECTION:activity-->
 
 
