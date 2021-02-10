@@ -33,11 +33,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. ❗️ Closed issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 2. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 3. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-4. ❗️ Opened issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 🗣 Commented on [#949](https://github.com/PKief/vscode-material-icon-theme/issues/949) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+4. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+5. ❗️ Opened issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
