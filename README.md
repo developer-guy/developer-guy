@@ -33,11 +33,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-falco/pull/1) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
-2. 🗣 Commented on [#1](https://github.com/developer-guy/awesome-falco/issues/1) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
-3. ❗️ Closed issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-4. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 🗣 Commented on [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. 🎉 Merged PR [#2](https://github.com/developer-guy/awesome-falco/pull/2) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+2. 🗣 Commented on [#2](https://github.com/developer-guy/awesome-falco/issues/2) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+3. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-falco/pull/1) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+4. 🗣 Commented on [#1](https://github.com/developer-guy/awesome-falco/issues/1) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+5. ❗️ Closed issue [#3134](https://github.com/open-policy-agent/opa/issues/3134) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
