@@ -1,6 +1,6 @@
 ## Hi there, I'm Batuhan Apaydın 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
+<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
