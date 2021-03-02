@@ -32,10 +32,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗️ Closed issue [#1](https://github.com/developer-guy/policy-as-code-war/issues/1) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
-4. 🗣 Commented on [#1](https://github.com/developer-guy/policy-as-code-war/issues/1) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+1. 💪 Opened PR [#349](https://github.com/alexellis/arkade/pull/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Closed issue [#1](https://github.com/developer-guy/policy-as-code-war/issues/1) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
 5. 🗣 Commented on [#1](https://github.com/developer-guy/policy-as-code-war/issues/1) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
 <!--END_SECTION:activity-->
 
