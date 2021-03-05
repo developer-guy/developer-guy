@@ -32,11 +32,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-2. 💪 Opened PR [#349](https://github.com/alexellis/arkade/pull/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Closed issue [#1](https://github.com/developer-guy/policy-as-code-war/issues/1) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+1. 🗣 Commented on [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. ❗️ Opened issue [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 💪 Opened PR [#349](https://github.com/alexellis/arkade/pull/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❗️ Opened issue [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
