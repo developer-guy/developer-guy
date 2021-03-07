@@ -32,11 +32,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#67](https://github.com/civo/cli/issues/67) in [civo/cli](https://github.com/civo/cli)
-2. 🗣 Commented on [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-3. ❗️ Opened issue [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-4. 💪 Opened PR [#349](https://github.com/alexellis/arkade/pull/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#67](https://github.com/civo/cli/issues/67) in [civo/cli](https://github.com/civo/cli)
+4. 🗣 Commented on [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+5. ❗️ Opened issue [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
