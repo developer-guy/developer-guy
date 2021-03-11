@@ -32,11 +32,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1172](https://github.com/open-policy-agent/gatekeeper/issues/1172) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#67](https://github.com/civo/cli/issues/67) in [civo/cli](https://github.com/civo/cli)
-5. 🗣 Commented on [#3224](https://github.com/open-policy-agent/opa/issues/3224) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+2. 💪 Opened PR [#208](https://github.com/falcosecurity/falcosidekick/pull/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. ❗️ Opened issue [#1172](https://github.com/open-policy-agent/gatekeeper/issues/1172) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#347](https://github.com/alexellis/arkade/issues/347) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
