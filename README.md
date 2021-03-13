@@ -33,8 +33,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-2. 💪 Opened PR [#239](https://github.com/wasmerio/wasmer-go/pull/239) in [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go)
-3. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+2. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. 💪 Opened PR [#239](https://github.com/wasmerio/wasmer-go/pull/239) in [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go)
 4. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 5. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
