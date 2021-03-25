@@ -26,7 +26,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [İçerik](https://medium.com/trendyol-tech/i%CC%87%C3%A7erik-850b3cfbbf5a?source=rss-57d794f14ac9------2)
+- [Dynamic Config&Secret Management Sidecar Geliştirme Serüvenimiz](https://medium.com/trendyol-tech/i%CC%87%C3%A7erik-850b3cfbbf5a?source=rss-57d794f14ac9------2)
 - [Enforce Organizational Policies and Security Best Practices to your Kubernetes Clusters By Using…](https://medium.com/trendyol-tech/enforce-organizational-policies-and-security-best-practices-to-your-kubernetes-clusters-by-using-dfc085528e07?source=rss-57d794f14ac9------2)
 - [How to enable Kubernetes Auditing feature in Minikube running locally](https://medium.com/trendyol-tech/how-to-enable-kubernetes-auditing-feature-in-minikube-running-locally-e45f0d68ff82?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
