@@ -33,10 +33,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-2. ❌ Closed PR [#2](https://github.com/developer-guy/internal-meetup-project/pull/2) in [developer-guy/internal-meetup-project](https://github.com/developer-guy/internal-meetup-project)
-3. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 🗣 Commented on [#196](https://github.com/sigstore/cosign/issues/196) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+3. ❌ Closed PR [#2](https://github.com/developer-guy/internal-meetup-project/pull/2) in [developer-guy/internal-meetup-project](https://github.com/developer-guy/internal-meetup-project)
+4. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
 5. 🗣 Commented on [#208](https://github.com/falcosecurity/falcosidekick/issues/208) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
 
