@@ -34,11 +34,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#361](https://github.com/alexellis/arkade/pull/361) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🎉 Merged PR [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-3. 🗣 Commented on [#196](https://github.com/sigstore/cosign/issues/196) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-5. 🗣 Commented on [#349](https://github.com/alexellis/arkade/issues/349) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#207](https://github.com/falcosecurity/charts/pull/207) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+2. 💪 Opened PR [#361](https://github.com/alexellis/arkade/pull/361) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🎉 Merged PR [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+4. 🗣 Commented on [#196](https://github.com/sigstore/cosign/issues/196) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/1) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
 <!--END_SECTION:activity-->
 
 
