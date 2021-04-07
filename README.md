@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/inlets/inlets-pro/issues/24) in [inlets/inlets-pro](https://github.com/inlets/inlets-pro)
-2. 🗣 Commented on [#222](https://github.com/openfaas/openfaas.github.io/issues/222) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. ❗️ Opened issue [#222](https://github.com/openfaas/openfaas.github.io/issues/222) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#207](https://github.com/falcosecurity/charts/pull/207) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 💪 Opened PR [#361](https://github.com/alexellis/arkade/pull/361) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#207](https://github.com/falcosecurity/charts/issues/207) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+2. 🗣 Commented on [#207](https://github.com/falcosecurity/charts/issues/207) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+3. 🗣 Commented on [#24](https://github.com/inlets/inlets-pro/issues/24) in [inlets/inlets-pro](https://github.com/inlets/inlets-pro)
+4. 🗣 Commented on [#222](https://github.com/openfaas/openfaas.github.io/issues/222) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. ❗️ Opened issue [#222](https://github.com/openfaas/openfaas.github.io/issues/222) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 
