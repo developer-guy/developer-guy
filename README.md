@@ -26,6 +26,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started to Write Your First Kubernetes Admission Webhook Part 1✨](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-1-623f40c2adda?source=rss-57d794f14ac9------2)
 - [Dynamic Config&Secret Management Sürecimize Tamamen Farklı Bakış](https://medium.com/trendyol-tech/dynamic-config-secret-management-s%C3%BCrecimize-tamamen-farkl%C4%B1-bak%C4%B1%C5%9F-1b3ae45d380f?source=rss-57d794f14ac9------2)
 - [Dynamic Config&Secret Management Sidecar Geliştirme Serüvenimiz](https://medium.com/trendyol-tech/i%CC%87%C3%A7erik-850b3cfbbf5a?source=rss-57d794f14ac9------2)
 - [Enforce Organizational Policies and Security Best Practices to your Kubernetes Clusters By Using…](https://medium.com/trendyol-tech/enforce-organizational-policies-and-security-best-practices-to-your-kubernetes-clusters-by-using-dfc085528e07?source=rss-57d794f14ac9------2)
