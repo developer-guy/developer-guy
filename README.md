@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/falcosecurity/charts/issues/210) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-2. 💪 Opened PR [#210](https://github.com/falcosecurity/charts/pull/210) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-3. 💪 Opened PR [#223](https://github.com/openfaas/openfaas.github.io/pull/223) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#208](https://github.com/falcosecurity/charts/pull/208) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 🗣 Commented on [#207](https://github.com/falcosecurity/charts/issues/207) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+1. 🗣 Commented on [#1172](https://github.com/open-policy-agent/gatekeeper/issues/1172) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+2. 🗣 Commented on [#210](https://github.com/falcosecurity/charts/issues/210) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+3. 💪 Opened PR [#210](https://github.com/falcosecurity/charts/pull/210) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+4. 💪 Opened PR [#223](https://github.com/openfaas/openfaas.github.io/pull/223) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 💪 Opened PR [#208](https://github.com/falcosecurity/charts/pull/208) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 <!--END_SECTION:activity-->
 
 
