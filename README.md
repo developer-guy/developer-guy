@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#415](https://github.com/falcosecurity/falco-website/issues/415) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. ❗️ Opened issue [#71](https://github.com/open-policy-agent/gatekeeper-library/issues/71) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
 2. 🗣 Commented on [#415](https://github.com/falcosecurity/falco-website/issues/415) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-3. 💪 Opened PR [#6](https://github.com/openfaas/mqtt-connector/pull/6) in [openfaas/mqtt-connector](https://github.com/openfaas/mqtt-connector)
-4. 💪 Opened PR [#16](https://github.com/openfaas/cron-connector/pull/16) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
-5. 💪 Opened PR [#23](https://github.com/openfaas/nats-connector/pull/23) in [openfaas/nats-connector](https://github.com/openfaas/nats-connector)
+3. 🗣 Commented on [#415](https://github.com/falcosecurity/falco-website/issues/415) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 💪 Opened PR [#6](https://github.com/openfaas/mqtt-connector/pull/6) in [openfaas/mqtt-connector](https://github.com/openfaas/mqtt-connector)
+5. 💪 Opened PR [#16](https://github.com/openfaas/cron-connector/pull/16) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
 <!--END_SECTION:activity-->
 
 
