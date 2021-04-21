@@ -35,8 +35,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225](https://github.com/openfaas/openfaas.github.io/pull/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🗣 Commented on [#216](https://github.com/falcosecurity/charts/issues/216) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+1. 🎉 Merged PR [#6](https://github.com/developer-guy/awesome-falco/pull/6) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+2. 🗣 Commented on [#6](https://github.com/developer-guy/awesome-falco/issues/6) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
 3. 🗣 Commented on [#216](https://github.com/falcosecurity/charts/issues/216) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 4. 💪 Opened PR [#216](https://github.com/falcosecurity/charts/pull/216) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 5. 🗣 Commented on [#232](https://github.com/falcosecurity/falcosidekick/issues/232) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
