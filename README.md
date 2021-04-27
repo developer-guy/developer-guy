@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/alexellis/arkade/pull/376) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#375](https://github.com/alexellis/arkade/pull/375) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#374](https://github.com/alexellis/arkade/issues/374) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#424](https://github.com/falcosecurity/falco-website/pull/424) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 💪 Opened PR [#376](https://github.com/alexellis/arkade/pull/376) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#375](https://github.com/alexellis/arkade/pull/375) in [alexellis/arkade](https://github.com/alexellis/arkade)
 4. 🗣 Commented on [#374](https://github.com/alexellis/arkade/issues/374) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🎉 Merged PR [#6](https://github.com/developer-guy/awesome-falco/pull/6) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+5. 🗣 Commented on [#374](https://github.com/alexellis/arkade/issues/374) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
