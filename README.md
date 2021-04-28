@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
-2. ❗️ Opened issue [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 💪 Opened PR [#424](https://github.com/falcosecurity/falco-website/pull/424) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 💪 Opened PR [#376](https://github.com/alexellis/arkade/pull/376) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 💪 Opened PR [#375](https://github.com/alexellis/arkade/pull/375) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. ❗️ Opened issue [#131](https://github.com/k0sproject/k0sctl/issues/131) in [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl)
+2. 🗣 Commented on [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
+3. ❗️ Opened issue [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
+4. 💪 Opened PR [#424](https://github.com/falcosecurity/falco-website/pull/424) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 💪 Opened PR [#376](https://github.com/alexellis/arkade/pull/376) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
