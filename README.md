@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#387](https://github.com/alexellis/arkade/issues/387) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#387](https://github.com/alexellis/arkade/issues/387) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#382](https://github.com/alexellis/arkade/issues/382) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#131](https://github.com/k0sproject/k0sctl/issues/131) in [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl)
-5. 🗣 Commented on [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
+1. 🗣 Commented on [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
+2. 💪 Opened PR [#584](https://github.com/rancher/k3d/pull/584) in [rancher/k3d](https://github.com/rancher/k3d)
+3. 🗣 Commented on [#387](https://github.com/alexellis/arkade/issues/387) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#387](https://github.com/alexellis/arkade/issues/387) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#382](https://github.com/alexellis/arkade/issues/382) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
