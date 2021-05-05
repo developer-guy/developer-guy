@@ -1,6 +1,6 @@
 ## Hi there, I'm Batuhan Apaydın 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
