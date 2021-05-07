@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#584](https://github.com/rancher/k3d/issues/584) in [rancher/k3d](https://github.com/rancher/k3d)
+1. 💪 Opened PR [#391](https://github.com/alexellis/arkade/pull/391) in [alexellis/arkade](https://github.com/alexellis/arkade)
 2. 🗣 Commented on [#584](https://github.com/rancher/k3d/issues/584) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 🎉 Merged PR [#1](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/1) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
-4. 🗣 Commented on [#1](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/issues/1) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
-5. 🗣 Commented on [#578](https://github.com/rancher/k3d/issues/578) in [rancher/k3d](https://github.com/rancher/k3d)
+3. 🗣 Commented on [#584](https://github.com/rancher/k3d/issues/584) in [rancher/k3d](https://github.com/rancher/k3d)
+4. 🎉 Merged PR [#1](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/1) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
+5. 🗣 Commented on [#1](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/issues/1) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
 <!--END_SECTION:activity-->
 
 
