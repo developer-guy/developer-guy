@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
-2. ❗️ Opened issue [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 🎉 Merged PR [#2](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/2) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
-4. 🗣 Commented on [#2](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/issues/2) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
-5. 🗣 Commented on [#2](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/issues/2) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
+1. 🎉 Merged PR [#3](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/3) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
+2. 🗣 Commented on [#3](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/issues/3) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
+3. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+4. ❗️ Opened issue [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+5. 🎉 Merged PR [#2](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/2) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
 <!--END_SECTION:activity-->
 
 
