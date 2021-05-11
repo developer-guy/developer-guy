@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#601](https://github.com/rancher/k3d/pull/601) in [rancher/k3d](https://github.com/rancher/k3d)
-2. ❌ Closed PR [#600](https://github.com/rancher/k3d/pull/600) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 💪 Opened PR [#600](https://github.com/rancher/k3d/pull/600) in [rancher/k3d](https://github.com/rancher/k3d)
-4. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+1. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+2. 💪 Opened PR [#601](https://github.com/rancher/k3d/pull/601) in [rancher/k3d](https://github.com/rancher/k3d)
+3. ❌ Closed PR [#600](https://github.com/rancher/k3d/pull/600) in [rancher/k3d](https://github.com/rancher/k3d)
+4. 💪 Opened PR [#600](https://github.com/rancher/k3d/pull/600) in [rancher/k3d](https://github.com/rancher/k3d)
 5. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
 <!--END_SECTION:activity-->
 
