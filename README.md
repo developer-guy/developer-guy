@@ -37,9 +37,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
 2. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 💪 Opened PR [#727](https://github.com/argoproj/argo-helm/pull/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-4. ❗️ Opened issue [#393](https://github.com/alexellis/arkade/issues/393) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🎉 Merged PR [#3](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow/pull/3) in [developer-guy/kubernetes-response-engine-based-on-event-driven-workflow](https://github.com/developer-guy/kubernetes-response-engine-based-on-event-driven-workflow)
+3. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+4. 💪 Opened PR [#727](https://github.com/argoproj/argo-helm/pull/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+5. ❗️ Opened issue [#393](https://github.com/alexellis/arkade/issues/393) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
