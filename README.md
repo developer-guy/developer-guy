@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#237](https://github.com/falcosecurity/falcosidekick/issues/237) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
-4. 💪 Opened PR [#601](https://github.com/rancher/k3d/pull/601) in [rancher/k3d](https://github.com/rancher/k3d)
-5. ❌ Closed PR [#600](https://github.com/rancher/k3d/pull/600) in [rancher/k3d](https://github.com/rancher/k3d)
+1. 🗣 Commented on [#395](https://github.com/alexellis/arkade/issues/395) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#237](https://github.com/falcosecurity/falcosidekick/issues/237) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+4. 🗣 Commented on [#593](https://github.com/rancher/k3d/issues/593) in [rancher/k3d](https://github.com/rancher/k3d)
+5. 💪 Opened PR [#601](https://github.com/rancher/k3d/pull/601) in [rancher/k3d](https://github.com/rancher/k3d)
 <!--END_SECTION:activity-->
 
 
