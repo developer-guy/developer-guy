@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/alexellis/arkade/pull/397) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#229](https://github.com/openfaas/openfaas.github.io/pull/229) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 🗣 Commented on [#29](https://github.com/transparencylog/tl/issues/29) in [transparencylog/tl](https://github.com/transparencylog/tl)
-4. 💪 Opened PR [#396](https://github.com/alexellis/arkade/pull/396) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#29](https://github.com/transparencylog/tl/issues/29) in [transparencylog/tl](https://github.com/transparencylog/tl)
+1. 💪 Opened PR [#324](https://github.com/sigstore/cosign/pull/324) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#397](https://github.com/alexellis/arkade/pull/397) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#229](https://github.com/openfaas/openfaas.github.io/pull/229) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+4. 🗣 Commented on [#29](https://github.com/transparencylog/tl/issues/29) in [transparencylog/tl](https://github.com/transparencylog/tl)
+5. 💪 Opened PR [#396](https://github.com/alexellis/arkade/pull/396) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
