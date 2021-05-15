@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-2. 🗣 Commented on [#3](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/3) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-3. 🗣 Commented on [#4](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/4) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-4. 🎉 Merged PR [#4](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/4) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-5. 🎉 Merged PR [#3](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/3) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+1. 💪 Opened PR [#230](https://github.com/openfaas/openfaas.github.io/pull/230) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+2. 🗣 Commented on [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+3. 🗣 Commented on [#3](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/3) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+4. 🗣 Commented on [#4](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/4) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+5. 🎉 Merged PR [#4](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/4) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
 <!--END_SECTION:activity-->
 
 
