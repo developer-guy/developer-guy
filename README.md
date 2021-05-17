@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-2. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 💪 Opened PR [#434](https://github.com/falcosecurity/falco-website/pull/434) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 💪 Opened PR [#230](https://github.com/openfaas/openfaas.github.io/pull/230) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. 🎉 Merged PR [#4](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/pull/4) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+2. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+3. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+4. 💪 Opened PR [#434](https://github.com/falcosecurity/falco-website/pull/434) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 💪 Opened PR [#230](https://github.com/openfaas/openfaas.github.io/pull/230) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 
