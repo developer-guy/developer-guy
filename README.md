@@ -37,9 +37,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
 2. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-3. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#434](https://github.com/falcosecurity/falco-website/pull/434) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 💪 Opened PR [#230](https://github.com/openfaas/openfaas.github.io/pull/230) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+3. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+4. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 💪 Opened PR [#434](https://github.com/falcosecurity/falco-website/pull/434) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
