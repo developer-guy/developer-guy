@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+1. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
 2. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
 3. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-4. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. 💪 Opened PR [#434](https://github.com/falcosecurity/falco-website/pull/434) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+5. 🗣 Commented on [#225](https://github.com/openfaas/openfaas.github.io/issues/225) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 
