@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/falcosecurity/falcosidekick/issues/235) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-2. 🗣 Commented on [#397](https://github.com/falcosecurity/test-infra/issues/397) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
-3. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+1. 🗣 Commented on [#397](https://github.com/falcosecurity/test-infra/issues/397) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+2. 🗣 Commented on [#235](https://github.com/falcosecurity/falcosidekick/issues/235) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. 🗣 Commented on [#397](https://github.com/falcosecurity/test-infra/issues/397) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+4. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
 5. 🗣 Commented on [#727](https://github.com/argoproj/argo-helm/issues/727) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
 <!--END_SECTION:activity-->
 
