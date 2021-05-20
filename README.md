@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11675](https://github.com/hashicorp/vault/issues/11675) in [hashicorp/vault](https://github.com/hashicorp/vault)
-2. 🗣 Commented on [#240](https://github.com/falcosecurity/falcosidekick/issues/240) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. ❗️ Opened issue [#240](https://github.com/falcosecurity/falcosidekick/issues/240) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-4. 🗣 Commented on [#177](https://github.com/openfaas/faasd/issues/177) in [openfaas/faasd](https://github.com/openfaas/faasd)
-5. 🗣 Commented on [#397](https://github.com/falcosecurity/test-infra/issues/397) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+1. 💪 Opened PR [#236](https://github.com/openfaas/openfaas.github.io/pull/236) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+2. ❗️ Opened issue [#11675](https://github.com/hashicorp/vault/issues/11675) in [hashicorp/vault](https://github.com/hashicorp/vault)
+3. 🗣 Commented on [#240](https://github.com/falcosecurity/falcosidekick/issues/240) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+4. ❗️ Opened issue [#240](https://github.com/falcosecurity/falcosidekick/issues/240) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+5. 🗣 Commented on [#177](https://github.com/openfaas/faasd/issues/177) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
 
