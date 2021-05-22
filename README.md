@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-2. 💪 Opened PR [#243](https://github.com/falcosecurity/falcosidekick/pull/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. 🗣 Commented on [#227](https://github.com/falcosecurity/charts/issues/227) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+1. 💪 Opened PR [#438](https://github.com/falcosecurity/falco-website/pull/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. 💪 Opened PR [#243](https://github.com/falcosecurity/falcosidekick/pull/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 4. 🗣 Commented on [#227](https://github.com/falcosecurity/charts/issues/227) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 🗣 Commented on [#241](https://github.com/falcosecurity/falcosidekick/issues/241) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+5. 🗣 Commented on [#227](https://github.com/falcosecurity/charts/issues/227) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 <!--END_SECTION:activity-->
 
 
