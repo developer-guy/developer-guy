@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#438](https://github.com/falcosecurity/falco-website/pull/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. 💪 Opened PR [#243](https://github.com/falcosecurity/falcosidekick/pull/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-4. 🗣 Commented on [#227](https://github.com/falcosecurity/charts/issues/227) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 🗣 Commented on [#227](https://github.com/falcosecurity/charts/issues/227) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+1. 🗣 Commented on [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+2. ❗️ Closed issue [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
+3. 💪 Opened PR [#438](https://github.com/falcosecurity/falco-website/pull/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+5. 💪 Opened PR [#243](https://github.com/falcosecurity/falcosidekick/pull/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
 
 
