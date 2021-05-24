@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/falcosecurity/falco-website/issues/433) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-3. ❗️ Closed issue [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
-4. 💪 Opened PR [#438](https://github.com/falcosecurity/falco-website/pull/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 🗣 Commented on [#401](https://github.com/alexellis/arkade/issues/401) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#407](https://github.com/alexellis/arkade/issues/407) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#407](https://github.com/alexellis/arkade/issues/407) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#433](https://github.com/falcosecurity/falco-website/issues/433) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 🗣 Commented on [#2](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library/issues/2) in [developer-guy/image-scanning-using-trivy-as-go-library](https://github.com/developer-guy/image-scanning-using-trivy-as-go-library)
 <!--END_SECTION:activity-->
 
 
