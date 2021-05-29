@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. 💪 Opened PR [#67](https://github.com/sigstore/sigstore/pull/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-5. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#7](https://github.com/developer-guy/awesome-falco/issues/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+2. 🎉 Merged PR [#7](https://github.com/developer-guy/awesome-falco/pull/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+3. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. 💪 Opened PR [#67](https://github.com/sigstore/sigstore/pull/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
 
 
