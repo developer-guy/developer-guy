@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/developer-guy/awesome-falco/issues/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
-2. 🎉 Merged PR [#7](https://github.com/developer-guy/awesome-falco/pull/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
-3. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-5. 💪 Opened PR [#67](https://github.com/sigstore/sigstore/pull/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 🗣 Commented on [#438](https://github.com/falcosecurity/falco-website/issues/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. 🗣 Commented on [#7](https://github.com/developer-guy/awesome-falco/issues/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+4. 🎉 Merged PR [#7](https://github.com/developer-guy/awesome-falco/pull/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+5. 🗣 Commented on [#67](https://github.com/sigstore/sigstore/issues/67) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
 
 
