@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#444](https://github.com/falcosecurity/falco-website/issues/444) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#438](https://github.com/falcosecurity/falco-website/issues/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. ❗️ Opened issue [#444](https://github.com/falcosecurity/falco-website/issues/444) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 3. 🗣 Commented on [#438](https://github.com/falcosecurity/falco-website/issues/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-5. 🗣 Commented on [#7](https://github.com/developer-guy/awesome-falco/issues/7) in [developer-guy/awesome-falco](https://github.com/developer-guy/awesome-falco)
+4. 🗣 Commented on [#438](https://github.com/falcosecurity/falco-website/issues/438) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 🗣 Commented on [#243](https://github.com/falcosecurity/falcosidekick/issues/243) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
 
 
