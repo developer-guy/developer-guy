@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#355](https://github.com/sigstore/cosign/issues/355) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#355](https://github.com/sigstore/cosign/pull/355) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#446](https://github.com/falcosecurity/falco-website/pull/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#444](https://github.com/falcosecurity/falco-website/issues/444) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 💪 Opened PR [#367](https://github.com/sigstore/cosign/pull/367) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#355](https://github.com/sigstore/cosign/issues/355) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#355](https://github.com/sigstore/cosign/pull/355) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#446](https://github.com/falcosecurity/falco-website/pull/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
