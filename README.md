@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#239](https://github.com/falcosecurity/charts/issues/239) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-3. 💪 Opened PR [#239](https://github.com/falcosecurity/charts/pull/239) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-4. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#367](https://github.com/sigstore/cosign/issues/367) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1056](https://github.com/google/go-containerregistry/pull/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+3. 🗣 Commented on [#239](https://github.com/falcosecurity/charts/issues/239) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+4. 💪 Opened PR [#239](https://github.com/falcosecurity/charts/pull/239) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+5. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
