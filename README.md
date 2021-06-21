@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1056](https://github.com/google/go-containerregistry/issues/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 🗣 Commented on [#446](https://github.com/falcosecurity/falco-website/issues/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 2. 🗣 Commented on [#1056](https://github.com/google/go-containerregistry/issues/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 💪 Opened PR [#1056](https://github.com/google/go-containerregistry/pull/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 🗣 Commented on [#239](https://github.com/falcosecurity/charts/issues/239) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+3. 🗣 Commented on [#1056](https://github.com/google/go-containerregistry/issues/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 💪 Opened PR [#1056](https://github.com/google/go-containerregistry/pull/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 🗣 Commented on [#453](https://github.com/falcosecurity/falco-website/issues/453) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
