@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/falcosecurity/falco-website/issues/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#253](https://github.com/falcosecurity/falcosidekick/issues/253) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 💪 Opened PR [#390](https://github.com/sigstore/cosign/pull/390) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#446](https://github.com/falcosecurity/falco-website/issues/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 3. 🗣 Commented on [#253](https://github.com/falcosecurity/falcosidekick/issues/253) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-4. 🗣 Commented on [#1056](https://github.com/google/go-containerregistry/issues/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#253](https://github.com/falcosecurity/falcosidekick/issues/253) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 5. 🗣 Commented on [#1056](https://github.com/google/go-containerregistry/issues/1056) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
