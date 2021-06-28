@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. 💪 Opened PR [#1408](https://github.com/open-policy-agent/gatekeeper/pull/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-3. 💪 Opened PR [#393](https://github.com/sigstore/cosign/pull/393) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#390](https://github.com/sigstore/cosign/pull/390) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#446](https://github.com/falcosecurity/falco-website/issues/446) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. ❌ Reopened PR [#1408](https://github.com/open-policy-agent/gatekeeper/pull/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+3. ❌ Closed PR [#1408](https://github.com/open-policy-agent/gatekeeper/pull/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+5. 💪 Opened PR [#1408](https://github.com/open-policy-agent/gatekeeper/pull/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 <!--END_SECTION:activity-->
 
 
