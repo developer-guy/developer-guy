@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/dlorenc/cosigned/issues/8) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
-2. 💪 Opened PR [#8](https://github.com/dlorenc/cosigned/pull/8) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
-3. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. 🗣 Commented on [#347](https://github.com/sigstore/cosign/issues/347) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#8](https://github.com/dlorenc/cosigned/issues/8) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
+3. 💪 Opened PR [#8](https://github.com/dlorenc/cosigned/pull/8) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
 4. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-5. ❌ Reopened PR [#1408](https://github.com/open-policy-agent/gatekeeper/pull/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+5. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 <!--END_SECTION:activity-->
 
 
