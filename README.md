@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#379](https://github.com/google/ko/pull/379) in [google/ko](https://github.com/google/ko)
-2. ❌ Closed PR [#462](https://github.com/falcosecurity/falco-website/pull/462) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-3. 🗣 Commented on [#462](https://github.com/falcosecurity/falco-website/issues/462) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 💪 Opened PR [#477](https://github.com/falcosecurity/falco-website/pull/477) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. ❌ Closed PR [#475](https://github.com/falcosecurity/falco-website/pull/475) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 🗣 Commented on [#379](https://github.com/google/ko/issues/379) in [google/ko](https://github.com/google/ko)
+2. 💪 Opened PR [#379](https://github.com/google/ko/pull/379) in [google/ko](https://github.com/google/ko)
+3. ❌ Closed PR [#462](https://github.com/falcosecurity/falco-website/pull/462) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#462](https://github.com/falcosecurity/falco-website/issues/462) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 💪 Opened PR [#477](https://github.com/falcosecurity/falco-website/pull/477) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
