@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#406](https://github.com/sigstore/cosign/pull/406) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#405](https://github.com/sigstore/cosign/pull/405) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#379](https://github.com/google/ko/issues/379) in [google/ko](https://github.com/google/ko)
-4. 💪 Opened PR [#379](https://github.com/google/ko/pull/379) in [google/ko](https://github.com/google/ko)
-5. ❌ Closed PR [#462](https://github.com/falcosecurity/falco-website/pull/462) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 💪 Opened PR [#12](https://github.com/sigstore/k8s-manifest-sigstore/pull/12) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
+2. ❗️ Opened issue [#11](https://github.com/sigstore/k8s-manifest-sigstore/issues/11) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
+3. 💪 Opened PR [#406](https://github.com/sigstore/cosign/pull/406) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#405](https://github.com/sigstore/cosign/pull/405) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#379](https://github.com/google/ko/issues/379) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
