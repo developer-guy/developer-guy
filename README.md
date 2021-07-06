@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#379](https://github.com/google/ko/pull/379) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#379](https://github.com/google/ko/issues/379) in [google/ko](https://github.com/google/ko)
-3. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. ❗️ Opened issue [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❌ Closed PR [#379](https://github.com/google/ko/pull/379) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#379](https://github.com/google/ko/issues/379) in [google/ko](https://github.com/google/ko)
 4. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#399](https://github.com/sigstore/cosign/issues/399) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#392](https://github.com/alexellis/arkade/issues/392) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
