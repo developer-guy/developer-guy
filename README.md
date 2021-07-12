@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1425](https://github.com/open-policy-agent/gatekeeper/issues/1425) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. ❗️ Closed issue [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#15](https://github.com/sigstore/k8s-manifest-sigstore/issues/15) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
-5. 🎉 Merged PR [#1](https://github.com/developer-guy/k8s-manifest-sigstore/pull/1) in [developer-guy/k8s-manifest-sigstore](https://github.com/developer-guy/k8s-manifest-sigstore)
+1. 💪 Opened PR [#2](https://github.com/cpanato/sigstore/pull/2) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+2. ❌ Closed PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+3. 💪 Opened PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+4. 🗣 Commented on [#1425](https://github.com/open-policy-agent/gatekeeper/issues/1425) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+5. ❗️ Closed issue [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
