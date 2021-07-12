@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/sigstore/k8s-manifest-sigstore/issues/15) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
-2. 🎉 Merged PR [#1](https://github.com/developer-guy/k8s-manifest-sigstore/pull/1) in [developer-guy/k8s-manifest-sigstore](https://github.com/developer-guy/k8s-manifest-sigstore)
-3. 🗣 Commented on [#1](https://github.com/developer-guy/k8s-manifest-sigstore/issues/1) in [developer-guy/k8s-manifest-sigstore](https://github.com/developer-guy/k8s-manifest-sigstore)
-4. 💪 Opened PR [#15](https://github.com/sigstore/k8s-manifest-sigstore/pull/15) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
-5. 🗣 Commented on [#1425](https://github.com/open-policy-agent/gatekeeper/issues/1425) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. ❗️ Closed issue [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#410](https://github.com/sigstore/cosign/issues/410) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#15](https://github.com/sigstore/k8s-manifest-sigstore/issues/15) in [sigstore/k8s-manifest-sigstore](https://github.com/sigstore/k8s-manifest-sigstore)
+4. 🎉 Merged PR [#1](https://github.com/developer-guy/k8s-manifest-sigstore/pull/1) in [developer-guy/k8s-manifest-sigstore](https://github.com/developer-guy/k8s-manifest-sigstore)
+5. 🗣 Commented on [#1](https://github.com/developer-guy/k8s-manifest-sigstore/issues/1) in [developer-guy/k8s-manifest-sigstore](https://github.com/developer-guy/k8s-manifest-sigstore)
 <!--END_SECTION:activity-->
 
 
