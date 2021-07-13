@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#430](https://github.com/sigstore/cosign/issues/430) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#674](https://github.com/rancher/k3d/issues/674) in [rancher/k3d](https://github.com/rancher/k3d)
-3. 💪 Opened PR [#11](https://github.com/dlorenc/cosigned/pull/11) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
-4. 💪 Opened PR [#10](https://github.com/dlorenc/cosigned/pull/10) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
-5. 💪 Opened PR [#2](https://github.com/cpanato/sigstore/pull/2) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+1. ❗️ Opened issue [#435](https://github.com/sigstore/cosign/issues/435) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#430](https://github.com/sigstore/cosign/issues/430) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#674](https://github.com/rancher/k3d/issues/674) in [rancher/k3d](https://github.com/rancher/k3d)
+4. 💪 Opened PR [#11](https://github.com/dlorenc/cosigned/pull/11) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
+5. 💪 Opened PR [#10](https://github.com/dlorenc/cosigned/pull/10) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
 <!--END_SECTION:activity-->
 
 
