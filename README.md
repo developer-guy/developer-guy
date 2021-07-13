@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/dlorenc/cosigned/pull/10) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
-2. 💪 Opened PR [#2](https://github.com/cpanato/sigstore/pull/2) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
-3. ❌ Closed PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
-4. 💪 Opened PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
-5. 🗣 Commented on [#1425](https://github.com/open-policy-agent/gatekeeper/issues/1425) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. 💪 Opened PR [#11](https://github.com/dlorenc/cosigned/pull/11) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
+2. 💪 Opened PR [#10](https://github.com/dlorenc/cosigned/pull/10) in [dlorenc/cosigned](https://github.com/dlorenc/cosigned)
+3. 💪 Opened PR [#2](https://github.com/cpanato/sigstore/pull/2) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+4. ❌ Closed PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
+5. 💪 Opened PR [#1](https://github.com/cpanato/sigstore/pull/1) in [cpanato/sigstore](https://github.com/cpanato/sigstore)
 <!--END_SECTION:activity-->
 
 
