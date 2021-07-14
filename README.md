@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#816](https://github.com/openfaas/faas-netes/pull/816) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-2. 💪 Opened PR [#456](https://github.com/alexellis/arkade/pull/456) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗️ Opened issue [#1485](https://github.com/romkatv/powerlevel10k/issues/1485) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-4. ❗️ Opened issue [#435](https://github.com/sigstore/cosign/issues/435) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#430](https://github.com/sigstore/cosign/issues/430) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#477](https://github.com/falcosecurity/falco-website/issues/477) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 💪 Opened PR [#816](https://github.com/openfaas/faas-netes/pull/816) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+3. 💪 Opened PR [#456](https://github.com/alexellis/arkade/pull/456) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#1485](https://github.com/romkatv/powerlevel10k/issues/1485) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+5. ❗️ Opened issue [#435](https://github.com/sigstore/cosign/issues/435) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
