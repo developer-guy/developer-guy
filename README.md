@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#430](https://github.com/sigstore/cosign/issues/430) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#459](https://github.com/alexellis/arkade/issues/459) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 💪 Opened PR [#438](https://github.com/sigstore/cosign/pull/438) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#485](https://github.com/falcosecurity/falco-website/pull/485) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+2. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#430](https://github.com/sigstore/cosign/issues/430) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#459](https://github.com/alexellis/arkade/issues/459) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 💪 Opened PR [#438](https://github.com/sigstore/cosign/pull/438) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
