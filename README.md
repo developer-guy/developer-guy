@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#473](https://github.com/sigstore/cosign/pull/473) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#104](https://github.com/sigstore/sigstore/pull/104) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. 💪 Opened PR [#7](https://github.com/kubewarden/go-policy-template/pull/7) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
-4. 💪 Opened PR [#485](https://github.com/falcosecurity/falco-website/pull/485) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 🗣 Commented on [#437](https://github.com/sigstore/cosign/issues/437) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#474](https://github.com/sigstore/cosign/pull/474) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#473](https://github.com/sigstore/cosign/pull/473) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#104](https://github.com/sigstore/sigstore/pull/104) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. 💪 Opened PR [#7](https://github.com/kubewarden/go-policy-template/pull/7) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
+5. 💪 Opened PR [#485](https://github.com/falcosecurity/falco-website/pull/485) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
