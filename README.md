@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/joshes/cosign/pull/1) in [joshes/cosign](https://github.com/joshes/cosign)
-2. 🗣 Commented on [#1408](https://github.com/open-policy-agent/gatekeeper/issues/1408) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-3. 🗣 Commented on [#1425](https://github.com/open-policy-agent/gatekeeper/issues/1425) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-4. 💪 Opened PR [#475](https://github.com/sigstore/cosign/pull/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#474](https://github.com/sigstore/cosign/pull/474) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#2](https://github.com/joshes/cosign/pull/2) in [joshes/cosign](https://github.com/joshes/cosign)
+2. ❌ Closed PR [#1](https://github.com/joshes/cosign/pull/1) in [joshes/cosign](https://github.com/joshes/cosign)
+3. ❌ Reopened PR [#1](https://github.com/joshes/cosign/pull/1) in [joshes/cosign](https://github.com/joshes/cosign)
+4. ❌ Closed PR [#1](https://github.com/joshes/cosign/pull/1) in [joshes/cosign](https://github.com/joshes/cosign)
+5. 💪 Opened PR [#1](https://github.com/joshes/cosign/pull/1) in [joshes/cosign](https://github.com/joshes/cosign)
 <!--END_SECTION:activity-->
 
 
