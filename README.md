@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#500](https://github.com/sigstore/cosign/pull/500) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1464](https://github.com/open-policy-agent/gatekeeper/issues/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-3. 💪 Opened PR [#1464](https://github.com/open-policy-agent/gatekeeper/pull/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-4. ❌ Closed PR [#2](https://github.com/joshes/cosign/pull/2) in [joshes/cosign](https://github.com/joshes/cosign)
-5. 💪 Opened PR [#2](https://github.com/joshes/cosign/pull/2) in [joshes/cosign](https://github.com/joshes/cosign)
+1. 💪 Opened PR [#504](https://github.com/sigstore/cosign/pull/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#500](https://github.com/sigstore/cosign/pull/500) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1464](https://github.com/open-policy-agent/gatekeeper/issues/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 💪 Opened PR [#1464](https://github.com/open-policy-agent/gatekeeper/pull/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+5. ❌ Closed PR [#2](https://github.com/joshes/cosign/pull/2) in [joshes/cosign](https://github.com/joshes/cosign)
 <!--END_SECTION:activity-->
 
 
