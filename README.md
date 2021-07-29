@@ -38,8 +38,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 1. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 2. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 3. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 💪 Opened PR [#117](https://github.com/in-toto/in-toto-golang/pull/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 🗣 Commented on [#504](https://github.com/sigstore/cosign/issues/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+5. 💪 Opened PR [#117](https://github.com/in-toto/in-toto-golang/pull/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
 
