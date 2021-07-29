@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/sigstore/cosign/issues/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#472](https://github.com/sigstore/cosign/issues/472) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#504](https://github.com/sigstore/cosign/pull/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#500](https://github.com/sigstore/cosign/pull/500) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1464](https://github.com/open-policy-agent/gatekeeper/issues/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. 💪 Opened PR [#117](https://github.com/in-toto/in-toto-golang/pull/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+2. 🗣 Commented on [#504](https://github.com/sigstore/cosign/issues/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#472](https://github.com/sigstore/cosign/issues/472) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#504](https://github.com/sigstore/cosign/pull/504) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#500](https://github.com/sigstore/cosign/pull/500) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
