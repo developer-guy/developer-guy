@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1464](https://github.com/open-policy-agent/gatekeeper/issues/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. 🗣 Commented on [#472](https://github.com/sigstore/cosign/issues/472) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-sbom/pull/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+2. 🗣 Commented on [#1](https://github.com/developer-guy/awesome-sbom/issues/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+3. 🗣 Commented on [#1464](https://github.com/open-policy-agent/gatekeeper/issues/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#472](https://github.com/sigstore/cosign/issues/472) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#117](https://github.com/in-toto/in-toto-golang/issues/117) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
