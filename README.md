@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
-2. ❗️ Opened issue [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#511](https://github.com/sigstore/cosign/pull/511) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-sbom/pull/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
-5. 🗣 Commented on [#1](https://github.com/developer-guy/awesome-sbom/issues/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+1. ❗️ Closed issue [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+2. 🗣 Commented on [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+3. ❗️ Opened issue [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#511](https://github.com/sigstore/cosign/pull/511) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-sbom/pull/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
