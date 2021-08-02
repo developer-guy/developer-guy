@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#490](https://github.com/alexellis/arkade/pull/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#242](https://github.com/civo/kubernetes-marketplace/issues/242) in [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace)
-3. ❗️ Opened issue [#489](https://github.com/alexellis/arkade/issues/489) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#488](https://github.com/alexellis/arkade/issues/488) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Closed issue [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+1. 💪 Opened PR [#98](https://github.com/open-policy-agent/gatekeeper-library/pull/98) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+2. 💪 Opened PR [#490](https://github.com/alexellis/arkade/pull/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#242](https://github.com/civo/kubernetes-marketplace/issues/242) in [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace)
+4. ❗️ Opened issue [#489](https://github.com/alexellis/arkade/issues/489) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❗️ Opened issue [#488](https://github.com/alexellis/arkade/issues/488) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
