@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
-2. 🗣 Commented on [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
-3. ❗️ Opened issue [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#511](https://github.com/sigstore/cosign/pull/511) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🎉 Merged PR [#1](https://github.com/developer-guy/awesome-sbom/pull/1) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+1. ❗️ Opened issue [#242](https://github.com/civo/kubernetes-marketplace/issues/242) in [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace)
+2. ❗️ Opened issue [#489](https://github.com/alexellis/arkade/issues/489) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#488](https://github.com/alexellis/arkade/issues/488) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Closed issue [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
+5. 🗣 Commented on [#2](https://github.com/developer-guy/awesome-sbom/issues/2) in [developer-guy/awesome-sbom](https://github.com/developer-guy/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
