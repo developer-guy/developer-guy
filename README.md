@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1097](https://github.com/google/go-containerregistry/pull/1097) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 💪 Opened PR [#98](https://github.com/open-policy-agent/gatekeeper-library/pull/98) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-3. 💪 Opened PR [#490](https://github.com/alexellis/arkade/pull/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#242](https://github.com/civo/kubernetes-marketplace/issues/242) in [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace)
-5. ❗️ Opened issue [#489](https://github.com/alexellis/arkade/issues/489) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. ❌ Closed PR [#1097](https://github.com/google/go-containerregistry/pull/1097) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#1097](https://github.com/google/go-containerregistry/issues/1097) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 💪 Opened PR [#1097](https://github.com/google/go-containerregistry/pull/1097) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 💪 Opened PR [#98](https://github.com/open-policy-agent/gatekeeper-library/pull/98) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+5. 💪 Opened PR [#490](https://github.com/alexellis/arkade/pull/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
