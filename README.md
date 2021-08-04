@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-2. 🗣 Commented on [#517](https://github.com/sigstore/cosign/issues/517) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#99](https://github.com/open-policy-agent/gatekeeper-library/issues/99) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-4. 💪 Opened PR [#517](https://github.com/sigstore/cosign/pull/517) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#279](https://github.com/sigstore/cosign/issues/279) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+3. 🗣 Commented on [#517](https://github.com/sigstore/cosign/issues/517) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#99](https://github.com/open-policy-agent/gatekeeper-library/issues/99) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+5. 💪 Opened PR [#517](https://github.com/sigstore/cosign/pull/517) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
