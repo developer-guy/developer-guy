@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#490](https://github.com/alexellis/arkade/issues/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❌ Closed PR [#1464](https://github.com/open-policy-agent/gatekeeper/pull/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-3. 🗣 Commented on [#279](https://github.com/sigstore/cosign/issues/279) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. 🗣 Commented on [#517](https://github.com/sigstore/cosign/issues/517) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1293](https://github.com/open-policy-agent/gatekeeper/issues/1293) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+2. 🗣 Commented on [#490](https://github.com/alexellis/arkade/issues/490) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❌ Closed PR [#1464](https://github.com/open-policy-agent/gatekeeper/pull/1464) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#279](https://github.com/sigstore/cosign/issues/279) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
 
 
