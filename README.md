@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-3. 💪 Opened PR [#182](https://github.com/tektoncd/chains/pull/182) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🗣 Commented on [#118](https://github.com/in-toto/in-toto-golang/issues/118) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 🗣 Commented on [#1293](https://github.com/open-policy-agent/gatekeeper/issues/1293) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. 🗣 Commented on [#1484](https://github.com/open-policy-agent/gatekeeper/issues/1484) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+2. ❗️ Opened issue [#1484](https://github.com/open-policy-agent/gatekeeper/issues/1484) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+3. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+5. 💪 Opened PR [#182](https://github.com/tektoncd/chains/pull/182) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
