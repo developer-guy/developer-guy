@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-2. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+1. 💪 Opened PR [#311](https://github.com/containerd/nerdctl/pull/311) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 3. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-4. 💪 Opened PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-5. 🗣 Commented on [#182](https://github.com/tektoncd/chains/issues/182) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+5. 💪 Opened PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 <!--END_SECTION:activity-->
 
 
