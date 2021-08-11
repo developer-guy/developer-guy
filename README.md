@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-2. 🗣 Commented on [#264](https://github.com/falcosecurity/falcosidekick/issues/264) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 3. 🗣 Commented on [#264](https://github.com/falcosecurity/falcosidekick/issues/264) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 4. 🗣 Commented on [#264](https://github.com/falcosecurity/falcosidekick/issues/264) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-5. 🎉 Merged PR [#3](https://github.com/awesomeSBOM/awesome-sbom/pull/3) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. 🗣 Commented on [#264](https://github.com/falcosecurity/falcosidekick/issues/264) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
 
 
