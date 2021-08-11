@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1491](https://github.com/open-policy-agent/gatekeeper/issues/1491) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-2. 💪 Opened PR [#1](https://github.com/walidshaari/katacoda-scenarios/pull/1) in [walidshaari/katacoda-scenarios](https://github.com/walidshaari/katacoda-scenarios)
-3. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
-4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. 🗣 Commented on [#264](https://github.com/falcosecurity/falcosidekick/issues/264) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 🗣 Commented on [#311](https://github.com/containerd/nerdctl/issues/311) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. ❗️ Opened issue [#1491](https://github.com/open-policy-agent/gatekeeper/issues/1491) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+3. 💪 Opened PR [#1](https://github.com/walidshaari/katacoda-scenarios/pull/1) in [walidshaari/katacoda-scenarios](https://github.com/walidshaari/katacoda-scenarios)
+4. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
 
 
