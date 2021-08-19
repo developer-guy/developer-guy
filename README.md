@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/falcosecurity/falco-website/issues/485) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#16](https://github.com/sigstore/cosign-installer/issues/16) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-3. 💪 Opened PR [#16](https://github.com/sigstore/cosign-installer/pull/16) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-4. 💪 Opened PR [#270](https://github.com/falcosecurity/charts/pull/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 💪 Opened PR [#15](https://github.com/sigstore/cosign-installer/pull/15) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+1. 🗣 Commented on [#551](https://github.com/sigstore/cosign/issues/551) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#485](https://github.com/falcosecurity/falco-website/issues/485) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+3. 🗣 Commented on [#16](https://github.com/sigstore/cosign-installer/issues/16) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+4. 💪 Opened PR [#16](https://github.com/sigstore/cosign-installer/pull/16) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 💪 Opened PR [#270](https://github.com/falcosecurity/charts/pull/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 <!--END_SECTION:activity-->
 
 
