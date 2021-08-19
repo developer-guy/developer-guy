@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/sigstore/cosign-installer/pull/15) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-2. 🗣 Commented on [#70](https://github.com/falcosecurity/evolution/issues/70) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
-3. 🗣 Commented on [#311](https://github.com/containerd/nerdctl/issues/311) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#269](https://github.com/falcosecurity/charts/pull/269) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 🗣 Commented on [#1484](https://github.com/open-policy-agent/gatekeeper/issues/1484) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+1. 💪 Opened PR [#270](https://github.com/falcosecurity/charts/pull/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+2. 💪 Opened PR [#15](https://github.com/sigstore/cosign-installer/pull/15) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+3. 🗣 Commented on [#70](https://github.com/falcosecurity/evolution/issues/70) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+4. 🗣 Commented on [#311](https://github.com/containerd/nerdctl/issues/311) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 💪 Opened PR [#269](https://github.com/falcosecurity/charts/pull/269) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 <!--END_SECTION:activity-->
 
 
