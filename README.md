@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-2. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. ❗️ Opened issue [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🗣 Commented on [#550](https://github.com/sigstore/cosign/issues/550) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#551](https://github.com/sigstore/cosign/issues/551) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#546](https://github.com/sigstore/cosign/issues/546) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2424](https://github.com/kubernetes-sigs/kind/issues/2424) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+3. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+4. ❗️ Opened issue [#2425](https://github.com/kubernetes-sigs/kind/issues/2425) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#550](https://github.com/sigstore/cosign/issues/550) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
