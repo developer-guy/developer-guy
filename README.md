@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2429](https://github.com/kubernetes-sigs/kind/issues/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+1. 🗣 Commented on [#270](https://github.com/falcosecurity/charts/issues/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 2. 🗣 Commented on [#2429](https://github.com/kubernetes-sigs/kind/issues/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. 💪 Opened PR [#2429](https://github.com/kubernetes-sigs/kind/pull/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
-5. ❗️ Opened issue [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
+3. 🗣 Commented on [#2429](https://github.com/kubernetes-sigs/kind/issues/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+4. 💪 Opened PR [#2429](https://github.com/kubernetes-sigs/kind/pull/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
