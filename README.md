@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-3. 🗣 Commented on [#270](https://github.com/falcosecurity/charts/issues/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-4. 🗣 Commented on [#2429](https://github.com/kubernetes-sigs/kind/issues/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+2. ❗️ Opened issue [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+4. 🗣 Commented on [#270](https://github.com/falcosecurity/charts/issues/270) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 5. 🗣 Commented on [#2429](https://github.com/kubernetes-sigs/kind/issues/2429) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
 
