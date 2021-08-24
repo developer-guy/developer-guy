@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2425](https://github.com/goreleaser/goreleaser/issues/2425) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗️ Opened issue [#2425](https://github.com/goreleaser/goreleaser/issues/2425) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+1. 💪 Opened PR [#16](https://github.com/gythialy/golang-cross/pull/16) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 🗣 Commented on [#2425](https://github.com/goreleaser/goreleaser/issues/2425) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#2425](https://github.com/goreleaser/goreleaser/issues/2425) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. ❗️ Opened issue [#2424](https://github.com/goreleaser/goreleaser/issues/2424) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
 
 
