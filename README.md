@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2431](https://github.com/goreleaser/goreleaser/issues/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#2431](https://github.com/goreleaser/goreleaser/pull/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#9](https://github.com/sigstore/helm-charts/issues/9) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-4. 🗣 Commented on [#550](https://github.com/sigstore/cosign/issues/550) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#2427](https://github.com/goreleaser/goreleaser/issues/2427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#582](https://github.com/sigstore/cosign/pull/582) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2431](https://github.com/goreleaser/goreleaser/issues/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 💪 Opened PR [#2431](https://github.com/goreleaser/goreleaser/pull/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#9](https://github.com/sigstore/helm-charts/issues/9) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. 🗣 Commented on [#550](https://github.com/sigstore/cosign/issues/550) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
