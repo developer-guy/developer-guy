@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2427](https://github.com/goreleaser/goreleaser/issues/2427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2431](https://github.com/goreleaser/goreleaser/issues/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#490](https://github.com/falcosecurity/falco-website/issues/490) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-4. 💪 Opened PR [#490](https://github.com/falcosecurity/falco-website/pull/490) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 🗣 Commented on [#2431](https://github.com/goreleaser/goreleaser/issues/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#2449](https://github.com/goreleaser/goreleaser/pull/2449) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2427](https://github.com/goreleaser/goreleaser/issues/2427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2431](https://github.com/goreleaser/goreleaser/issues/2431) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#490](https://github.com/falcosecurity/falco-website/issues/490) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+5. 💪 Opened PR [#490](https://github.com/falcosecurity/falco-website/pull/490) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
