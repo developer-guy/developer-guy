@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2457](https://github.com/goreleaser/goreleaser/issues/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#2457](https://github.com/goreleaser/goreleaser/pull/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#2456](https://github.com/goreleaser/goreleaser/issues/2456) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#2456](https://github.com/goreleaser/goreleaser/issues/2456) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#2456](https://github.com/goreleaser/goreleaser/issues/2456) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. ❌ Reopened PR [#2457](https://github.com/goreleaser/goreleaser/pull/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❌ Closed PR [#2457](https://github.com/goreleaser/goreleaser/pull/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2457](https://github.com/goreleaser/goreleaser/issues/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#2457](https://github.com/goreleaser/goreleaser/pull/2457) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#2456](https://github.com/goreleaser/goreleaser/issues/2456) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
