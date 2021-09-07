@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#514](https://github.com/alexellis/arkade/pull/514) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#629](https://github.com/sigstore/cosign/pull/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❌ Closed PR [#1](https://github.com/walidshaari/katacoda-scenarios/pull/1) in [walidshaari/katacoda-scenarios](https://github.com/walidshaari/katacoda-scenarios)
-5. 🗣 Commented on [#2458](https://github.com/goreleaser/goreleaser/issues/2458) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#629](https://github.com/sigstore/cosign/issues/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#514](https://github.com/alexellis/arkade/pull/514) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#629](https://github.com/sigstore/cosign/pull/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❌ Closed PR [#1](https://github.com/walidshaari/katacoda-scenarios/pull/1) in [walidshaari/katacoda-scenarios](https://github.com/walidshaari/katacoda-scenarios)
 <!--END_SECTION:activity-->
 
 
