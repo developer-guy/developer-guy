@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#629](https://github.com/sigstore/cosign/issues/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#514](https://github.com/alexellis/arkade/pull/514) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 💪 Opened PR [#629](https://github.com/sigstore/cosign/pull/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2463](https://github.com/goreleaser/goreleaser/issues/2463) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❌ Closed PR [#1](https://github.com/walidshaari/katacoda-scenarios/pull/1) in [walidshaari/katacoda-scenarios](https://github.com/walidshaari/katacoda-scenarios)
+1. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#629](https://github.com/sigstore/cosign/issues/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#514](https://github.com/alexellis/arkade/pull/514) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 💪 Opened PR [#629](https://github.com/sigstore/cosign/pull/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
