@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#517](https://github.com/alexellis/arkade/pull/517) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#641](https://github.com/sigstore/cosign/pull/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#517](https://github.com/alexellis/arkade/pull/517) in [alexellis/arkade](https://github.com/alexellis/arkade)
 3. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#629](https://github.com/sigstore/cosign/issues/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#514](https://github.com/alexellis/arkade/pull/514) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#629](https://github.com/sigstore/cosign/issues/629) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
