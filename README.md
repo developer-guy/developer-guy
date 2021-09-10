@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
-2. ❗️ Opened issue [#352](https://github.com/containerd/nerdctl/issues/352) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 🗣 Commented on [#352](https://github.com/containerd/nerdctl/issues/352) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
+3. ❗️ Opened issue [#352](https://github.com/containerd/nerdctl/issues/352) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 4. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 💪 Opened PR [#641](https://github.com/sigstore/cosign/pull/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
