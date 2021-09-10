@@ -36,9 +36,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 💪 Opened PR [#641](https://github.com/sigstore/cosign/pull/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#517](https://github.com/alexellis/arkade/pull/517) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2470](https://github.com/spiffe/spire/issues/2470) in [spiffe/spire](https://github.com/spiffe/spire)
+3. 💪 Opened PR [#641](https://github.com/sigstore/cosign/pull/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#517](https://github.com/alexellis/arkade/pull/517) in [alexellis/arkade](https://github.com/alexellis/arkade)
 5. 🗣 Commented on [#512](https://github.com/sigstore/cosign/issues/512) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
