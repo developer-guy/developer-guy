@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#648](https://github.com/sigstore/cosign/issues/648) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#2484](https://github.com/goreleaser/goreleaser/issues/2484) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#648](https://github.com/sigstore/cosign/issues/648) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#2485](https://github.com/goreleaser/goreleaser/pull/2485) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#20](https://github.com/gythialy/golang-cross/issues/20) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#2485](https://github.com/goreleaser/goreleaser/pull/2485) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
