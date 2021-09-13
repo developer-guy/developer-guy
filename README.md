@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 💪 Opened PR [#2515](https://github.com/spiffe/spire/pull/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#352](https://github.com/containerd/nerdctl/issues/352) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 🗣 Commented on [#3283](https://github.com/docker/cli/issues/3283) in [docker/cli](https://github.com/docker/cli)
+1. 🗣 Commented on [#20](https://github.com/gythialy/golang-cross/issues/20) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 💪 Opened PR [#20](https://github.com/gythialy/golang-cross/pull/20) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 💪 Opened PR [#2515](https://github.com/spiffe/spire/pull/2515) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
