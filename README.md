@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2486](https://github.com/goreleaser/goreleaser/issues/2486) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2485](https://github.com/goreleaser/goreleaser/issues/2485) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#2491](https://github.com/goreleaser/goreleaser/issues/2491) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2491](https://github.com/goreleaser/goreleaser/issues/2491) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 3. 🗣 Commented on [#2486](https://github.com/goreleaser/goreleaser/issues/2486) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🎉 Merged PR [#13](https://github.com/Trendyol/kink/pull/13) in [Trendyol/kink](https://github.com/Trendyol/kink)
-5. 🎉 Merged PR [#14](https://github.com/Trendyol/kink/pull/14) in [Trendyol/kink](https://github.com/Trendyol/kink)
+4. 🗣 Commented on [#2485](https://github.com/goreleaser/goreleaser/issues/2485) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#2486](https://github.com/goreleaser/goreleaser/issues/2486) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
