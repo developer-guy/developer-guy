@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
-2. ❗️ Opened issue [#717](https://github.com/kubernetes-sigs/krew/issues/717) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-3. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Closed issue [#2454](https://github.com/goreleaser/goreleaser/issues/2454) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#2454](https://github.com/goreleaser/goreleaser/issues/2454) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#26](https://github.com/Trendyol/kink/issues/26) in [Trendyol/kink](https://github.com/Trendyol/kink)
+2. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
+4. ❗️ Opened issue [#717](https://github.com/kubernetes-sigs/krew/issues/717) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+5. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
