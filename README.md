@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗️ Opened issue [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#26](https://github.com/Trendyol/kink/issues/26) in [Trendyol/kink](https://github.com/Trendyol/kink)
-4. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
+1. 💪 Opened PR [#11](https://github.com/GoTurkiye/training/pull/11) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+2. 🗣 Commented on [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#26](https://github.com/Trendyol/kink/issues/26) in [Trendyol/kink](https://github.com/Trendyol/kink)
+5. 🗣 Commented on [#641](https://github.com/sigstore/cosign/issues/641) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
