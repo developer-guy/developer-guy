@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#717](https://github.com/kubernetes-sigs/krew/issues/717) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-2. 🎉 Merged PR [#11](https://github.com/GoTurkiye/training/pull/11) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-3. 💪 Opened PR [#11](https://github.com/GoTurkiye/training/pull/11) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-4. 🗣 Commented on [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
+2. 🗣 Commented on [#717](https://github.com/kubernetes-sigs/krew/issues/717) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+3. 🎉 Merged PR [#11](https://github.com/GoTurkiye/training/pull/11) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+4. 💪 Opened PR [#11](https://github.com/GoTurkiye/training/pull/11) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+5. 🗣 Commented on [#2497](https://github.com/goreleaser/goreleaser/issues/2497) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
