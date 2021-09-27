@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 2. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗️ Opened issue [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 💪 Opened PR [#26](https://github.com/gythialy/golang-cross/pull/26) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 🗣 Commented on [#24](https://github.com/gythialy/golang-cross/issues/24) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 💪 Opened PR [#26](https://github.com/gythialy/golang-cross/pull/26) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
