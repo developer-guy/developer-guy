@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#719](https://github.com/kubernetes-sigs/krew/pull/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-2. ❗️ Opened issue [#778](https://github.com/docker/buildx/issues/778) in [docker/buildx](https://github.com/docker/buildx)
-3. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 🗣 Commented on [#717](https://github.com/kubernetes-sigs/krew/issues/717) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+1. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+2. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+3. 💪 Opened PR [#719](https://github.com/kubernetes-sigs/krew/pull/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+4. ❗️ Opened issue [#778](https://github.com/docker/buildx/issues/778) in [docker/buildx](https://github.com/docker/buildx)
+5. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
