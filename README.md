@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#475](https://github.com/sigstore/cosign/issues/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 3. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 💪 Opened PR [#26](https://github.com/gythialy/golang-cross/pull/26) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❗️ Opened issue [#138](https://github.com/loft-sh/vcluster/issues/138) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
