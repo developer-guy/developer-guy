@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+1. ❗️ Opened issue [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 2. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
 3. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-4. 💪 Opened PR [#719](https://github.com/kubernetes-sigs/krew/pull/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-5. ❗️ Opened issue [#778](https://github.com/docker/buildx/issues/778) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+5. 💪 Opened PR [#719](https://github.com/kubernetes-sigs/krew/pull/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
 <!--END_SECTION:activity-->
 
 
