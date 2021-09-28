@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#645](https://github.com/sigstore/cosign/issues/645) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#27](https://github.com/gythialy/golang-cross/issues/27) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#475](https://github.com/sigstore/cosign/issues/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
+1. 💪 Opened PR [#11](https://github.com/che-incubator/che-auth-playground/pull/11) in [che-incubator/che-auth-playground](https://github.com/che-incubator/che-auth-playground)
+2. 🗣 Commented on [#645](https://github.com/sigstore/cosign/issues/645) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. 🗣 Commented on [#27](https://github.com/gythialy/golang-cross/issues/27) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#475](https://github.com/sigstore/cosign/issues/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
