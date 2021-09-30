@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 🗣 Commented on [#136](https://github.com/in-toto/in-toto-golang/issues/136) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#820](https://github.com/sigstore/cosign/issues/820) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#29](https://github.com/gythialy/golang-cross/issues/29) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 💪 Opened PR [#29](https://github.com/gythialy/golang-cross/pull/29) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🎉 Merged PR [#27](https://github.com/Trendyol/kink/pull/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
+2. 🗣 Commented on [#27](https://github.com/Trendyol/kink/issues/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
+3. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#136](https://github.com/in-toto/in-toto-golang/issues/136) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+5. 🗣 Commented on [#820](https://github.com/sigstore/cosign/issues/820) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
