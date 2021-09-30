@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/Trendyol/kink/pull/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
-2. 🗣 Commented on [#27](https://github.com/Trendyol/kink/issues/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
-3. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#136](https://github.com/in-toto/in-toto-golang/issues/136) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 🗣 Commented on [#820](https://github.com/sigstore/cosign/issues/820) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🎉 Merged PR [#15](https://github.com/GoTurkiye/training/pull/15) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+2. 💪 Opened PR [#15](https://github.com/GoTurkiye/training/pull/15) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+3. 🎉 Merged PR [#27](https://github.com/Trendyol/kink/pull/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
+4. 🗣 Commented on [#27](https://github.com/Trendyol/kink/issues/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
+5. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
