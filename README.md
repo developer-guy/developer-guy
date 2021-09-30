@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/GoTurkiye/training/pull/15) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-2. 💪 Opened PR [#15](https://github.com/GoTurkiye/training/pull/15) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-3. 🎉 Merged PR [#27](https://github.com/Trendyol/kink/pull/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
-4. 🗣 Commented on [#27](https://github.com/Trendyol/kink/issues/27) in [Trendyol/kink](https://github.com/Trendyol/kink)
-5. 🗣 Commented on [#2515](https://github.com/spiffe/spire/issues/2515) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 🎉 Merged PR [#18](https://github.com/GoTurkiye/training/pull/18) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+2. 💪 Opened PR [#18](https://github.com/GoTurkiye/training/pull/18) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+3. 🎉 Merged PR [#17](https://github.com/GoTurkiye/training/pull/17) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+4. 💪 Opened PR [#17](https://github.com/GoTurkiye/training/pull/17) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+5. 🎉 Merged PR [#16](https://github.com/GoTurkiye/training/pull/16) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
 <!--END_SECTION:activity-->
 
 
