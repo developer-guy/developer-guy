@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/in-toto/in-toto-golang/pull/146) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-2. 💪 Opened PR [#145](https://github.com/in-toto/in-toto-golang/pull/145) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. ❌ Closed PR [#475](https://github.com/sigstore/cosign/pull/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#475](https://github.com/sigstore/cosign/issues/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🎉 Merged PR [#19](https://github.com/GoTurkiye/training/pull/19) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+1. 🗣 Commented on [#146](https://github.com/in-toto/in-toto-golang/issues/146) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+2. 🗣 Commented on [#145](https://github.com/in-toto/in-toto-golang/issues/145) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+3. 💪 Opened PR [#146](https://github.com/in-toto/in-toto-golang/pull/146) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. 💪 Opened PR [#145](https://github.com/in-toto/in-toto-golang/pull/145) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+5. ❌ Closed PR [#475](https://github.com/sigstore/cosign/pull/475) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
