@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/onelittlenightmusic/kubernetes-graphql/issues/6) in [onelittlenightmusic/kubernetes-graphql](https://github.com/onelittlenightmusic/kubernetes-graphql)
-2. 🗣 Commented on [#143](https://github.com/in-toto/in-toto-golang/issues/143) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#143](https://github.com/in-toto/in-toto-golang/issues/143) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. ❗️ Opened issue [#837](https://github.com/sigstore/cosign/issues/837) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#836](https://github.com/sigstore/cosign/pull/836) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🎉 Merged PR [#19](https://github.com/GoTurkiye/training/pull/19) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+2. 💪 Opened PR [#19](https://github.com/GoTurkiye/training/pull/19) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+3. 🗣 Commented on [#6](https://github.com/onelittlenightmusic/kubernetes-graphql/issues/6) in [onelittlenightmusic/kubernetes-graphql](https://github.com/onelittlenightmusic/kubernetes-graphql)
+4. 🗣 Commented on [#143](https://github.com/in-toto/in-toto-golang/issues/143) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+5. 🗣 Commented on [#143](https://github.com/in-toto/in-toto-golang/issues/143) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
 
