@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2554](https://github.com/goreleaser/goreleaser/issues/2554) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-3. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-4. 🗣 Commented on [#146](https://github.com/in-toto/in-toto-golang/issues/146) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. 🗣 Commented on [#837](https://github.com/sigstore/cosign/issues/837) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#2554](https://github.com/goreleaser/goreleaser/issues/2554) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+4. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 5. 🗣 Commented on [#146](https://github.com/in-toto/in-toto-golang/issues/146) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
