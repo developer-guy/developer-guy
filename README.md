@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign/pull/1) in [developer-guy/cosign](https://github.com/developer-guy/cosign)
-2. 🗣 Commented on [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#177](https://github.com/vmware-tanzu/carvel-kbld/issues/177) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
-4. ❗️ Opened issue [#886](https://github.com/shipwright-io/build/issues/886) in [shipwright-io/build](https://github.com/shipwright-io/build)
-5. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+2. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+3. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign/pull/1) in [developer-guy/cosign](https://github.com/developer-guy/cosign)
+4. 🗣 Commented on [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Opened issue [#177](https://github.com/vmware-tanzu/carvel-kbld/issues/177) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
 <!--END_SECTION:activity-->
 
 
