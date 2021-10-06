@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-2. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-3. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign/pull/1) in [developer-guy/cosign](https://github.com/developer-guy/cosign)
-4. 🗣 Commented on [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#177](https://github.com/vmware-tanzu/carvel-kbld/issues/177) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
+1. 💪 Opened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+3. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+4. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign/pull/1) in [developer-guy/cosign](https://github.com/developer-guy/cosign)
+5. 🗣 Commented on [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
