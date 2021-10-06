@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#177](https://github.com/vmware-tanzu/carvel-kbld/issues/177) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
-2. ❗️ Opened issue [#886](https://github.com/shipwright-io/build/issues/886) in [shipwright-io/build](https://github.com/shipwright-io/build)
-3. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. 🗣 Commented on [#2555](https://github.com/goreleaser/goreleaser/issues/2555) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❗️ Opened issue [#177](https://github.com/vmware-tanzu/carvel-kbld/issues/177) in [vmware-tanzu/carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld)
+3. ❗️ Opened issue [#886](https://github.com/shipwright-io/build/issues/886) in [shipwright-io/build](https://github.com/shipwright-io/build)
 4. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 💪 Opened PR [#30](https://github.com/gythialy/golang-cross/pull/30) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#129](https://github.com/in-toto/in-toto-golang/issues/129) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
 
