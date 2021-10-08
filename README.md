@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/gythialy/golang-cross/pull/32) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-2. 💪 Opened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-4. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-5. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign/pull/1) in [developer-guy/cosign](https://github.com/developer-guy/cosign)
+1. 💪 Opened PR [#307](https://github.com/lima-vm/lima/pull/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. 💪 Opened PR [#32](https://github.com/gythialy/golang-cross/pull/32) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 💪 Opened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+5. 🗣 Commented on [#12173](https://github.com/kubernetes/minikube/issues/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 <!--END_SECTION:activity-->
 
 
