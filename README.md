@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/lima-vm/lima/issues/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. 💪 Opened PR [#307](https://github.com/lima-vm/lima/pull/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 💪 Opened PR [#32](https://github.com/gythialy/golang-cross/pull/32) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 💪 Opened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❌ Closed PR [#12173](https://github.com/kubernetes/minikube/pull/12173) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+1. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#307](https://github.com/lima-vm/lima/issues/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. 💪 Opened PR [#307](https://github.com/lima-vm/lima/pull/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 💪 Opened PR [#32](https://github.com/gythialy/golang-cross/pull/32) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 💪 Opened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
