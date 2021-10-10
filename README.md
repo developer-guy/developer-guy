@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#149](https://github.com/in-toto/in-toto-golang/issues/149) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#307](https://github.com/lima-vm/lima/issues/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 💪 Opened PR [#307](https://github.com/lima-vm/lima/pull/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 🗣 Commented on [#848](https://github.com/sigstore/cosign/issues/848) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#149](https://github.com/in-toto/in-toto-golang/issues/149) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#307](https://github.com/lima-vm/lima/issues/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
