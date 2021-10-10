@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#848](https://github.com/sigstore/cosign/issues/848) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#149](https://github.com/in-toto/in-toto-golang/issues/149) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#307](https://github.com/lima-vm/lima/issues/307) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 🗣 Commented on [#309](https://github.com/ossf/scorecard/issues/309) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. ❗️ Opened issue [#423](https://github.com/containerd/nerdctl/issues/423) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#848](https://github.com/sigstore/cosign/issues/848) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
