@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#862](https://github.com/sigstore/cosign/issues/862) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1051](https://github.com/ossf/scorecard/issues/1051) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#1051](https://github.com/ossf/scorecard/issues/1051) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 💪 Opened PR [#150](https://github.com/in-toto/in-toto-golang/pull/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-5. 🗣 Commented on [#423](https://github.com/containerd/nerdctl/issues/423) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 💪 Opened PR [#871](https://github.com/sigstore/cosign/pull/871) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#423](https://github.com/containerd/nerdctl/issues/423) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. 🗣 Commented on [#862](https://github.com/sigstore/cosign/issues/862) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1051](https://github.com/ossf/scorecard/issues/1051) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 🗣 Commented on [#1051](https://github.com/ossf/scorecard/issues/1051) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
