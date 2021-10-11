@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/in-toto/in-toto-golang/issues/148) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-2. ❌ Closed PR [#150](https://github.com/in-toto/in-toto-golang/pull/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-3. 🗣 Commented on [#150](https://github.com/in-toto/in-toto-golang/issues/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 🗣 Commented on [#150](https://github.com/in-toto/in-toto-golang/issues/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+1. 🗣 Commented on [#298](https://github.com/ossf/scorecard/issues/298) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#148](https://github.com/in-toto/in-toto-golang/issues/148) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. ❌ Closed PR [#150](https://github.com/in-toto/in-toto-golang/pull/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 5. 🗣 Commented on [#150](https://github.com/in-toto/in-toto-golang/issues/150) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
