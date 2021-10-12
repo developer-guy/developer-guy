@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#886](https://github.com/sigstore/cosign/pull/886) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#884](https://github.com/sigstore/cosign/issues/884) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#885](https://github.com/sigstore/cosign/pull/885) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#1129](https://github.com/kubernetes/kubectl/issues/1129) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
-5. 🗣 Commented on [#878](https://github.com/sigstore/cosign/issues/878) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#1127](https://github.com/ossf/scorecard/pull/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 💪 Opened PR [#886](https://github.com/sigstore/cosign/pull/886) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
