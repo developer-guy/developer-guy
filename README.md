@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 💪 Opened PR [#1127](https://github.com/ossf/scorecard/pull/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 💪 Opened PR [#886](https://github.com/sigstore/cosign/pull/886) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#888](https://github.com/sigstore/cosign/issues/888) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#885](https://github.com/sigstore/cosign/issues/885) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
