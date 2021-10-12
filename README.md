@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#878](https://github.com/sigstore/cosign/issues/878) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#877](https://github.com/sigstore/cosign/issues/877) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#877](https://github.com/sigstore/cosign/pull/877) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#298](https://github.com/ossf/scorecard/issues/298) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. ❗️ Opened issue [#1129](https://github.com/kubernetes/kubectl/issues/1129) in [kubernetes/kubectl](https://github.com/kubernetes/kubectl)
+2. 🗣 Commented on [#878](https://github.com/sigstore/cosign/issues/878) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#877](https://github.com/sigstore/cosign/issues/877) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#877](https://github.com/sigstore/cosign/pull/877) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
