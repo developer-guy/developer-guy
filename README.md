@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-2. 🗣 Commented on [#885](https://github.com/sigstore/cosign/issues/885) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#889](https://github.com/sigstore/cosign/issues/889) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 💪 Opened PR [#38](https://github.com/gythialy/golang-cross/pull/38) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#678](https://github.com/sigstore/cosign/issues/678) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
+3. 🗣 Commented on [#885](https://github.com/sigstore/cosign/issues/885) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#889](https://github.com/sigstore/cosign/issues/889) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1126](https://github.com/ossf/scorecard/issues/1126) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
