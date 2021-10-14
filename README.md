@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+1. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
 2. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-3. ❗️ Opened issue [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 💪 Opened PR [#149](https://github.com/loft-sh/vcluster/pull/149) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#542](https://github.com/alexellis/arkade/issues/542) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. ❗️ Opened issue [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 💪 Opened PR [#149](https://github.com/loft-sh/vcluster/pull/149) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
