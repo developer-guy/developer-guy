@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#889](https://github.com/sigstore/cosign/issues/889) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#678](https://github.com/sigstore/cosign/issues/678) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
-4. 🗣 Commented on [#885](https://github.com/sigstore/cosign/issues/885) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#540](https://github.com/alexellis/arkade/issues/540) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#479](https://github.com/alexellis/arkade/issues/479) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#112](https://github.com/falcosecurity/evolution/issues/112) in [falcosecurity/evolution](https://github.com/falcosecurity/evolution)
+4. 🗣 Commented on [#719](https://github.com/kubernetes-sigs/krew/issues/719) in [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew)
 5. 🗣 Commented on [#889](https://github.com/sigstore/cosign/issues/889) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
