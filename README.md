@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#884](https://github.com/sigstore/cosign/issues/884) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#472](https://github.com/alexellis/arkade/issues/472) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#472](https://github.com/alexellis/arkade/issues/472) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#540](https://github.com/alexellis/arkade/issues/540) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#479](https://github.com/alexellis/arkade/issues/479) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#890](https://github.com/sigstore/cosign/issues/890) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#541](https://github.com/alexellis/arkade/issues/541) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#884](https://github.com/sigstore/cosign/issues/884) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#472](https://github.com/alexellis/arkade/issues/472) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#472](https://github.com/alexellis/arkade/issues/472) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
