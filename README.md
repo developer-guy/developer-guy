@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#69](https://github.com/sigstore/sigstore-website/pull/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-3. 💪 Opened PR [#900](https://github.com/sigstore/cosign/pull/900) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#526](https://github.com/alexellis/arkade/issues/526) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#69](https://github.com/sigstore/sigstore-website/issues/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+2. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#69](https://github.com/sigstore/sigstore-website/pull/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+4. 💪 Opened PR [#900](https://github.com/sigstore/cosign/pull/900) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
