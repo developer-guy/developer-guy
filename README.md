@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#69](https://github.com/sigstore/sigstore-website/issues/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-3. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#69](https://github.com/sigstore/sigstore-website/pull/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-5. 💪 Opened PR [#900](https://github.com/sigstore/cosign/pull/900) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#366](https://github.com/GoogleContainerTools/container-diff/issues/366) in [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
+2. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. ❗️ Opened issue [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#69](https://github.com/sigstore/sigstore-website/issues/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+5. 🗣 Commented on [#872](https://github.com/sigstore/cosign/issues/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
