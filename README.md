@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#148](https://github.com/in-toto/in-toto-golang/issues/148) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-2. 🗣 Commented on [#69](https://github.com/sigstore/sigstore-website/issues/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-3. ❗️ Opened issue [#366](https://github.com/GoogleContainerTools/container-diff/issues/366) in [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
-4. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ❗️ Opened issue [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#151](https://github.com/in-toto/in-toto-golang/pull/151) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+3. 🗣 Commented on [#148](https://github.com/in-toto/in-toto-golang/issues/148) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
+4. 🗣 Commented on [#69](https://github.com/sigstore/sigstore-website/issues/69) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+5. ❗️ Opened issue [#366](https://github.com/GoogleContainerTools/container-diff/issues/366) in [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
 <!--END_SECTION:activity-->
 
 
