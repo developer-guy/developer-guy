@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/slsa-framework/slsa/issues/179) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-2. 💪 Opened PR [#3](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter/pull/3) in [OpenSecureSupplyChain/tkn-intoto-formatter](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter)
-3. ❗️ Opened issue [#154](https://github.com/loft-sh/vcluster/issues/154) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. ❗️ Opened issue [#2301](https://github.com/dexidp/dex/issues/2301) in [dexidp/dex](https://github.com/dexidp/dex)
-5. 🗣 Commented on [#153](https://github.com/loft-sh/vcluster/issues/153) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+1. 🗣 Commented on [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#179](https://github.com/slsa-framework/slsa/issues/179) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
+3. 💪 Opened PR [#3](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter/pull/3) in [OpenSecureSupplyChain/tkn-intoto-formatter](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter)
+4. ❗️ Opened issue [#154](https://github.com/loft-sh/vcluster/issues/154) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. ❗️ Opened issue [#2301](https://github.com/dexidp/dex/issues/2301) in [dexidp/dex](https://github.com/dexidp/dex)
 <!--END_SECTION:activity-->
 
 
