@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#154](https://github.com/loft-sh/vcluster/issues/154) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. ❗️ Opened issue [#2301](https://github.com/dexidp/dex/issues/2301) in [dexidp/dex](https://github.com/dexidp/dex)
-3. 🗣 Commented on [#153](https://github.com/loft-sh/vcluster/issues/153) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. ❗️ Opened issue [#153](https://github.com/loft-sh/vcluster/issues/153) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#914](https://github.com/sigstore/cosign/issues/914) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#3](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter/pull/3) in [OpenSecureSupplyChain/tkn-intoto-formatter](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter)
+2. ❗️ Opened issue [#154](https://github.com/loft-sh/vcluster/issues/154) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+3. ❗️ Opened issue [#2301](https://github.com/dexidp/dex/issues/2301) in [dexidp/dex](https://github.com/dexidp/dex)
+4. 🗣 Commented on [#153](https://github.com/loft-sh/vcluster/issues/153) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. ❗️ Opened issue [#153](https://github.com/loft-sh/vcluster/issues/153) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
