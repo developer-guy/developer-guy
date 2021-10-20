@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#179](https://github.com/slsa-framework/slsa/issues/179) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-4. 💪 Opened PR [#3](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter/pull/3) in [OpenSecureSupplyChain/tkn-intoto-formatter](https://github.com/OpenSecureSupplyChain/tkn-intoto-formatter)
-5. ❗️ Opened issue [#154](https://github.com/loft-sh/vcluster/issues/154) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+1. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
+2. 💪 Opened PR [#34](https://github.com/abiosoft/colima/pull/34) in [abiosoft/colima](https://github.com/abiosoft/colima)
+3. 🗣 Commented on [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#2585](https://github.com/goreleaser/goreleaser/issues/2585) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#179](https://github.com/slsa-framework/slsa/issues/179) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
 <!--END_SECTION:activity-->
 
 
