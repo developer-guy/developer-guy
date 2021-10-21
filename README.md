@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2597](https://github.com/goreleaser/goreleaser/issues/2597) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#34](https://github.com/abiosoft/colima/issues/34) in [abiosoft/colima](https://github.com/abiosoft/colima)
-3. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
+1. ❗️ Opened issue [#811](https://github.com/docker/buildx/issues/811) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#2597](https://github.com/goreleaser/goreleaser/issues/2597) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#34](https://github.com/abiosoft/colima/issues/34) in [abiosoft/colima](https://github.com/abiosoft/colima)
 4. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
-5. 💪 Opened PR [#34](https://github.com/abiosoft/colima/pull/34) in [abiosoft/colima](https://github.com/abiosoft/colima)
+5. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
 <!--END_SECTION:activity-->
 
 
