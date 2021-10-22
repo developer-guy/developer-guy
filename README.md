@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
-2. ❗️ Opened issue [#474](https://github.com/anchore/grype/issues/474) in [anchore/grype](https://github.com/anchore/grype)
-3. 💪 Opened PR [#102](https://github.com/opencontainers/tob/pull/102) in [opencontainers/tob](https://github.com/opencontainers/tob)
-4. 💪 Opened PR [#941](https://github.com/sigstore/cosign/pull/941) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#940](https://github.com/sigstore/cosign/issues/940) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. ❗️ Opened issue [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+3. ❗️ Opened issue [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
+4. ❗️ Opened issue [#474](https://github.com/anchore/grype/issues/474) in [anchore/grype](https://github.com/anchore/grype)
+5. 💪 Opened PR [#102](https://github.com/opencontainers/tob/pull/102) in [opencontainers/tob](https://github.com/opencontainers/tob)
 <!--END_SECTION:activity-->
 
 
