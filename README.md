@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. ❗️ Opened issue [#274](https://github.com/docker/roadmap/issues/274) in [docker/roadmap](https://github.com/docker/roadmap)
-3. ❌ Closed PR [#38](https://github.com/gythialy/golang-cross/pull/38) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#38](https://github.com/gythialy/golang-cross/issues/38) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 💪 Opened PR [#72](https://github.com/sigstore/sigstore-website/pull/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+1. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+2. ❗️ Opened issue [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+3. ❗️ Opened issue [#274](https://github.com/docker/roadmap/issues/274) in [docker/roadmap](https://github.com/docker/roadmap)
+4. ❌ Closed PR [#38](https://github.com/gythialy/golang-cross/pull/38) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#38](https://github.com/gythialy/golang-cross/issues/38) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
