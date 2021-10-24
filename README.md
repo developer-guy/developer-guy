@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-2. 💪 Opened PR [#465](https://github.com/sigstore/rekor/pull/465) in [sigstore/rekor](https://github.com/sigstore/rekor)
-3. 🗣 Commented on [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
-4. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-5. 🗣 Commented on [#946](https://github.com/sigstore/cosign/issues/946) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#946](https://github.com/sigstore/cosign/issues/946) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+3. 💪 Opened PR [#465](https://github.com/sigstore/rekor/pull/465) in [sigstore/rekor](https://github.com/sigstore/rekor)
+4. 🗣 Commented on [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
+5. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
 <!--END_SECTION:activity-->
 
 
