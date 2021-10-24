@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 🗣 Commented on [#946](https://github.com/sigstore/cosign/issues/946) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ❗️ Opened issue [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. 💪 Opened PR [#465](https://github.com/sigstore/rekor/pull/465) in [sigstore/rekor](https://github.com/sigstore/rekor)
+2. 🗣 Commented on [#585](https://github.com/anchore/syft/issues/585) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#946](https://github.com/sigstore/cosign/issues/946) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
