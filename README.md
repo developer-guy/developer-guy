@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-3. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2584](https://github.com/kyverno/kyverno/issues/2584) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Closed issue [#947](https://github.com/sigstore/cosign/issues/947) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2584](https://github.com/kyverno/kyverno/issues/2584) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
