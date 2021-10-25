@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/mlieberman85/supply-chain-examples/issues/28) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
-2. 🗣 Commented on [#465](https://github.com/tektoncd/operator/issues/465) in [tektoncd/operator](https://github.com/tektoncd/operator)
-3. ❗️ Closed issue [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 🗣 Commented on [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#946](https://github.com/sigstore/cosign/issues/946) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#947](https://github.com/sigstore/cosign/issues/947) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#28](https://github.com/mlieberman85/supply-chain-examples/issues/28) in [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+3. 🗣 Commented on [#465](https://github.com/tektoncd/operator/issues/465) in [tektoncd/operator](https://github.com/tektoncd/operator)
+4. ❗️ Closed issue [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 🗣 Commented on [#158](https://github.com/loft-sh/vcluster/issues/158) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
