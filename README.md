@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-2. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 💪 Opened PR [#953](https://github.com/sigstore/cosign/pull/953) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
 3. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 🗣 Commented on [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
-5. ❗️ Opened issue [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 🗣 Commented on [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
