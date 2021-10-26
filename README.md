@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-2. 🗣 Commented on [#941](https://github.com/sigstore/cosign/issues/941) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
-5. ❗️ Opened issue [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+1. 🗣 Commented on [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
+2. ❗️ Opened issue [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
+3. ❗️ Opened issue [#482](https://github.com/anchore/grype/issues/482) in [anchore/grype](https://github.com/anchore/grype)
+4. 🎉 Merged PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+5. 🗣 Commented on [#941](https://github.com/sigstore/cosign/issues/941) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
