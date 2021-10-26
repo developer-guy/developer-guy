@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
-2. ❗️ Opened issue [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
-3. ❗️ Opened issue [#482](https://github.com/anchore/grype/issues/482) in [anchore/grype](https://github.com/anchore/grype)
-4. 🎉 Merged PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-5. 🗣 Commented on [#941](https://github.com/sigstore/cosign/issues/941) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
+3. ❗️ Opened issue [#593](https://github.com/anchore/syft/issues/593) in [anchore/syft](https://github.com/anchore/syft)
+4. ❗️ Opened issue [#482](https://github.com/anchore/grype/issues/482) in [anchore/grype](https://github.com/anchore/grype)
+5. 🎉 Merged PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
 <!--END_SECTION:activity-->
 
 
