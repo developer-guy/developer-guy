@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-3. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. ❗️ Opened issue [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+2. ❗️ Opened issue [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. ❗️ Opened issue [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
