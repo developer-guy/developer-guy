@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. ❗️ Opened issue [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-5. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#150](https://github.com/loft-sh/vcluster/issues/150) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+2. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. ❗️ Opened issue [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#2583](https://github.com/kyverno/kyverno/issues/2583) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#3](https://github.com/GoTurkiye/gophercon.ist/pull/3) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
 <!--END_SECTION:activity-->
 
 
