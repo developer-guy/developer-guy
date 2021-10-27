@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-3. 💪 Opened PR [#953](https://github.com/sigstore/cosign/pull/953) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-5. 🗣 Commented on [#1127](https://github.com/ossf/scorecard/issues/1127) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🎉 Merged PR [#3](https://github.com/developer-guy/policy-as-code-war/pull/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+2. 🗣 Commented on [#3](https://github.com/developer-guy/policy-as-code-war/issues/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+3. ❗️ Closed issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. 🗣 Commented on [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 💪 Opened PR [#953](https://github.com/sigstore/cosign/pull/953) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
