@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/developer-guy/policy-as-code-war/pull/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
-2. 🗣 Commented on [#3](https://github.com/developer-guy/policy-as-code-war/issues/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
-3. ❗️ Closed issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 🗣 Commented on [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 💪 Opened PR [#953](https://github.com/sigstore/cosign/pull/953) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#2607](https://github.com/kyverno/kyverno/pull/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🎉 Merged PR [#3](https://github.com/developer-guy/policy-as-code-war/pull/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+3. 🗣 Commented on [#3](https://github.com/developer-guy/policy-as-code-war/issues/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+4. ❗️ Closed issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 🗣 Commented on [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
