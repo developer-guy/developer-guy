@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2607](https://github.com/kyverno/kyverno/pull/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🎉 Merged PR [#3](https://github.com/developer-guy/policy-as-code-war/pull/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
-3. 🗣 Commented on [#3](https://github.com/developer-guy/policy-as-code-war/issues/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
-4. ❗️ Closed issue [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#164](https://github.com/loft-sh/vcluster/issues/164) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+1. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
+2. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
+3. 💪 Opened PR [#2607](https://github.com/kyverno/kyverno/pull/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🎉 Merged PR [#3](https://github.com/developer-guy/policy-as-code-war/pull/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
+5. 🗣 Commented on [#3](https://github.com/developer-guy/policy-as-code-war/issues/3) in [developer-guy/policy-as-code-war](https://github.com/developer-guy/policy-as-code-war)
 <!--END_SECTION:activity-->
 
 
