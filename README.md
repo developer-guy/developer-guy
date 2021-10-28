@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#126](https://github.com/anchore/sbom-action/issues/126) in [anchore/sbom-action](https://github.com/anchore/sbom-action)
-2. 💪 Opened PR [#1181](https://github.com/ossf/scorecard/pull/1181) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. ❗️ Opened issue [#1180](https://github.com/ossf/scorecard/issues/1180) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
+1. ❗️ Opened issue [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#126](https://github.com/anchore/sbom-action/issues/126) in [anchore/sbom-action](https://github.com/anchore/sbom-action)
+3. 💪 Opened PR [#1181](https://github.com/ossf/scorecard/pull/1181) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. ❗️ Opened issue [#1180](https://github.com/ossf/scorecard/issues/1180) in [ossf/scorecard](https://github.com/ossf/scorecard)
 5. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
 <!--END_SECTION:activity-->
 
