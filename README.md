@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Opened issue [#4632](https://github.com/cli/cli/issues/4632) in [cli/cli](https://github.com/cli/cli)
-5. ❗️ Closed issue [#1180](https://github.com/ossf/scorecard/issues/1180) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Opened issue [#4632](https://github.com/cli/cli/issues/4632) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 
