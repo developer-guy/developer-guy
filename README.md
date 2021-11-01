@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗️ Opened issue [#4632](https://github.com/cli/cli/issues/4632) in [cli/cli](https://github.com/cli/cli)
-3. ❗️ Closed issue [#1180](https://github.com/ossf/scorecard/issues/1180) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. ❌ Closed PR [#1181](https://github.com/ossf/scorecard/pull/1181) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#1181](https://github.com/ossf/scorecard/issues/1181) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. 🗣 Commented on [#2596](https://github.com/goreleaser/goreleaser/issues/2596) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#4632](https://github.com/cli/cli/issues/4632) in [cli/cli](https://github.com/cli/cli)
+4. ❗️ Closed issue [#1180](https://github.com/ossf/scorecard/issues/1180) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. ❌ Closed PR [#1181](https://github.com/ossf/scorecard/pull/1181) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
