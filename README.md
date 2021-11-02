@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2622](https://github.com/goreleaser/goreleaser/issues/2622) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#2622](https://github.com/goreleaser/goreleaser/issues/2622) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#932](https://github.com/sigstore/cosign/issues/932) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
