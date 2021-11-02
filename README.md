@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
-4. ❗️ Opened issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#2622](https://github.com/goreleaser/goreleaser/issues/2622) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. ❗️ Opened issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+5. ❗️ Opened issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
