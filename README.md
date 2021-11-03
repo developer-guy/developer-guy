@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#2626](https://github.com/goreleaser/goreleaser/pull/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-4. 🗣 Commented on [#2625](https://github.com/goreleaser/goreleaser/issues/2625) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 💪 Opened PR [#167](https://github.com/kyverno/policies/pull/167) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 💪 Opened PR [#78](https://github.com/sigstore/sigstore-website/pull/78) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+3. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#2626](https://github.com/goreleaser/goreleaser/pull/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
 <!--END_SECTION:activity-->
 
 
