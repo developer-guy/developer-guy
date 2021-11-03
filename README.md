@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. ❗️ Opened issue [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. ❗️ Opened issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
