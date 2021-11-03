@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2625](https://github.com/goreleaser/goreleaser/issues/2625) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#72](https://github.com/sigstore/sigstore-website/issues/72) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+2. 🗣 Commented on [#2625](https://github.com/goreleaser/goreleaser/issues/2625) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. ❗️ Opened issue [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#2607](https://github.com/kyverno/kyverno/issues/2607) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
