@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-2. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 💪 Opened PR [#167](https://github.com/kyverno/policies/pull/167) in [kyverno/policies](https://github.com/kyverno/policies)
-4. 💪 Opened PR [#78](https://github.com/sigstore/sigstore-website/pull/78) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-5. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. ❗️ Closed issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+3. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
 <!--END_SECTION:activity-->
 
 
