@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
-2. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
-3. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-5. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. ❗️ Closed issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+2. 🗣 Commented on [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+3. ❗️ Closed issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+4. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#2626](https://github.com/goreleaser/goreleaser/issues/2626) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
