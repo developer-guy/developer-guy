@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/kyverno/website/pull/376) in [kyverno/website](https://github.com/kyverno/website)
-2. ❗️ Closed issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
-3. 🗣 Commented on [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
-4. ❗️ Closed issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+1. 🗣 Commented on [#44](https://github.com/gythialy/golang-cross/issues/44) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 💪 Opened PR [#376](https://github.com/kyverno/website/pull/376) in [kyverno/website](https://github.com/kyverno/website)
+3. ❗️ Closed issue [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#614](https://github.com/anchore/syft/issues/614) in [anchore/syft](https://github.com/anchore/syft)
+5. ❗️ Closed issue [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
