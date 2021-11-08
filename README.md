@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#1469](https://github.com/tektoncd/cli/issues/1469) in [tektoncd/cli](https://github.com/tektoncd/cli)
-3. ❗️ Opened issue [#1469](https://github.com/tektoncd/cli/issues/1469) in [tektoncd/cli](https://github.com/tektoncd/cli)
-4. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#1469](https://github.com/tektoncd/cli/issues/1469) in [tektoncd/cli](https://github.com/tektoncd/cli)
+4. ❗️ Opened issue [#1469](https://github.com/tektoncd/cli/issues/1469) in [tektoncd/cli](https://github.com/tektoncd/cli)
+5. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
