@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2542](https://github.com/goreleaser/goreleaser/issues/2542) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#47](https://github.com/gythialy/golang-cross/pull/47) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. ❗️ Opened issue [#2635](https://github.com/goreleaser/goreleaser/issues/2635) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#42](https://github.com/gythialy/golang-cross/issues/42) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 🗣 Commented on [#44](https://github.com/gythialy/golang-cross/issues/44) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
+2. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
+3. 🗣 Commented on [#2542](https://github.com/goreleaser/goreleaser/issues/2542) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#47](https://github.com/gythialy/golang-cross/pull/47) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. ❗️ Opened issue [#2635](https://github.com/goreleaser/goreleaser/issues/2635) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
