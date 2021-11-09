@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-3. 💪 Opened PR [#2703](https://github.com/kyverno/kyverno/pull/2703) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#290](https://github.com/falcosecurity/charts/issues/290) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-5. 🗣 Commented on [#167](https://github.com/kyverno/policies/issues/167) in [kyverno/policies](https://github.com/kyverno/policies)
+1. ❗️ Closed issue [#495](https://github.com/google/ko/issues/495) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#495](https://github.com/google/ko/issues/495) in [google/ko](https://github.com/google/ko)
+3. ❗️ Opened issue [#495](https://github.com/google/ko/issues/495) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
