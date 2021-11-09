@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/falcosecurity/charts/issues/290) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-2. 🗣 Commented on [#167](https://github.com/kyverno/policies/issues/167) in [kyverno/policies](https://github.com/kyverno/policies)
-3. 🗣 Commented on [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#1015](https://github.com/sigstore/cosign/issues/1015) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#2703](https://github.com/kyverno/kyverno/pull/2703) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#290](https://github.com/falcosecurity/charts/issues/290) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+3. 🗣 Commented on [#167](https://github.com/kyverno/policies/issues/167) in [kyverno/policies](https://github.com/kyverno/policies)
+4. 🗣 Commented on [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
