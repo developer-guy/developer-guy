@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#1015](https://github.com/sigstore/cosign/issues/1015) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#32](https://github.com/sigstore/cosign-installer/pull/32) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-5. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🗣 Commented on [#167](https://github.com/kyverno/policies/issues/167) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 🗣 Commented on [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#2702](https://github.com/kyverno/kyverno/issues/2702) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#1015](https://github.com/sigstore/cosign/issues/1015) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#32](https://github.com/sigstore/cosign-installer/pull/32) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
 <!--END_SECTION:activity-->
 
 
