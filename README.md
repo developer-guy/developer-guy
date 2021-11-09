@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#923](https://github.com/sigstore/cosign/issues/923) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#923](https://github.com/sigstore/cosign/issues/923) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1012](https://github.com/sigstore/cosign/issues/1012) in [sigstore/cosign](https://github.com/sigstore/cosign)
 4. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#1469](https://github.com/tektoncd/cli/issues/1469) in [tektoncd/cli](https://github.com/tektoncd/cli)
+5. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
