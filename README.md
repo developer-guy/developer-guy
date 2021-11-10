@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1021](https://github.com/sigstore/cosign/issues/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#128](https://github.com/in-toto/in-toto-golang/issues/128) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
-4. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#2703](https://github.com/kyverno/kyverno/issues/2703) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🎉 Merged PR [#1022](https://github.com/sigstore/cosign/pull/1022) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1021](https://github.com/sigstore/cosign/issues/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#128](https://github.com/in-toto/in-toto-golang/issues/128) in [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang)
 <!--END_SECTION:activity-->
 
 
