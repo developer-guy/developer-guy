@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Closed issue [#495](https://github.com/google/ko/issues/495) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#495](https://github.com/google/ko/issues/495) in [google/ko](https://github.com/google/ko)
+1. ❌ Closed PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
+2. 💪 Opened PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
+3. ❌ Closed PR [#497](https://github.com/google/ko/pull/497) in [google/ko](https://github.com/google/ko)
+4. 💪 Opened PR [#497](https://github.com/google/ko/pull/497) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
