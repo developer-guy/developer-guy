@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❌ Closed PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
-3. 💪 Opened PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
-4. ❌ Closed PR [#497](https://github.com/google/ko/pull/497) in [google/ko](https://github.com/google/ko)
-5. 💪 Opened PR [#497](https://github.com/google/ko/pull/497) in [google/ko](https://github.com/google/ko)
+1. ❌ Closed PR [#953](https://github.com/sigstore/cosign/pull/953) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❌ Closed PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
+4. 💪 Opened PR [#1](https://github.com/Dentrax/ko/pull/1) in [Dentrax/ko](https://github.com/Dentrax/ko)
+5. ❌ Closed PR [#497](https://github.com/google/ko/pull/497) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
