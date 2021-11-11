@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/awesomeSBOM/awesome-sbom/pull/4) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-3. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
+2. 🎉 Merged PR [#4](https://github.com/awesomeSBOM/awesome-sbom/pull/4) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
 4. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#2703](https://github.com/kyverno/kyverno/issues/2703) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
