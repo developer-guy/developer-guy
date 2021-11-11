@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-2. ❗️ Opened issue [#63](https://github.com/imjasonh/kontain.me/issues/63) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-3. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. ❗️ Opened issue [#62](https://github.com/imjasonh/kontain.me/issues/62) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-5. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
+3. ❗️ Opened issue [#63](https://github.com/imjasonh/kontain.me/issues/63) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
+4. 🗣 Commented on [#623](https://github.com/open-policy-agent/conftest/issues/623) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. ❗️ Opened issue [#62](https://github.com/imjasonh/kontain.me/issues/62) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
 <!--END_SECTION:activity-->
 
 
