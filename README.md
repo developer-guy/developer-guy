@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1021](https://github.com/sigstore/cosign/pull/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1021](https://github.com/sigstore/cosign/issues/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#1027](https://github.com/sigstore/cosign/issues/1027) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-4. 🎉 Merged PR [#4](https://github.com/awesomeSBOM/awesome-sbom/pull/4) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
+4. ❌ Closed PR [#1021](https://github.com/sigstore/cosign/pull/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1021](https://github.com/sigstore/cosign/issues/1021) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
