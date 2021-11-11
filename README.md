@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/sigstore/cosign-installer/pull/33) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-2. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-5. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
+1. ❌ Closed PR [#474](https://github.com/sigstore/cosign/pull/474) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❌ Closed PR [#872](https://github.com/sigstore/cosign/pull/872) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#33](https://github.com/sigstore/cosign-installer/pull/33) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
