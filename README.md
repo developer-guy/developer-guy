@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1039](https://github.com/sigstore/cosign/issues/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#64](https://github.com/imjasonh/kontain.me/pull/64) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
-3. 🗣 Commented on [#1039](https://github.com/sigstore/cosign/issues/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#1039](https://github.com/sigstore/cosign/pull/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#636](https://github.com/open-policy-agent/conftest/pull/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 💪 Opened PR [#52](https://github.com/gythialy/golang-cross/pull/52) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#1039](https://github.com/sigstore/cosign/issues/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#64](https://github.com/imjasonh/kontain.me/pull/64) in [imjasonh/kontain.me](https://github.com/imjasonh/kontain.me)
 <!--END_SECTION:activity-->
 
 
