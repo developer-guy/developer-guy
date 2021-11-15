@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1039](https://github.com/sigstore/cosign/issues/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#637](https://github.com/open-policy-agent/conftest/pull/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 💪 Opened PR [#636](https://github.com/open-policy-agent/conftest/pull/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#52](https://github.com/gythialy/golang-cross/pull/52) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#1201](https://github.com/ossf/scorecard/issues/1201) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#1039](https://github.com/sigstore/cosign/issues/1039) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#637](https://github.com/open-policy-agent/conftest/pull/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 💪 Opened PR [#636](https://github.com/open-policy-agent/conftest/pull/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
