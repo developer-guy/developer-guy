@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#136](https://github.com/open-policy-agent/gatekeeper-library/issues/136) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 3. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
 4. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#2659](https://github.com/goreleaser/goreleaser/issues/2659) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#1016](https://github.com/sigstore/cosign/issues/1016) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
