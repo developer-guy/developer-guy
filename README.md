@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#141](https://github.com/open-policy-agent/gatekeeper-library/pull/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-3. ❗️ Opened issue [#1074](https://github.com/sigstore/cosign/issues/1074) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#1069](https://github.com/sigstore/cosign/issues/1069) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#3](https://github.com/chughes757/SecureSoftwareSupplyChain/pull/3) in [chughes757/SecureSoftwareSupplyChain](https://github.com/chughes757/SecureSoftwareSupplyChain)
+1. 🗣 Commented on [#136](https://github.com/open-policy-agent/gatekeeper-library/issues/136) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+2. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+3. 🗣 Commented on [#950](https://github.com/sigstore/cosign/issues/950) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#141](https://github.com/open-policy-agent/gatekeeper-library/pull/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+5. ❗️ Opened issue [#1074](https://github.com/sigstore/cosign/issues/1074) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
