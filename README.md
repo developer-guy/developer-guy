@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. ❗️ Opened issue [#1678](https://github.com/open-policy-agent/gatekeeper/issues/1678) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-3. 🗣 Commented on [#503](https://github.com/anchore/grype/issues/503) in [anchore/grype](https://github.com/anchore/grype)
-4. ❗️ Opened issue [#503](https://github.com/anchore/grype/issues/503) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#136](https://github.com/open-policy-agent/gatekeeper-library/issues/136) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+1. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+3. ❗️ Opened issue [#1678](https://github.com/open-policy-agent/gatekeeper/issues/1678) in [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+4. 🗣 Commented on [#503](https://github.com/anchore/grype/issues/503) in [anchore/grype](https://github.com/anchore/grype)
+5. ❗️ Opened issue [#503](https://github.com/anchore/grype/issues/503) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
