@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign-gatekeeper-provider/pull/1) in [developer-guy/cosign-gatekeeper-provider](https://github.com/developer-guy/cosign-gatekeeper-provider)
+2. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#556](https://github.com/containerd/nerdctl/pull/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 💪 Opened PR [#556](https://github.com/containerd/nerdctl/pull/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
 
