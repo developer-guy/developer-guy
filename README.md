@@ -36,10 +36,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 💪 Opened PR [#556](https://github.com/containerd/nerdctl/pull/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-4. 🗣 Commented on [#509](https://github.com/anchore/grype/issues/509) in [anchore/grype](https://github.com/anchore/grype)
-5. ❗️ Closed issue [#509](https://github.com/anchore/grype/issues/509) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. 💪 Opened PR [#556](https://github.com/containerd/nerdctl/pull/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#3697](https://github.com/open-policy-agent/opa/issues/3697) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+5. 🗣 Commented on [#509](https://github.com/anchore/grype/issues/509) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
