@@ -37,9 +37,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#20](https://github.com/anderseknert/awesome-opa/pull/20) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
-4. ❗️ Opened issue [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign-gatekeeper-provider/pull/1) in [developer-guy/cosign-gatekeeper-provider](https://github.com/developer-guy/cosign-gatekeeper-provider)
+3. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#20](https://github.com/anderseknert/awesome-opa/pull/20) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
+5. ❗️ Opened issue [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
