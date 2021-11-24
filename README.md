@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/anderseknert/awesome-opa/pull/20) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
-2. ❗️ Opened issue [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign-gatekeeper-provider/pull/1) in [developer-guy/cosign-gatekeeper-provider](https://github.com/developer-guy/cosign-gatekeeper-provider)
-4. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#20](https://github.com/anderseknert/awesome-opa/pull/20) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
+3. ❗️ Opened issue [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🎉 Merged PR [#1](https://github.com/developer-guy/cosign-gatekeeper-provider/pull/1) in [developer-guy/cosign-gatekeeper-provider](https://github.com/developer-guy/cosign-gatekeeper-provider)
+5. 🗣 Commented on [#655](https://github.com/sigstore/cosign/issues/655) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
