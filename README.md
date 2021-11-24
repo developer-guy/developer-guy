@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#20](https://github.com/anderseknert/awesome-opa/pull/20) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
-5. ❗️ Opened issue [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#84](https://github.com/sigstore/sigstore-website/issues/84) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+2. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+3. 🗣 Commented on [#636](https://github.com/open-policy-agent/conftest/issues/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
