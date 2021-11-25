@@ -35,10 +35,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/sigstore/sigstore-website/issues/84) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-2. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 🗣 Commented on [#636](https://github.com/open-policy-agent/conftest/issues/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#1472](https://github.com/tektoncd/cli/issues/1472) in [tektoncd/cli](https://github.com/tektoncd/cli)
+2. 🗣 Commented on [#84](https://github.com/sigstore/sigstore-website/issues/84) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
+3. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#636](https://github.com/open-policy-agent/conftest/issues/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
 5. 🗣 Commented on [#1099](https://github.com/sigstore/cosign/issues/1099) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
