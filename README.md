@@ -35,11 +35,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#642](https://github.com/open-policy-agent/conftest/issues/642) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. ❗️ Opened issue [#1472](https://github.com/tektoncd/cli/issues/1472) in [tektoncd/cli](https://github.com/tektoncd/cli)
-4. 🗣 Commented on [#84](https://github.com/sigstore/sigstore-website/issues/84) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
-5. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. ❗️ Opened issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+3. 🗣 Commented on [#642](https://github.com/open-policy-agent/conftest/issues/642) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. ❗️ Opened issue [#1472](https://github.com/tektoncd/cli/issues/1472) in [tektoncd/cli](https://github.com/tektoncd/cli)
+5. 🗣 Commented on [#84](https://github.com/sigstore/sigstore-website/issues/84) in [sigstore/sigstore-website](https://github.com/sigstore/sigstore-website)
 <!--END_SECTION:activity-->
 
 
