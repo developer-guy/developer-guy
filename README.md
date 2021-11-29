@@ -17,7 +17,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 </p>
 
 ### 🎖 Certificates
-<p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="ckad" width="100" height="100"/> 
+<p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/badges/349777de-9673-444f-a05e-2dbb770768c3/public_url" width="100" height="100"/> 
 </p>
 
 
