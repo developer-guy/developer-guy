@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. ❗️ Opened issue [#1299](https://github.com/xanzy/go-gitlab/issues/1299) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
-3. ❗️ Closed issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1101](https://github.com/sigstore/cosign/issues/1101) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. ❗️ Opened issue [#1299](https://github.com/xanzy/go-gitlab/issues/1299) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
+4. ❗️ Closed issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+5. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
