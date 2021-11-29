@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/loft-sh/vcluster/pull/204) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. ❗️ Opened issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. 🗣 Commented on [#642](https://github.com/open-policy-agent/conftest/issues/642) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-5. ❗️ Opened issue [#1472](https://github.com/tektoncd/cli/issues/1472) in [tektoncd/cli](https://github.com/tektoncd/cli)
+1. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#1101](https://github.com/sigstore/cosign/issues/1101) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#204](https://github.com/loft-sh/vcluster/pull/204) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. ❗️ Opened issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
