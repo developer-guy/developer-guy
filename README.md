@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1101](https://github.com/sigstore/cosign/issues/1101) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#204](https://github.com/loft-sh/vcluster/pull/204) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#637](https://github.com/open-policy-agent/conftest/issues/637) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. ❗️ Opened issue [#1299](https://github.com/xanzy/go-gitlab/issues/1299) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
+2. ❗️ Closed issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+3. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1101](https://github.com/sigstore/cosign/issues/1101) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#204](https://github.com/loft-sh/vcluster/pull/204) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
