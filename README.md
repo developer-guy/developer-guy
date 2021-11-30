@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/GoTurkiye/gophercon.ist/pull/4) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-2. 💪 Opened PR [#4](https://github.com/GoTurkiye/gophercon.ist/pull/4) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-3. 🗣 Commented on [#636](https://github.com/open-policy-agent/conftest/issues/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. 🗣 Commented on [#2494](https://github.com/moby/buildkit/issues/2494) in [moby/buildkit](https://github.com/moby/buildkit)
-5. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+1. 🎉 Merged PR [#7](https://github.com/GoTurkiye/gophercon.ist/pull/7) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+2. 💪 Opened PR [#7](https://github.com/GoTurkiye/gophercon.ist/pull/7) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+3. 🎉 Merged PR [#5](https://github.com/GoTurkiye/gophercon.ist/pull/5) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+4. 🗣 Commented on [#5](https://github.com/GoTurkiye/gophercon.ist/issues/5) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+5. 🎉 Merged PR [#4](https://github.com/GoTurkiye/gophercon.ist/pull/4) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
 <!--END_SECTION:activity-->
 
 
