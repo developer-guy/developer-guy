@@ -40,10 +40,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2494](https://github.com/moby/buildkit/issues/2494) in [moby/buildkit](https://github.com/moby/buildkit)
-2. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-3. 💪 Opened PR [#1300](https://github.com/xanzy/go-gitlab/pull/1300) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
-4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#636](https://github.com/open-policy-agent/conftest/issues/636) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. 🗣 Commented on [#2494](https://github.com/moby/buildkit/issues/2494) in [moby/buildkit](https://github.com/moby/buildkit)
+3. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+4. 💪 Opened PR [#1300](https://github.com/xanzy/go-gitlab/pull/1300) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
 5. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
