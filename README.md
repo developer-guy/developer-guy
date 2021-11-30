@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. ❗️ Opened issue [#1299](https://github.com/xanzy/go-gitlab/issues/1299) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
-4. ❗️ Closed issue [#203](https://github.com/loft-sh/vcluster/issues/203) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🗣 Commented on [#1087](https://github.com/sigstore/cosign/issues/1087) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+2. 💪 Opened PR [#1300](https://github.com/xanzy/go-gitlab/pull/1300) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
+3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. ❗️ Opened issue [#1299](https://github.com/xanzy/go-gitlab/issues/1299) in [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)
 <!--END_SECTION:activity-->
 
 
