@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#647](https://github.com/open-policy-agent/conftest/pull/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-2. 🗣 Commented on [#1068](https://github.com/sigstore/cosign/issues/1068) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1068](https://github.com/sigstore/cosign/issues/1068) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2713](https://github.com/goreleaser/goreleaser/issues/2713) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. ❗️ Opened issue [#2713](https://github.com/goreleaser/goreleaser/issues/2713) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+2. 🗣 Commented on [#136](https://github.com/open-policy-agent/gatekeeper-library/issues/136) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
+3. 💪 Opened PR [#647](https://github.com/open-policy-agent/conftest/pull/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#1068](https://github.com/sigstore/cosign/issues/1068) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1068](https://github.com/sigstore/cosign/issues/1068) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
