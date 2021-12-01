@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1118](https://github.com/sigstore/cosign/issues/1118) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Opened issue [#1508](https://github.com/flannel-io/flannel/issues/1508) in [flannel-io/flannel](https://github.com/flannel-io/flannel)
-3. 🗣 Commented on [#141](https://github.com/open-policy-agent/gatekeeper-library/issues/141) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-4. 🗣 Commented on [#136](https://github.com/open-policy-agent/gatekeeper-library/issues/136) in [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library)
-5. 💪 Opened PR [#647](https://github.com/open-policy-agent/conftest/pull/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. 🗣 Commented on [#707](https://github.com/sigstore/cosign/issues/707) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Closed issue [#2584](https://github.com/kyverno/kyverno/issues/2584) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#2584](https://github.com/kyverno/kyverno/issues/2584) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#2586](https://github.com/kyverno/kyverno/issues/2586) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#510](https://github.com/anchore/syft/issues/510) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
