@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
-2. 💪 Opened PR [#593](https://github.com/alexellis/arkade/pull/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❌ Closed PR [#542](https://github.com/alexellis/arkade/pull/542) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. ❗️ Opened issue [#1121](https://github.com/sigstore/cosign/issues/1121) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+2. ❗️ Opened issue [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+3. ❗️ Opened issue [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+4. 💪 Opened PR [#593](https://github.com/alexellis/arkade/pull/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❌ Closed PR [#542](https://github.com/alexellis/arkade/pull/542) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 
