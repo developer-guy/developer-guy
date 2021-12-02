@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
-2. ❗️ Opened issue [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
-3. ❗️ Opened issue [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
-4. 💪 Opened PR [#593](https://github.com/alexellis/arkade/pull/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❌ Closed PR [#542](https://github.com/alexellis/arkade/pull/542) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+2. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+3. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+4. ❗️ Opened issue [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+5. ❗️ Opened issue [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
 <!--END_SECTION:activity-->
 
 
