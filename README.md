@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+1. ❗️ Opened issue [#1125](https://github.com/sigstore/cosign/issues/1125) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
-3. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
-4. ❗️ Opened issue [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
-5. ❗️ Opened issue [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+3. 🗣 Commented on [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+4. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
+5. 🗣 Commented on [#99](https://github.com/google/addlicense/issues/99) in [google/addlicense](https://github.com/google/addlicense)
 <!--END_SECTION:activity-->
 
 
