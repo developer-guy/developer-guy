@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/GoTurkiye/gophercon.ist/pull/9) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-2. 💪 Opened PR [#9](https://github.com/GoTurkiye/gophercon.ist/pull/9) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-3. 🎉 Merged PR [#8](https://github.com/GoTurkiye/gophercon.ist/pull/8) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-4. 💪 Opened PR [#8](https://github.com/GoTurkiye/gophercon.ist/pull/8) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
-5. ❗️ Opened issue [#1125](https://github.com/sigstore/cosign/issues/1125) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#592](https://github.com/containerd/nerdctl/issues/592) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#593](https://github.com/alexellis/arkade/issues/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
+4. 🎉 Merged PR [#9](https://github.com/GoTurkiye/gophercon.ist/pull/9) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+5. 💪 Opened PR [#9](https://github.com/GoTurkiye/gophercon.ist/pull/9) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
 <!--END_SECTION:activity-->
 
 
