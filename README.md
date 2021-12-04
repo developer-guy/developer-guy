@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/google/addlicense/pull/101) in [google/addlicense](https://github.com/google/addlicense)
-2. 🗣 Commented on [#1362](https://github.com/ossf/scorecard/issues/1362) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. ❗️ Opened issue [#1362](https://github.com/ossf/scorecard/issues/1362) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 🗣 Commented on [#100](https://github.com/google/addlicense/issues/100) in [google/addlicense](https://github.com/google/addlicense)
+1. 💪 Opened PR [#1135](https://github.com/sigstore/cosign/pull/1135) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1134](https://github.com/sigstore/cosign/issues/1134) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Closed issue [#1362](https://github.com/ossf/scorecard/issues/1362) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#101](https://github.com/google/addlicense/pull/101) in [google/addlicense](https://github.com/google/addlicense)
+5. 🗣 Commented on [#1362](https://github.com/ossf/scorecard/issues/1362) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
