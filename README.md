@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/sigstore/cosign-installer/issues/36) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-2. ❗️ Opened issue [#592](https://github.com/containerd/nerdctl/issues/592) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#593](https://github.com/alexellis/arkade/issues/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-5. 🎉 Merged PR [#9](https://github.com/GoTurkiye/gophercon.ist/pull/9) in [GoTurkiye/gophercon.ist](https://github.com/GoTurkiye/gophercon.ist)
+1. 🗣 Commented on [#36](https://github.com/sigstore/cosign-installer/issues/36) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+2. ❗️ Opened issue [#36](https://github.com/sigstore/cosign-installer/issues/36) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+3. ❗️ Opened issue [#592](https://github.com/containerd/nerdctl/issues/592) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#593](https://github.com/alexellis/arkade/issues/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
