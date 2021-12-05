@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#519](https://github.com/anchore/grype/issues/519) in [anchore/grype](https://github.com/anchore/grype)
-2. 🗣 Commented on [#1137](https://github.com/sigstore/cosign/issues/1137) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#1135](https://github.com/sigstore/cosign/pull/1135) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#1134](https://github.com/sigstore/cosign/issues/1134) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1137](https://github.com/sigstore/cosign/issues/1137) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#519](https://github.com/anchore/grype/issues/519) in [anchore/grype](https://github.com/anchore/grype)
+3. 🗣 Commented on [#1137](https://github.com/sigstore/cosign/issues/1137) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 💪 Opened PR [#1135](https://github.com/sigstore/cosign/pull/1135) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
