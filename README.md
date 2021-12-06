@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#1366](https://github.com/ossf/scorecard/issues/1366) in [ossf/scorecard](https://github.com/ossf/scorecard)
 2. 🗣 Commented on [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#3448](https://github.com/open-policy-agent/opa/issues/3448) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 🗣 Commented on [#1144](https://github.com/sigstore/cosign/issues/1144) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
