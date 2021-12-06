@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1144](https://github.com/sigstore/cosign/pull/1144) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
 4. 🗣 Commented on [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#992](https://github.com/sigstore/cosign/issues/992) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
