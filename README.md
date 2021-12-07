@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/containerd/nerdctl/issues/592) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 💪 Opened PR [#62](https://github.com/gythialy/golang-cross/pull/62) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#592](https://github.com/containerd/nerdctl/issues/592) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
 
