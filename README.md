@@ -41,7 +41,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 💪 Opened PR [#1376](https://github.com/ossf/scorecard/pull/1376) in [ossf/scorecard](https://github.com/ossf/scorecard)
 3. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
 4. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
 5. 🗣 Commented on [#1364](https://github.com/ossf/scorecard/issues/1364) in [ossf/scorecard](https://github.com/ossf/scorecard)
