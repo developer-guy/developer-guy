@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10451](https://github.com/helm/helm/issues/10451) in [helm/helm](https://github.com/helm/helm)
-2. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-4. 🗣 Commented on [#5](https://github.com/sigstore/helm-charts/issues/5) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-5. 🗣 Commented on [#1166](https://github.com/sigstore/cosign/issues/1166) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+2. 💪 Opened PR [#44](https://github.com/sigstore/helm-charts/pull/44) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+3. ❗️ Opened issue [#10451](https://github.com/helm/helm/issues/10451) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+5. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
 <!--END_SECTION:activity-->
 
 
