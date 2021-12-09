@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1168](https://github.com/sigstore/cosign/pull/1168) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 💪 Opened PR [#3](https://github.com/Vinum-Security/kubernetes-security-checklist/pull/3) in [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
-4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. 🗣 Commented on [#442](https://github.com/sigstore/cosign/issues/442) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#114](https://github.com/deislabs/ratify/issues/114) in [deislabs/ratify](https://github.com/deislabs/ratify)
+2. 💪 Opened PR [#1168](https://github.com/sigstore/cosign/pull/1168) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 💪 Opened PR [#3](https://github.com/Vinum-Security/kubernetes-security-checklist/pull/3) in [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
 
 
