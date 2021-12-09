@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
-2. 💪 Opened PR [#17](https://github.com/sigstore/helm-sigstore/pull/17) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
-3. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-4. 💪 Opened PR [#44](https://github.com/sigstore/helm-charts/pull/44) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-5. ❗️ Opened issue [#10451](https://github.com/helm/helm/issues/10451) in [helm/helm](https://github.com/helm/helm)
+1. 💪 Opened PR [#2752](https://github.com/goreleaser/goreleaser/pull/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
+3. 💪 Opened PR [#17](https://github.com/sigstore/helm-sigstore/pull/17) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
+4. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. 💪 Opened PR [#44](https://github.com/sigstore/helm-charts/pull/44) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
 <!--END_SECTION:activity-->
 
 
