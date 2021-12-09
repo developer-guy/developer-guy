@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
-2. ❗️ Opened issue [#114](https://github.com/deislabs/ratify/issues/114) in [deislabs/ratify](https://github.com/deislabs/ratify)
-3. 💪 Opened PR [#1168](https://github.com/sigstore/cosign/pull/1168) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 💪 Opened PR [#3](https://github.com/Vinum-Security/kubernetes-security-checklist/pull/3) in [Vinum-Security/kubernetes-security-checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
+1. 🗣 Commented on [#1166](https://github.com/sigstore/cosign/issues/1166) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
+3. ❗️ Opened issue [#114](https://github.com/deislabs/ratify/issues/114) in [deislabs/ratify](https://github.com/deislabs/ratify)
+4. 💪 Opened PR [#1168](https://github.com/sigstore/cosign/pull/1168) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
 
