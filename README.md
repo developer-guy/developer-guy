@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-2. 💪 Opened PR [#44](https://github.com/sigstore/helm-charts/pull/44) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-3. ❗️ Opened issue [#10451](https://github.com/helm/helm/issues/10451) in [helm/helm](https://github.com/helm/helm)
-4. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-5. 🗣 Commented on [#2](https://github.com/sigstore/cosign-gatekeeper-provider/issues/2) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+1. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
+2. 💪 Opened PR [#17](https://github.com/sigstore/helm-sigstore/pull/17) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
+3. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+4. 💪 Opened PR [#44](https://github.com/sigstore/helm-charts/pull/44) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. ❗️ Opened issue [#10451](https://github.com/helm/helm/issues/10451) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
 
 
