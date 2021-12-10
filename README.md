@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 💪 Opened PR [#2752](https://github.com/goreleaser/goreleaser/pull/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
-4. 💪 Opened PR [#17](https://github.com/sigstore/helm-sigstore/pull/17) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
-5. ❗️ Opened issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+1. ❗️ Closed issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+2. 🗣 Commented on [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 💪 Opened PR [#2752](https://github.com/goreleaser/goreleaser/pull/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
 <!--END_SECTION:activity-->
 
 
