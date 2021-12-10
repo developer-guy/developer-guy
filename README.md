@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-2. 🗣 Commented on [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-3. 🗣 Commented on [#556](https://github.com/containerd/nerdctl/issues/556) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#2752](https://github.com/goreleaser/goreleaser/pull/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#18](https://github.com/sigstore/helm-sigstore/pull/18) in [sigstore/helm-sigstore](https://github.com/sigstore/helm-sigstore)
+1. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
+3. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+4. ❗️ Closed issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. 🗣 Commented on [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
 <!--END_SECTION:activity-->
 
 
