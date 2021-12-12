@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
-3. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-4. ❗️ Closed issue [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-5. 🗣 Commented on [#45](https://github.com/sigstore/helm-charts/issues/45) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+1. 🗣 Commented on [#1376](https://github.com/ossf/scorecard/issues/1376) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#1192](https://github.com/sigstore/cosign/issues/1192) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1192](https://github.com/sigstore/cosign/issues/1192) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
 <!--END_SECTION:activity-->
 
 
