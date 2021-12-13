@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. ❗️ Opened issue [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. ❗️ Opened issue [#13403](https://github.com/hashicorp/vault/issues/13403) in [hashicorp/vault](https://github.com/hashicorp/vault)
-4. ❗️ Opened issue [#157](https://github.com/google/gops/issues/157) in [google/gops](https://github.com/google/gops)
-5. ❗️ Opened issue [#1666](https://github.com/romkatv/powerlevel10k/issues/1666) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+1. 🗣 Commented on [#62](https://github.com/gythialy/golang-cross/issues/62) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+3. ❗️ Opened issue [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. ❗️ Opened issue [#13403](https://github.com/hashicorp/vault/issues/13403) in [hashicorp/vault](https://github.com/hashicorp/vault)
+5. ❗️ Opened issue [#157](https://github.com/google/gops/issues/157) in [google/gops](https://github.com/google/gops)
 <!--END_SECTION:activity-->
 
 
