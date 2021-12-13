@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1666](https://github.com/romkatv/powerlevel10k/issues/1666) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-2. 🗣 Commented on [#3448](https://github.com/open-policy-agent/opa/issues/3448) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-3. 🗣 Commented on [#593](https://github.com/alexellis/arkade/issues/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#1376](https://github.com/ossf/scorecard/issues/1376) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#1192](https://github.com/sigstore/cosign/issues/1192) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#157](https://github.com/google/gops/issues/157) in [google/gops](https://github.com/google/gops)
+2. ❗️ Opened issue [#1666](https://github.com/romkatv/powerlevel10k/issues/1666) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+3. 🗣 Commented on [#3448](https://github.com/open-policy-agent/opa/issues/3448) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+4. 🗣 Commented on [#593](https://github.com/alexellis/arkade/issues/593) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#1376](https://github.com/ossf/scorecard/issues/1376) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
