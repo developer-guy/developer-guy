@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/alexellis/arkade/issues/595) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#1194](https://github.com/sigstore/cosign/issues/1194) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#12](https://github.com/philips-labs/slsa-provenance-action/issues/12) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+1. ❗️ Opened issue [#2658](https://github.com/spiffe/spire/issues/2658) in [spiffe/spire](https://github.com/spiffe/spire)
+2. 🗣 Commented on [#595](https://github.com/alexellis/arkade/issues/595) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#1194](https://github.com/sigstore/cosign/issues/1194) in [sigstore/cosign](https://github.com/sigstore/cosign)
 4. 🗣 Commented on [#12](https://github.com/philips-labs/slsa-provenance-action/issues/12) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-5. 🗣 Commented on [#1168](https://github.com/sigstore/cosign/issues/1168) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#12](https://github.com/philips-labs/slsa-provenance-action/issues/12) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
 <!--END_SECTION:activity-->
 
 
