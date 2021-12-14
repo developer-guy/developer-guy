@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/philips-labs/slsa-provenance-action/issues/12) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#62](https://github.com/gythialy/golang-cross/issues/62) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. ❗️ Opened issue [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-5. ❗️ Opened issue [#13403](https://github.com/hashicorp/vault/issues/13403) in [hashicorp/vault](https://github.com/hashicorp/vault)
+1. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#12](https://github.com/philips-labs/slsa-provenance-action/issues/12) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+4. 🗣 Commented on [#62](https://github.com/gythialy/golang-cross/issues/62) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#199](https://github.com/sigstore/sigstore/issues/199) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
 
 
