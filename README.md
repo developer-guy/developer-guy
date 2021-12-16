@@ -1,6 +1,6 @@
 ## Hi there, I'm Batuhan Apaydın 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
