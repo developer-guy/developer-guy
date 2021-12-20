@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/sigstore/cosign/issues/1220) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#4](https://github.com/sigstore/cosign-gatekeeper-provider/issues/4) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
-3. ❗️ Opened issue [#2766](https://github.com/goreleaser/goreleaser/issues/2766) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Opened issue [#2765](https://github.com/goreleaser/goreleaser/issues/2765) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#1220](https://github.com/sigstore/cosign/issues/1220) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#696](https://github.com/bitnami-labs/sealed-secrets/issues/696) in [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
+2. 🗣 Commented on [#1220](https://github.com/sigstore/cosign/issues/1220) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#4](https://github.com/sigstore/cosign-gatekeeper-provider/issues/4) in [sigstore/cosign-gatekeeper-provider](https://github.com/sigstore/cosign-gatekeeper-provider)
+4. ❗️ Opened issue [#2766](https://github.com/goreleaser/goreleaser/issues/2766) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Opened issue [#2765](https://github.com/goreleaser/goreleaser/issues/2765) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
