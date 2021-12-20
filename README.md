@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#91709](https://github.com/Homebrew/homebrew-core/issues/91709) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 2. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#91709](https://github.com/Homebrew/homebrew-core/pull/91709) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. ❗️ Opened issue [#696](https://github.com/bitnami-labs/sealed-secrets/issues/696) in [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
-5. 🗣 Commented on [#1220](https://github.com/sigstore/cosign/issues/1220) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#91709](https://github.com/Homebrew/homebrew-core/pull/91709) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. ❗️ Opened issue [#696](https://github.com/bitnami-labs/sealed-secrets/issues/696) in [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
 <!--END_SECTION:activity-->
 
 
