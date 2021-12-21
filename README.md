@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#2752](https://github.com/goreleaser/goreleaser/issues/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#2752](https://github.com/goreleaser/goreleaser/issues/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-5. ❗️ Opened issue [#2777](https://github.com/goreleaser/goreleaser/issues/2777) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+3. ❗️ Opened issue [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
+5. 🗣 Commented on [#2752](https://github.com/goreleaser/goreleaser/issues/2752) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
