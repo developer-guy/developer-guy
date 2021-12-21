@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1237](https://github.com/sigstore/cosign/pull/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#14](https://github.com/sottlmarek/DevSecOps/pull/14) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
-3. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Closed issue [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Reopened issue [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#2777](https://github.com/goreleaser/goreleaser/issues/2777) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#1237](https://github.com/sigstore/cosign/pull/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#14](https://github.com/sottlmarek/DevSecOps/pull/14) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+4. 🗣 Commented on [#1202](https://github.com/sigstore/cosign/issues/1202) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗️ Closed issue [#959](https://github.com/sigstore/cosign/issues/959) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
