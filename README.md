@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-4. ❗️ Opened issue [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. ❗️ Opened issue [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
