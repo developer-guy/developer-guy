@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#67](https://github.com/gythialy/golang-cross/pull/67) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 🗣 Commented on [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-5. ❗️ Opened issue [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
 <!--END_SECTION:activity-->
 
 
