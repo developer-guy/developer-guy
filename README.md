@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
-3. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
+2. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
 4. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-5. 💪 Opened PR [#67](https://github.com/gythialy/golang-cross/pull/67) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
