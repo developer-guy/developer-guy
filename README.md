@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-3. 💪 Opened PR [#67](https://github.com/gythialy/golang-cross/pull/67) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#1239](https://github.com/sigstore/cosign/issues/1239) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1237](https://github.com/sigstore/cosign/issues/1237) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+5. 💪 Opened PR [#67](https://github.com/gythialy/golang-cross/pull/67) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
