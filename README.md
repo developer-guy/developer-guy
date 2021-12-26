@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1250](https://github.com/sigstore/cosign/pull/1250) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❌ Closed PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-3. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
-4. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#491](https://github.com/google/ko/issues/491) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#1250](https://github.com/sigstore/cosign/pull/1250) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❌ Closed PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+4. 🗣 Commented on [#101](https://github.com/google/addlicense/issues/101) in [google/addlicense](https://github.com/google/addlicense)
+5. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
