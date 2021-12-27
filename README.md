@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Trendyol/kink/pull/46) in [Trendyol/kink](https://github.com/Trendyol/kink)
-2. ❗️ Opened issue [#48](https://github.com/Trendyol/kink/issues/48) in [Trendyol/kink](https://github.com/Trendyol/kink)
-3. ❗️ Closed issue [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
-4. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
-5. 🎉 Merged PR [#47](https://github.com/Trendyol/kink/pull/47) in [Trendyol/kink](https://github.com/Trendyol/kink)
+1. ❗️ Opened issue [#1254](https://github.com/sigstore/cosign/issues/1254) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🎉 Merged PR [#46](https://github.com/Trendyol/kink/pull/46) in [Trendyol/kink](https://github.com/Trendyol/kink)
+3. ❗️ Opened issue [#48](https://github.com/Trendyol/kink/issues/48) in [Trendyol/kink](https://github.com/Trendyol/kink)
+4. ❗️ Closed issue [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
+5. 🗣 Commented on [#20](https://github.com/Trendyol/kink/issues/20) in [Trendyol/kink](https://github.com/Trendyol/kink)
 <!--END_SECTION:activity-->
 
 
