@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1253](https://github.com/sigstore/cosign/pull/1253) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1219](https://github.com/google/go-containerregistry/issues/1219) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#1250](https://github.com/sigstore/cosign/pull/1250) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❌ Closed PR [#49](https://github.com/sigstore/helm-charts/pull/49) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+1. 🎉 Merged PR [#47](https://github.com/Trendyol/kink/pull/47) in [Trendyol/kink](https://github.com/Trendyol/kink)
+2. 🗣 Commented on [#47](https://github.com/Trendyol/kink/issues/47) in [Trendyol/kink](https://github.com/Trendyol/kink)
+3. 💪 Opened PR [#1253](https://github.com/sigstore/cosign/pull/1253) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1219](https://github.com/google/go-containerregistry/issues/1219) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 🗣 Commented on [#1120](https://github.com/sigstore/cosign/issues/1120) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
