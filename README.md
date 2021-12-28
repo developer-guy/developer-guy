@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92075](https://github.com/Homebrew/homebrew-core/issues/92075) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#92075](https://github.com/Homebrew/homebrew-core/pull/92075) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. ❗️ Opened issue [#1254](https://github.com/sigstore/cosign/issues/1254) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🎉 Merged PR [#46](https://github.com/Trendyol/kink/pull/46) in [Trendyol/kink](https://github.com/Trendyol/kink)
-5. ❗️ Opened issue [#48](https://github.com/Trendyol/kink/issues/48) in [Trendyol/kink](https://github.com/Trendyol/kink)
+1. 💪 Opened PR [#2](https://github.com/shibumi/kubectl-htpasswd/pull/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
+2. 🗣 Commented on [#92075](https://github.com/Homebrew/homebrew-core/issues/92075) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#92075](https://github.com/Homebrew/homebrew-core/pull/92075) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. ❗️ Opened issue [#1254](https://github.com/sigstore/cosign/issues/1254) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🎉 Merged PR [#46](https://github.com/Trendyol/kink/pull/46) in [Trendyol/kink](https://github.com/Trendyol/kink)
 <!--END_SECTION:activity-->
 
 
