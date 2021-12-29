@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. ❗️ Opened issue [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
 2. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 3. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#2](https://github.com/shibumi/kubectl-htpasswd/pull/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
+5. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
