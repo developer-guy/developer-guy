@@ -40,8 +40,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-2. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. ❗️ Opened issue [#45](https://github.com/sigstore/cosign-installer/issues/45) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+2. ❗️ Opened issue [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
 3. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 5. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
