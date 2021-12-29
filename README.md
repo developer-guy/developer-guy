@@ -43,8 +43,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 1. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 2. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 3. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 💪 Opened PR [#2](https://github.com/shibumi/kubectl-htpasswd/pull/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
-5. 🗣 Commented on [#92075](https://github.com/Homebrew/homebrew-core/issues/92075) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 🗣 Commented on [#2794](https://github.com/goreleaser/goreleaser/issues/2794) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#2](https://github.com/shibumi/kubectl-htpasswd/pull/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
 <!--END_SECTION:activity-->
 
 
