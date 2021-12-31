@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1260](https://github.com/sigstore/cosign/pull/1260) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1259](https://github.com/sigstore/cosign/issues/1259) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1259](https://github.com/sigstore/cosign/issues/1259) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#71](https://github.com/gythialy/golang-cross/issues/71) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. ❗️ Opened issue [#71](https://github.com/gythialy/golang-cross/issues/71) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 💪 Opened PR [#1260](https://github.com/sigstore/cosign/pull/1260) in [sigstore/cosign](https://github.com/sigstore/cosign)
 4. 🗣 Commented on [#1259](https://github.com/sigstore/cosign/issues/1259) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#45](https://github.com/sigstore/cosign-installer/issues/45) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 🗣 Commented on [#1259](https://github.com/sigstore/cosign/issues/1259) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
