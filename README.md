@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/CycloneDX/cyclonedx-gomod/pull/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-2. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 🗣 Commented on [#100](https://github.com/CycloneDX/cyclonedx-gomod/issues/100) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-4. 🗣 Commented on [#564](https://github.com/google/ko/issues/564) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#564](https://github.com/google/ko/issues/564) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. ❗️ Opened issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 💪 Opened PR [#112](https://github.com/CycloneDX/cyclonedx-gomod/pull/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+4. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. 🗣 Commented on [#100](https://github.com/CycloneDX/cyclonedx-gomod/issues/100) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
 <!--END_SECTION:activity-->
 
 
