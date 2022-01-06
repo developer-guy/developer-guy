@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/CycloneDX/cyclonedx-gomod/issues/100) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-2. 🗣 Commented on [#564](https://github.com/google/ko/issues/564) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. 🗣 Commented on [#100](https://github.com/CycloneDX/cyclonedx-gomod/issues/100) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
 3. 🗣 Commented on [#564](https://github.com/google/ko/issues/564) in [google/ko](https://github.com/google/ko)
-4. 💪 Opened PR [#564](https://github.com/google/ko/pull/564) in [google/ko](https://github.com/google/ko)
-5. ❗️ Opened issue [#2808](https://github.com/goreleaser/goreleaser/issues/2808) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#564](https://github.com/google/ko/issues/564) in [google/ko](https://github.com/google/ko)
+5. 💪 Opened PR [#564](https://github.com/google/ko/pull/564) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
