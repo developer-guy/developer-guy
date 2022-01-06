@@ -31,11 +31,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Manage Kubernetes Admission Webhook&#39;s certificates with cert-manager CA Injector and Vault PKI…](https://medium.com/trendyol-tech/manage-kubernetes-admission-webhooks-certificates-with-cert-manager-ca-injector-and-vault-pki-281b065e1044?source=rss-57d794f14ac9------2)
 - [The fanciest way of releasing Go binaries with GoReleaser](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb?source=rss-57d794f14ac9------2)
 - [5 Ways of Managing TLS Certificates for your Kubernetes Admission Webhooks](https://medium.com/trendyol-tech/5-ways-of-managing-tls-certificates-for-your-kubernetes-admission-webhooks-b2ca971c065?source=rss-57d794f14ac9------2)
 - [Getting Started to Write Your First Kubernetes Admission Webhook Part 2✨](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-2-48d0b0b1780e?source=rss-57d794f14ac9------2)
 - [Getting Started to Write Your First Kubernetes Admission Webhook Part 1✨](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-1-623f40c2adda?source=rss-57d794f14ac9------2)
-- [Dynamic Config&amp;Secret Management Sürecimize Tamamen Farklı Bakış](https://medium.com/trendyol-tech/dynamic-config-secret-management-s%C3%BCrecimize-tamamen-farkl%C4%B1-bak%C4%B1%C5%9F-1b3ae45d380f?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
