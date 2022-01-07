@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. ❗️ Opened issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+2. ❗️ Closed issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 3. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. ❗️ Opened issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. 💪 Opened PR [#112](https://github.com/CycloneDX/cyclonedx-gomod/pull/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+4. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. ❗️ Opened issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
