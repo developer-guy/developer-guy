@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+1. 💪 Opened PR [#693](https://github.com/kubernetes-sigs/descheduler/pull/693) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 2. ❗️ Closed issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-3. ❗️ Opened issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
-4. ❗️ Closed issue [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. 🗣 Commented on [#1232](https://github.com/google/go-containerregistry/issues/1232) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. ❗️ Reopened issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+4. ❗️ Closed issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
+5. ❗️ Opened issue [#303](https://github.com/falcosecurity/charts/issues/303) in [falcosecurity/charts](https://github.com/falcosecurity/charts)
 <!--END_SECTION:activity-->
 
 
