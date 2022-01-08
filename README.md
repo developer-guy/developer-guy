@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 2. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
 3. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
 4. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🗣 Commented on [#23](https://github.com/docker/buildx/issues/23) in [docker/buildx](https://github.com/docker/buildx)
+5. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
