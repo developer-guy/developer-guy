@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/rancher/kim/pull/89) in [rancher/kim](https://github.com/rancher/kim)
-2. 🗣 Commented on [#48](https://github.com/sigstore/cosign-installer/issues/48) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-3. 🗣 Commented on [#693](https://github.com/kubernetes-sigs/descheduler/issues/693) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
-4. 💪 Opened PR [#76](https://github.com/gythialy/golang-cross/pull/76) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 💪 Opened PR [#48](https://github.com/sigstore/cosign-installer/pull/48) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+1. ❗️ Opened issue [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. ❗️ Opened issue [#529](https://github.com/lima-vm/lima/issues/529) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. 💪 Opened PR [#89](https://github.com/rancher/kim/pull/89) in [rancher/kim](https://github.com/rancher/kim)
+4. 🗣 Commented on [#48](https://github.com/sigstore/cosign-installer/issues/48) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 🗣 Commented on [#693](https://github.com/kubernetes-sigs/descheduler/issues/693) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
 <!--END_SECTION:activity-->
 
 
