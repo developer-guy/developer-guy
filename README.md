@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#680](https://github.com/containerd/nerdctl/pull/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. ❗️ Opened issue [#679](https://github.com/containerd/nerdctl/issues/679) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#529](https://github.com/lima-vm/lima/issues/529) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. ❗️ Opened issue [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. ❗️ Opened issue [#529](https://github.com/lima-vm/lima/issues/529) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 🗣 Commented on [#2658](https://github.com/spiffe/spire/issues/2658) in [spiffe/spire](https://github.com/spiffe/spire)
+2. 💪 Opened PR [#680](https://github.com/containerd/nerdctl/pull/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. ❗️ Opened issue [#679](https://github.com/containerd/nerdctl/issues/679) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#529](https://github.com/lima-vm/lima/issues/529) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. ❗️ Opened issue [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
