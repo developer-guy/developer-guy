@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-2. 🗣 Commented on [#2](https://github.com/shibumi/kubectl-htpasswd/issues/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
-3. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#48](https://github.com/sigstore/cosign-installer/issues/48) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-5. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 💪 Opened PR [#909](https://github.com/docker/buildx/pull/909) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
+3. 🗣 Commented on [#2](https://github.com/shibumi/kubectl-htpasswd/issues/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
+4. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#48](https://github.com/sigstore/cosign-installer/issues/48) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
 <!--END_SECTION:activity-->
 
 
