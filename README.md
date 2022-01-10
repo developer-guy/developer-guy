@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/nsmith5/rekor-sidekick/issues/16) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-2. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#2](https://github.com/shibumi/kubectl-htpasswd/issues/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
-4. 💪 Opened PR [#909](https://github.com/docker/buildx/pull/909) in [docker/buildx](https://github.com/docker/buildx)
-5. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
+2. 🗣 Commented on [#16](https://github.com/nsmith5/rekor-sidekick/issues/16) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+3. 🗣 Commented on [#530](https://github.com/lima-vm/lima/issues/530) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 🗣 Commented on [#2](https://github.com/shibumi/kubectl-htpasswd/issues/2) in [shibumi/kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd)
+5. 💪 Opened PR [#909](https://github.com/docker/buildx/pull/909) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
 
 
