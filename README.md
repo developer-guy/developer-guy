@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-2. 💪 Opened PR [#2825](https://github.com/goreleaser/goreleaser/pull/2825) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#19](https://github.com/nsmith5/rekor-sidekick/issues/19) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-4. 💪 Opened PR [#18](https://github.com/nsmith5/rekor-sidekick/pull/18) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-5. 🗣 Commented on [#16](https://github.com/nsmith5/rekor-sidekick/issues/16) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+1. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+3. 💪 Opened PR [#895](https://github.com/tektoncd/catalog/pull/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+4. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
+5. 💪 Opened PR [#2825](https://github.com/goreleaser/goreleaser/pull/2825) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
