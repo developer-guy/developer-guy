@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
-2. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
-3. 💪 Opened PR [#895](https://github.com/tektoncd/catalog/pull/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-5. 💪 Opened PR [#2825](https://github.com/goreleaser/goreleaser/pull/2825) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#62](https://github.com/kubernetes-sigs/depstat/pull/62) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+2. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
+3. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+4. 💪 Opened PR [#895](https://github.com/tektoncd/catalog/pull/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+5. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
 <!--END_SECTION:activity-->
 
 
