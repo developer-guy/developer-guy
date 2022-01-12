@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-2. 💪 Opened PR [#63](https://github.com/kubernetes-sigs/depstat/pull/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-3. 💪 Opened PR [#62](https://github.com/kubernetes-sigs/depstat/pull/62) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-4. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#489](https://github.com/anchore/grype/issues/489) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+3. 💪 Opened PR [#63](https://github.com/kubernetes-sigs/depstat/pull/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+4. 💪 Opened PR [#62](https://github.com/kubernetes-sigs/depstat/pull/62) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+5. 🗣 Commented on [#232](https://github.com/anchore/grype/issues/232) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
