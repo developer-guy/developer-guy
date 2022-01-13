@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+1. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+2. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
 3. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-4. 💪 Opened PR [#63](https://github.com/kubernetes-sigs/depstat/pull/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-5. 💪 Opened PR [#62](https://github.com/kubernetes-sigs/depstat/pull/62) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+4. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+5. 💪 Opened PR [#63](https://github.com/kubernetes-sigs/depstat/pull/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
 <!--END_SECTION:activity-->
 
 
