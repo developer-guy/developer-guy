@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/kubernetes-sigs/depstat/issues/59) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-2. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
-3. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
-4. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-5. 🗣 Commented on [#37](https://github.com/kubernetes-sigs/depstat/issues/37) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+1. ❗️ Opened issue [#552](https://github.com/lima-vm/lima/issues/552) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. ❗️ Opened issue [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
+3. 🗣 Commented on [#59](https://github.com/kubernetes-sigs/depstat/issues/59) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+4. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+5. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
