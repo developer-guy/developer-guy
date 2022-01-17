@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1317](https://github.com/sigstore/cosign/issues/1317) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#554](https://github.com/lima-vm/lima/issues/554) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 💪 Opened PR [#553](https://github.com/lima-vm/lima/pull/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. ❗️ Opened issue [#552](https://github.com/lima-vm/lima/issues/552) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. ❗️ Opened issue [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
+1. 💪 Opened PR [#80](https://github.com/gythialy/golang-cross/pull/80) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. ❌ Closed PR [#67](https://github.com/gythialy/golang-cross/pull/67) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 🗣 Commented on [#1317](https://github.com/sigstore/cosign/issues/1317) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#554](https://github.com/lima-vm/lima/issues/554) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 💪 Opened PR [#553](https://github.com/lima-vm/lima/pull/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
