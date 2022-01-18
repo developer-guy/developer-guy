@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. 🗣 Commented on [#76](https://github.com/gythialy/golang-cross/issues/76) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
-4. 💪 Opened PR [#4544](https://github.com/vmware-tanzu/velero/pull/4544) in [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
-5. 💪 Opened PR [#80](https://github.com/gythialy/golang-cross/pull/80) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. 🗣 Commented on [#76](https://github.com/gythialy/golang-cross/issues/76) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
+5. 💪 Opened PR [#4544](https://github.com/vmware-tanzu/velero/pull/4544) in [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
 <!--END_SECTION:activity-->
 
 
