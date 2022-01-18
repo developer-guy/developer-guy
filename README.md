@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#76](https://github.com/gythialy/golang-cross/issues/76) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
-5. 💪 Opened PR [#4544](https://github.com/vmware-tanzu/velero/pull/4544) in [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
+1. 🗣 Commented on [#4](https://github.com/developer-guy/buildkit-machine/issues/4) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+2. 🎉 Merged PR [#3](https://github.com/developer-guy/buildkit-machine/pull/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+3. ❗️ Closed issue [#2](https://github.com/developer-guy/buildkit-machine/issues/2) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+4. ❗️ Closed issue [#1](https://github.com/developer-guy/buildkit-machine/issues/1) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+5. 🗣 Commented on [#3](https://github.com/developer-guy/buildkit-machine/issues/3) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
 <!--END_SECTION:activity-->
 
 
