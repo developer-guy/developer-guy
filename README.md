@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1181](https://github.com/aws/karpenter/pull/1181) in [aws/karpenter](https://github.com/aws/karpenter)
-2. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. ❗️ Opened issue [#562](https://github.com/lima-vm/lima/issues/562) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. ❗️ Opened issue [#1338](https://github.com/sigstore/cosign/issues/1338) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#667](https://github.com/open-policy-agent/conftest/issues/667) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. ❗️ Opened issue [#329](https://github.com/armosec/kubescape/issues/329) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. 🗣 Commented on [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
+3. ❗️ Opened issue [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 💪 Opened PR [#1181](https://github.com/aws/karpenter/pull/1181) in [aws/karpenter](https://github.com/aws/karpenter)
+5. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
