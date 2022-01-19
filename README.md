@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/developer-guy/buildkit-machine/pull/5) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-2. 🗣 Commented on [#13](https://github.com/Issif/falco-talon/issues/13) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
-3. 💪 Opened PR [#13](https://github.com/Issif/falco-talon/pull/13) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
-4. ❗️ Opened issue [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🎉 Merged PR [#4](https://github.com/developer-guy/buildkit-machine/pull/4) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+1. 💪 Opened PR [#14](https://github.com/Issif/falco-talon/pull/14) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
+2. 💪 Opened PR [#5](https://github.com/developer-guy/buildkit-machine/pull/5) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+3. 🗣 Commented on [#13](https://github.com/Issif/falco-talon/issues/13) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
+4. 💪 Opened PR [#13](https://github.com/Issif/falco-talon/pull/13) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
+5. ❗️ Opened issue [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
