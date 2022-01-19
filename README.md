@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#562](https://github.com/lima-vm/lima/issues/562) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. ❗️ Opened issue [#1338](https://github.com/sigstore/cosign/issues/1338) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#667](https://github.com/open-policy-agent/conftest/issues/667) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. ❗️ Opened issue [#666](https://github.com/open-policy-agent/conftest/issues/666) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-5. 🗣 Commented on [#4](https://github.com/developer-guy/buildkit-machine/issues/4) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+1. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. ❗️ Opened issue [#562](https://github.com/lima-vm/lima/issues/562) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. ❗️ Opened issue [#1338](https://github.com/sigstore/cosign/issues/1338) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#667](https://github.com/open-policy-agent/conftest/issues/667) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. ❗️ Opened issue [#666](https://github.com/open-policy-agent/conftest/issues/666) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
 <!--END_SECTION:activity-->
 
 
