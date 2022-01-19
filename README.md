@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#329](https://github.com/armosec/kubescape/issues/329) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 🗣 Commented on [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. ❗️ Opened issue [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#1181](https://github.com/aws/karpenter/pull/1181) in [aws/karpenter](https://github.com/aws/karpenter)
-5. 🗣 Commented on [#553](https://github.com/lima-vm/lima/issues/553) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 🗣 Commented on [#1859](https://github.com/falcosecurity/falco/issues/1859) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. ❗️ Opened issue [#1859](https://github.com/falcosecurity/falco/issues/1859) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. ❗️ Opened issue [#329](https://github.com/armosec/kubescape/issues/329) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 🗣 Commented on [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
+5. ❗️ Opened issue [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
