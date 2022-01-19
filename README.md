@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#329](https://github.com/armosec/kubescape/issues/329) in [armosec/kubescape](https://github.com/armosec/kubescape)
-2. 💪 Opened PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-3. 💪 Opened PR [#854](https://github.com/withfig/autocomplete/pull/854) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-4. 🗣 Commented on [#1859](https://github.com/falcosecurity/falco/issues/1859) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. ❗️ Opened issue [#1859](https://github.com/falcosecurity/falco/issues/1859) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 🗣 Commented on [#4249](https://github.com/open-policy-agent/opa/issues/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. 🗣 Commented on [#329](https://github.com/armosec/kubescape/issues/329) in [armosec/kubescape](https://github.com/armosec/kubescape)
+3. 💪 Opened PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+4. 💪 Opened PR [#854](https://github.com/withfig/autocomplete/pull/854) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+5. 🗣 Commented on [#1859](https://github.com/falcosecurity/falco/issues/1859) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
 
 
