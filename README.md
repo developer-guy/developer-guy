@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/developer-guy/buildkit-machine/pull/6) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-2. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 💪 Opened PR [#14](https://github.com/Issif/falco-talon/pull/14) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
-4. 💪 Opened PR [#5](https://github.com/developer-guy/buildkit-machine/pull/5) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-5. 🗣 Commented on [#13](https://github.com/Issif/falco-talon/issues/13) in [Issif/falco-talon](https://github.com/Issif/falco-talon)
+1. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
+2. ❌ Closed PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 🗣 Commented on [#4249](https://github.com/open-policy-agent/opa/issues/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+4. 💪 Opened PR [#161](https://github.com/open-policy-agent/contrib/pull/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
+5. 🎉 Merged PR [#6](https://github.com/developer-guy/buildkit-machine/pull/6) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
 <!--END_SECTION:activity-->
 
 
