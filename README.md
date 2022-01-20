@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#613](https://github.com/alexellis/arkade/issues/613) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#612](https://github.com/alexellis/arkade/issues/612) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
-4. ❌ Closed PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 🗣 Commented on [#4249](https://github.com/open-policy-agent/opa/issues/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. ❗️ Opened issue [#2840](https://github.com/goreleaser/goreleaser/issues/2840) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❗️ Opened issue [#613](https://github.com/alexellis/arkade/issues/613) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#612](https://github.com/alexellis/arkade/issues/612) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
+5. ❌ Closed PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
