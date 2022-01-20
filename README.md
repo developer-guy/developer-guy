@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ckotzbauer/sbom-operator/pull/7) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-2. ❗️ Opened issue [#2840](https://github.com/goreleaser/goreleaser/issues/2840) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ❗️ Opened issue [#613](https://github.com/alexellis/arkade/issues/613) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#612](https://github.com/alexellis/arkade/issues/612) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
+1. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. 🗣 Commented on [#32](https://github.com/withfig/autocomplete-tools/issues/32) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
+3. ❗️ Opened issue [#32](https://github.com/withfig/autocomplete-tools/issues/32) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
+4. 🗣 Commented on [#10](https://github.com/ckotzbauer/sbom-operator/issues/10) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+5. ❗️ Opened issue [#10](https://github.com/ckotzbauer/sbom-operator/issues/10) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
 <!--END_SECTION:activity-->
 
 
