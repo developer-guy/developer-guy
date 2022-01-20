@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/developer-guy/buildkit-machine/issues/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-2. 🎉 Merged PR [#7](https://github.com/developer-guy/buildkit-machine/pull/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-3. ❗️ Opened issue [#82](https://github.com/gythialy/golang-cross/issues/82) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. ❗️ Opened issue [#339](https://github.com/armosec/kubescape/issues/339) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
+1. 🗣 Commented on [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. 🗣 Commented on [#7](https://github.com/developer-guy/buildkit-machine/issues/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+3. 🎉 Merged PR [#7](https://github.com/developer-guy/buildkit-machine/pull/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+4. ❗️ Opened issue [#82](https://github.com/gythialy/golang-cross/issues/82) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. ❗️ Opened issue [#339](https://github.com/armosec/kubescape/issues/339) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
