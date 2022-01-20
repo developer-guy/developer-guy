@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
-2. ❌ Closed PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-3. 🗣 Commented on [#4249](https://github.com/open-policy-agent/opa/issues/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-4. 💪 Opened PR [#161](https://github.com/open-policy-agent/contrib/pull/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
-5. 🎉 Merged PR [#6](https://github.com/developer-guy/buildkit-machine/pull/6) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+1. ❗️ Opened issue [#613](https://github.com/alexellis/arkade/issues/613) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. ❗️ Opened issue [#612](https://github.com/alexellis/arkade/issues/612) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#960](https://github.com/nektos/act/issues/960) in [nektos/act](https://github.com/nektos/act)
+4. ❌ Closed PR [#4249](https://github.com/open-policy-agent/opa/pull/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+5. 🗣 Commented on [#4249](https://github.com/open-policy-agent/opa/issues/4249) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
