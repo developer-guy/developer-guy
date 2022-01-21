@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
-2. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. 💪 Opened PR [#31](https://github.com/nsmith5/rekor-sidekick/pull/31) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-5. ❗️ Opened issue [#30](https://github.com/nsmith5/rekor-sidekick/issues/30) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+1. 💪 Opened PR [#33](https://github.com/withfig/autocomplete-tools/pull/33) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
+2. 💪 Opened PR [#13](https://github.com/ckotzbauer/sbom-operator/pull/13) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+3. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
+4. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
