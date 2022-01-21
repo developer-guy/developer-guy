@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/nsmith5/rekor-sidekick/pull/31) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-2. ❗️ Opened issue [#30](https://github.com/nsmith5/rekor-sidekick/issues/30) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-3. 💪 Opened PR [#29](https://github.com/nsmith5/rekor-sidekick/pull/29) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
-4. 🗣 Commented on [#328](https://github.com/armosec/kubescape/issues/328) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 🗣 Commented on [#7](https://github.com/developer-guy/buildkit-machine/issues/7) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+1. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
+2. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 💪 Opened PR [#31](https://github.com/nsmith5/rekor-sidekick/pull/31) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+5. ❗️ Opened issue [#30](https://github.com/nsmith5/rekor-sidekick/issues/30) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
 <!--END_SECTION:activity-->
 
 
