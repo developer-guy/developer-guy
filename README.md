@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
-2. ❗️ Opened issue [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. ❗️ Opened issue [#343](https://github.com/armosec/kubescape/issues/343) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. ❗️ Opened issue [#342](https://github.com/armosec/kubescape/issues/342) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 💪 Opened PR [#33](https://github.com/withfig/autocomplete-tools/pull/33) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
+2. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
+3. ❗️ Opened issue [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. ❗️ Opened issue [#343](https://github.com/armosec/kubescape/issues/343) in [armosec/kubescape](https://github.com/armosec/kubescape)
+5. ❗️ Opened issue [#342](https://github.com/armosec/kubescape/issues/342) in [armosec/kubescape](https://github.com/armosec/kubescape)
 <!--END_SECTION:activity-->
 
 
