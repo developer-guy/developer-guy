@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#617](https://github.com/alexellis/arkade/issues/617) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. ❗️ Opened issue [#589](https://github.com/lima-vm/lima/issues/589) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. ❗️ Opened issue [#617](https://github.com/alexellis/arkade/issues/617) in [alexellis/arkade](https://github.com/alexellis/arkade)
 3. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. ❗️ Opened issue [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. ❗️ Opened issue [#343](https://github.com/armosec/kubescape/issues/343) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. ❗️ Opened issue [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
