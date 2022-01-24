@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/withfig/autocomplete-tools/pull/33) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
-2. 💪 Opened PR [#13](https://github.com/ckotzbauer/sbom-operator/pull/13) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-3. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
-4. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🗣 Commented on [#567](https://github.com/lima-vm/lima/issues/567) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. ❗️ Opened issue [#343](https://github.com/armosec/kubescape/issues/343) in [armosec/kubescape](https://github.com/armosec/kubescape)
+2. ❗️ Opened issue [#342](https://github.com/armosec/kubescape/issues/342) in [armosec/kubescape](https://github.com/armosec/kubescape)
+3. 💪 Opened PR [#33](https://github.com/withfig/autocomplete-tools/pull/33) in [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools)
+4. 💪 Opened PR [#13](https://github.com/ckotzbauer/sbom-operator/pull/13) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+5. 🗣 Commented on [#41](https://github.com/armosec/regolibrary/issues/41) in [armosec/regolibrary](https://github.com/armosec/regolibrary)
 <!--END_SECTION:activity-->
 
 
