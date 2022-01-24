@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#617](https://github.com/alexellis/arkade/issues/617) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#591](https://github.com/lima-vm/lima/issues/591) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-4. ❗️ Opened issue [#589](https://github.com/lima-vm/lima/issues/589) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. ❗️ Opened issue [#617](https://github.com/alexellis/arkade/issues/617) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#581](https://github.com/lima-vm/lima/issues/581) in [lima-vm/lima](https://github.com/lima-vm/lima)
+2. 💪 Opened PR [#83](https://github.com/gythialy/golang-cross/pull/83) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+3. 🗣 Commented on [#617](https://github.com/alexellis/arkade/issues/617) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#591](https://github.com/lima-vm/lima/issues/591) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#220](https://github.com/loft-sh/vcluster/issues/220) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 <!--END_SECTION:activity-->
 
 
