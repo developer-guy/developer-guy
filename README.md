@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#152](https://github.com/loft-sh/vcluster/pull/152) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
-2. 🗣 Commented on [#83](https://github.com/gythialy/golang-cross/issues/83) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+2. ❌ Closed PR [#152](https://github.com/loft-sh/vcluster/pull/152) in [loft-sh/vcluster](https://github.com/loft-sh/vcluster)
 3. 🗣 Commented on [#83](https://github.com/gythialy/golang-cross/issues/83) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. ❗️ Opened issue [#570](https://github.com/google/ko/issues/570) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#460](https://github.com/google/ko/issues/460) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#83](https://github.com/gythialy/golang-cross/issues/83) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. ❗️ Opened issue [#570](https://github.com/google/ko/issues/570) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
