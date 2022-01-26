@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
-2. 💪 Opened PR [#1360](https://github.com/sigstore/cosign/pull/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#873](https://github.com/withfig/autocomplete/pull/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-4. ❗️ Opened issue [#1359](https://github.com/sigstore/cosign/issues/1359) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#33](https://github.com/nsmith5/rekor-sidekick/issues/33) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+1. ❗️ Opened issue [#34](https://github.com/nsmith5/rekor-sidekick/issues/34) in [nsmith5/rekor-sidekick](https://github.com/nsmith5/rekor-sidekick)
+2. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
+3. 💪 Opened PR [#1360](https://github.com/sigstore/cosign/pull/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#873](https://github.com/withfig/autocomplete/pull/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+5. ❗️ Opened issue [#1359](https://github.com/sigstore/cosign/issues/1359) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
