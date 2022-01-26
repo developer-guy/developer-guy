@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#775](https://github.com/anchore/syft/issues/775) in [anchore/syft](https://github.com/anchore/syft)
-2. ❗️ Opened issue [#604](https://github.com/anchore/grype/issues/604) in [anchore/grype](https://github.com/anchore/grype)
-3. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
-4. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
-5. 💪 Opened PR [#1362](https://github.com/sigstore/cosign/pull/1362) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+2. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+3. ❗️ Opened issue [#775](https://github.com/anchore/syft/issues/775) in [anchore/syft](https://github.com/anchore/syft)
+4. ❗️ Opened issue [#604](https://github.com/anchore/grype/issues/604) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
 <!--END_SECTION:activity-->
 
 
