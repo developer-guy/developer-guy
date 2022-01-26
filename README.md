@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3092](https://github.com/kyverno/kyverno/pull/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+1. 🗣 Commented on [#3092](https://github.com/kyverno/kyverno/issues/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#3092](https://github.com/kyverno/kyverno/pull/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-4. ❗️ Opened issue [#775](https://github.com/anchore/syft/issues/775) in [anchore/syft](https://github.com/anchore/syft)
-5. ❗️ Opened issue [#604](https://github.com/anchore/grype/issues/604) in [anchore/grype](https://github.com/anchore/grype)
+4. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+5. ❗️ Opened issue [#775](https://github.com/anchore/syft/issues/775) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
