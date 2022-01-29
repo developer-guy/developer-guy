@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3102](https://github.com/kyverno/kyverno/issues/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 💪 Opened PR [#3102](https://github.com/kyverno/kyverno/pull/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#3092](https://github.com/kyverno/kyverno/issues/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#3092](https://github.com/kyverno/kyverno/pull/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#112](https://github.com/CycloneDX/cyclonedx-gomod/issues/112) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+1. ❗️ Opened issue [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+2. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+3. 🗣 Commented on [#3102](https://github.com/kyverno/kyverno/issues/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#3102](https://github.com/kyverno/kyverno/pull/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3092](https://github.com/kyverno/kyverno/issues/3092) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
