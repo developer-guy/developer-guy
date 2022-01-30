@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1375](https://github.com/sigstore/cosign/issues/1375) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Opened issue [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-3. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-4. 🗣 Commented on [#3102](https://github.com/kyverno/kyverno/issues/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#3102](https://github.com/kyverno/kyverno/pull/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#1375](https://github.com/sigstore/cosign/issues/1375) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1375](https://github.com/sigstore/cosign/issues/1375) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+4. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+5. 🗣 Commented on [#3102](https://github.com/kyverno/kyverno/issues/3102) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
