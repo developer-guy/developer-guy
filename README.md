@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. ❗️ Opened issue [#614](https://github.com/anchore/grype/issues/614) in [anchore/grype](https://github.com/anchore/grype)
-3. ❗️ Opened issue [#613](https://github.com/anchore/grype/issues/613) in [anchore/grype](https://github.com/anchore/grype)
-4. ❗️ Opened issue [#783](https://github.com/anchore/syft/issues/783) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#1375](https://github.com/sigstore/cosign/issues/1375) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1](https://github.com/puerco/bom-installer/pull/1) in [puerco/bom-installer](https://github.com/puerco/bom-installer)
+2. ❗️ Opened issue [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+3. ❗️ Opened issue [#614](https://github.com/anchore/grype/issues/614) in [anchore/grype](https://github.com/anchore/grype)
+4. ❗️ Opened issue [#613](https://github.com/anchore/grype/issues/613) in [anchore/grype](https://github.com/anchore/grype)
+5. ❗️ Opened issue [#783](https://github.com/anchore/syft/issues/783) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
