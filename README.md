@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/kyverno/policies/issues/246) in [kyverno/policies](https://github.com/kyverno/policies)
-2. 💪 Opened PR [#246](https://github.com/kyverno/policies/pull/246) in [kyverno/policies](https://github.com/kyverno/policies)
-3. 💪 Opened PR [#245](https://github.com/kyverno/policies/pull/245) in [kyverno/policies](https://github.com/kyverno/policies)
-4. 🗣 Commented on [#820](https://github.com/sigstore/cosign/issues/820) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#1](https://github.com/puerco/bom-installer/pull/1) in [puerco/bom-installer](https://github.com/puerco/bom-installer)
+1. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#85](https://github.com/gythialy/golang-cross/pull/85) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#246](https://github.com/kyverno/policies/issues/246) in [kyverno/policies](https://github.com/kyverno/policies)
+5. 💪 Opened PR [#246](https://github.com/kyverno/policies/pull/246) in [kyverno/policies](https://github.com/kyverno/policies)
 <!--END_SECTION:activity-->
 
 
