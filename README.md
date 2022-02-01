@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-2. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#85](https://github.com/gythialy/golang-cross/pull/85) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#246](https://github.com/kyverno/policies/issues/246) in [kyverno/policies](https://github.com/kyverno/policies)
-5. 💪 Opened PR [#246](https://github.com/kyverno/policies/pull/246) in [kyverno/policies](https://github.com/kyverno/policies)
+1. 🗣 Commented on [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. ❗️ Opened issue [#1660](https://github.com/aquasecurity/trivy/issues/1660) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+3. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+4. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#85](https://github.com/gythialy/golang-cross/pull/85) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
