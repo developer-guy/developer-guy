@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/kyverno/policies/issues/254) in [kyverno/policies](https://github.com/kyverno/policies)
+1. ❗️ Opened issue [#20](https://github.com/spiffe/spiffe-csi/issues/20) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
 2. 🗣 Commented on [#254](https://github.com/kyverno/policies/issues/254) in [kyverno/policies](https://github.com/kyverno/policies)
-3. 💪 Opened PR [#254](https://github.com/kyverno/policies/pull/254) in [kyverno/policies](https://github.com/kyverno/policies)
-4. ❗️ Opened issue [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#1668](https://github.com/aquasecurity/trivy/pull/1668) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+3. 🗣 Commented on [#254](https://github.com/kyverno/policies/issues/254) in [kyverno/policies](https://github.com/kyverno/policies)
+4. 💪 Opened PR [#254](https://github.com/kyverno/policies/pull/254) in [kyverno/policies](https://github.com/kyverno/policies)
+5. ❗️ Opened issue [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
