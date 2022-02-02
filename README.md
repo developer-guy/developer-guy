@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. ❗️ Opened issue [#1660](https://github.com/aquasecurity/trivy/issues/1660) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-5. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#3152](https://github.com/kyverno/kyverno/issues/3152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. 🗣 Commented on [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. ❗️ Opened issue [#1660](https://github.com/aquasecurity/trivy/issues/1660) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
 <!--END_SECTION:activity-->
 
 
