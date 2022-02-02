@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1668](https://github.com/aquasecurity/trivy/pull/1668) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. ❗️ Opened issue [#3152](https://github.com/kyverno/kyverno/issues/3152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. ❗️ Opened issue [#1660](https://github.com/aquasecurity/trivy/issues/1660) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+1. ❗️ Opened issue [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#1668](https://github.com/aquasecurity/trivy/pull/1668) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+3. ❗️ Opened issue [#3152](https://github.com/kyverno/kyverno/issues/3152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#1646](https://github.com/aquasecurity/trivy/issues/1646) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
 
 
