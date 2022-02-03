@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. ❗️ Opened issue [#20](https://github.com/spiffe/spiffe-csi/issues/20) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
-4. 🗣 Commented on [#254](https://github.com/kyverno/policies/issues/254) in [kyverno/policies](https://github.com/kyverno/policies)
-5. 🗣 Commented on [#254](https://github.com/kyverno/policies/issues/254) in [kyverno/policies](https://github.com/kyverno/policies)
+1. ❗️ Opened issue [#137](https://github.com/hashicorp/vault-csi-provider/issues/137) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+2. 💪 Opened PR [#136](https://github.com/hashicorp/vault-csi-provider/pull/136) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+3. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+4. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. ❗️ Opened issue [#20](https://github.com/spiffe/spiffe-csi/issues/20) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
 <!--END_SECTION:activity-->
 
 
