@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
-3. 💪 Opened PR [#361](https://github.com/armosec/kubescape/pull/361) in [armosec/kubescape](https://github.com/armosec/kubescape)
-4. 💪 Opened PR [#1398](https://github.com/sigstore/cosign/pull/1398) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#11](https://github.com/chainguard-dev/cosign-ecs-verify/issues/11) in [chainguard-dev/cosign-ecs-verify](https://github.com/chainguard-dev/cosign-ecs-verify)
+2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+3. 🗣 Commented on [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 💪 Opened PR [#361](https://github.com/armosec/kubescape/pull/361) in [armosec/kubescape](https://github.com/armosec/kubescape)
+5. 💪 Opened PR [#1398](https://github.com/sigstore/cosign/pull/1398) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
