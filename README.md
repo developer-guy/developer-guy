@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 🗣 Commented on [#3184](https://github.com/kyverno/kyverno/issues/3184) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#3184](https://github.com/kyverno/kyverno/issues/3184) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 🗣 Commented on [#352](https://github.com/armosec/kubescape/issues/352) in [armosec/kubescape](https://github.com/armosec/kubescape)
-5. 💪 Opened PR [#361](https://github.com/armosec/kubescape/pull/361) in [armosec/kubescape](https://github.com/armosec/kubescape)
+4. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 <!--END_SECTION:activity-->
 
 
