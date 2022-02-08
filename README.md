@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#129](https://github.com/philips-labs/slsa-provenance-action/issues/129) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-3. ❗️ Opened issue [#1425](https://github.com/sigstore/cosign/issues/1425) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#3189](https://github.com/kyverno/kyverno/pull/3189) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#2](https://github.com/imjasonh/cosign-docker-cli-plugins/pull/2) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
+1. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❗️ Opened issue [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+3. 🗣 Commented on [#129](https://github.com/philips-labs/slsa-provenance-action/issues/129) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+4. ❗️ Opened issue [#1425](https://github.com/sigstore/cosign/issues/1425) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#3189](https://github.com/kyverno/kyverno/pull/3189) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
