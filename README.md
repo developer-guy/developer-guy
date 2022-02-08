@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3189](https://github.com/kyverno/kyverno/pull/3189) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 💪 Opened PR [#2](https://github.com/imjasonh/cosign-docker-cli-plugins/pull/2) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
-3. 💪 Opened PR [#1](https://github.com/imjasonh/cosign-docker-cli-plugins/pull/1) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
-4. 🗣 Commented on [#3184](https://github.com/kyverno/kyverno/issues/3184) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#3184](https://github.com/kyverno/kyverno/issues/3184) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Opened issue [#1425](https://github.com/sigstore/cosign/issues/1425) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#3189](https://github.com/kyverno/kyverno/pull/3189) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 💪 Opened PR [#2](https://github.com/imjasonh/cosign-docker-cli-plugins/pull/2) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
+4. 💪 Opened PR [#1](https://github.com/imjasonh/cosign-docker-cli-plugins/pull/1) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
+5. 🗣 Commented on [#3184](https://github.com/kyverno/kyverno/issues/3184) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
