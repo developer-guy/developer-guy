@@ -41,9 +41,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-3. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+4. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 5. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
