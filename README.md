@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#3152](https://github.com/kyverno/kyverno/issues/3152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#136](https://github.com/hashicorp/vault-csi-provider/issues/136) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+2. 🗣 Commented on [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+3. 🗣 Commented on [#3152](https://github.com/kyverno/kyverno/issues/3152) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#22](https://github.com/ckotzbauer/sbom-operator/issues/22) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+5. 🗣 Commented on [#1360](https://github.com/sigstore/cosign/issues/1360) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
