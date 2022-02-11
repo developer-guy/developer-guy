@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/fkautz/gitbom-go/pull/7) in [fkautz/gitbom-go](https://github.com/fkautz/gitbom-go)
-2. 🗣 Commented on [#3207](https://github.com/kyverno/kyverno/issues/3207) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Opened issue [#1445](https://github.com/sigstore/cosign/issues/1445) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#7](https://github.com/fkautz/gitbom-go/pull/7) in [fkautz/gitbom-go](https://github.com/fkautz/gitbom-go)
 3. 🗣 Commented on [#3207](https://github.com/kyverno/kyverno/issues/3207) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#3207](https://github.com/kyverno/kyverno/pull/3207) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#136](https://github.com/hashicorp/vault-csi-provider/issues/136) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+4. 🗣 Commented on [#3207](https://github.com/kyverno/kyverno/issues/3207) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#3207](https://github.com/kyverno/kyverno/pull/3207) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
