@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-2. 🗣 Commented on [#1322](https://github.com/aws/karpenter/issues/1322) in [aws/karpenter](https://github.com/aws/karpenter)
+1. 💪 Opened PR [#1451](https://github.com/sigstore/cosign/pull/1451) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
 3. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-4. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-5. 💪 Opened PR [#143](https://github.com/hashicorp/vault-csi-provider/pull/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+4. 🗣 Commented on [#1322](https://github.com/aws/karpenter/issues/1322) in [aws/karpenter](https://github.com/aws/karpenter)
+5. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
 <!--END_SECTION:activity-->
 
 
