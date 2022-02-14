@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#1322](https://github.com/aws/karpenter/issues/1322) in [aws/karpenter](https://github.com/aws/karpenter)
-3. 💪 Opened PR [#1451](https://github.com/sigstore/cosign/pull/1451) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-5. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+2. 🗣 Commented on [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+3. 🗣 Commented on [#137](https://github.com/philips-labs/slsa-provenance-action/issues/137) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+4. 🗣 Commented on [#1322](https://github.com/aws/karpenter/issues/1322) in [aws/karpenter](https://github.com/aws/karpenter)
+5. 💪 Opened PR [#1451](https://github.com/sigstore/cosign/pull/1451) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
