@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#2](https://github.com/imjasonh/cosign-docker-cli-plugins/issues/2) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
-3. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-4. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
-5. 🗣 Commented on [#1461](https://github.com/sigstore/cosign/issues/1461) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#171](https://github.com/goodwithtech/dockle/issues/171) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
+2. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. 🗣 Commented on [#2](https://github.com/imjasonh/cosign-docker-cli-plugins/issues/2) in [imjasonh/cosign-docker-cli-plugins](https://github.com/imjasonh/cosign-docker-cli-plugins)
+4. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+5. 🗣 Commented on [#161](https://github.com/open-policy-agent/contrib/issues/161) in [open-policy-agent/contrib](https://github.com/open-policy-agent/contrib)
 <!--END_SECTION:activity-->
 
 
