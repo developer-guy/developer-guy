@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1361](https://github.com/sigstore/cosign/issues/1361) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1356](https://github.com/sigstore/cosign/issues/1356) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#25](https://github.com/estesp/mquery/pull/25) in [estesp/mquery](https://github.com/estesp/mquery)
-4. 💪 Opened PR [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/pull/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
-5. ❗️ Opened issue [#2643](https://github.com/moby/buildkit/issues/2643) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 🗣 Commented on [#1361](https://github.com/sigstore/cosign/issues/1361) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1356](https://github.com/sigstore/cosign/issues/1356) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#25](https://github.com/estesp/mquery/pull/25) in [estesp/mquery](https://github.com/estesp/mquery)
+5. 💪 Opened PR [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/pull/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
 <!--END_SECTION:activity-->
 
 
