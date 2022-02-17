@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/pull/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
-2. ❗️ Opened issue [#2643](https://github.com/moby/buildkit/issues/2643) in [moby/buildkit](https://github.com/moby/buildkit)
-3. 💪 Opened PR [#653](https://github.com/lima-vm/lima/pull/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. 🗣 Commented on [#171](https://github.com/goodwithtech/dockle/issues/171) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
-5. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 💪 Opened PR [#25](https://github.com/estesp/mquery/pull/25) in [estesp/mquery](https://github.com/estesp/mquery)
+2. 💪 Opened PR [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/pull/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
+3. ❗️ Opened issue [#2643](https://github.com/moby/buildkit/issues/2643) in [moby/buildkit](https://github.com/moby/buildkit)
+4. 💪 Opened PR [#653](https://github.com/lima-vm/lima/pull/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#171](https://github.com/goodwithtech/dockle/issues/171) in [goodwithtech/dockle](https://github.com/goodwithtech/dockle)
 <!--END_SECTION:activity-->
 
 
