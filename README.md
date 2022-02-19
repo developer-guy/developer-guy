@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1662](https://github.com/ossf/scorecard/pull/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. ❗️ Opened issue [#602](https://github.com/google/ko/issues/602) in [google/ko](https://github.com/google/ko)
-3. 💪 Opened PR [#92](https://github.com/gythialy/golang-cross/pull/92) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 💪 Opened PR [#1478](https://github.com/sigstore/cosign/pull/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1361](https://github.com/sigstore/cosign/issues/1361) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1662](https://github.com/ossf/scorecard/issues/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 💪 Opened PR [#1662](https://github.com/ossf/scorecard/pull/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. ❗️ Opened issue [#602](https://github.com/google/ko/issues/602) in [google/ko](https://github.com/google/ko)
+4. 💪 Opened PR [#92](https://github.com/gythialy/golang-cross/pull/92) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 💪 Opened PR [#1478](https://github.com/sigstore/cosign/pull/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
