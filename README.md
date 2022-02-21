@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1488](https://github.com/sigstore/cosign/pull/1488) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1662](https://github.com/ossf/scorecard/issues/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 💪 Opened PR [#1662](https://github.com/ossf/scorecard/pull/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. ❗️ Opened issue [#602](https://github.com/google/ko/issues/602) in [google/ko](https://github.com/google/ko)
-5. 💪 Opened PR [#92](https://github.com/gythialy/golang-cross/pull/92) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#591](https://github.com/google/ko/issues/591) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#591](https://github.com/google/ko/issues/591) in [google/ko](https://github.com/google/ko)
+3. 💪 Opened PR [#1488](https://github.com/sigstore/cosign/pull/1488) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1662](https://github.com/ossf/scorecard/issues/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 💪 Opened PR [#1662](https://github.com/ossf/scorecard/pull/1662) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
