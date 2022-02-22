@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. 💪 Opened PR [#1492](https://github.com/sigstore/cosign/pull/1492) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#700](https://github.com/sigstore/cosign/issues/700) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#607](https://github.com/google/ko/pull/607) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#591](https://github.com/google/ko/issues/591) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 🗣 Commented on [#700](https://github.com/sigstore/cosign/issues/700) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#607](https://github.com/google/ko/pull/607) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
