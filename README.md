@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/chainguard-dev/actions/pull/20) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
-2. 🗣 Commented on [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/issues/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
-3. 🗣 Commented on [#639](https://github.com/anchore/grype/issues/639) in [anchore/grype](https://github.com/anchore/grype)
-4. 🗣 Commented on [#839](https://github.com/anchore/syft/issues/839) in [anchore/syft](https://github.com/anchore/syft)
-5. 💪 Opened PR [#839](https://github.com/anchore/syft/pull/839) in [anchore/syft](https://github.com/anchore/syft)
+1. 🗣 Commented on [#2643](https://github.com/moby/buildkit/issues/2643) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 💪 Opened PR [#20](https://github.com/chainguard-dev/actions/pull/20) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+3. 🗣 Commented on [#126](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/issues/126) in [vmware-tanzu/buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
+4. 🗣 Commented on [#639](https://github.com/anchore/grype/issues/639) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#839](https://github.com/anchore/syft/issues/839) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
