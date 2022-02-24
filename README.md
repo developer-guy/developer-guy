@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 💪 Opened PR [#642](https://github.com/anchore/grype/pull/642) in [anchore/grype](https://github.com/anchore/grype)
-3. 🗣 Commented on [#639](https://github.com/anchore/grype/issues/639) in [anchore/grype](https://github.com/anchore/grype)
-4. 🗣 Commented on [#607](https://github.com/google/ko/issues/607) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+1. 🗣 Commented on [#847](https://github.com/anchore/syft/issues/847) in [anchore/syft](https://github.com/anchore/syft)
+2. 💪 Opened PR [#847](https://github.com/anchore/syft/pull/847) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#642](https://github.com/anchore/grype/pull/642) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#639](https://github.com/anchore/grype/issues/639) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
