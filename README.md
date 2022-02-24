@@ -40,10 +40,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/google/ko/issues/607) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-3. 🗣 Commented on [#1668](https://github.com/aquasecurity/trivy/issues/1668) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#639](https://github.com/anchore/grype/issues/639) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#607](https://github.com/google/ko/issues/607) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#143](https://github.com/hashicorp/vault-csi-provider/issues/143) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+4. 🗣 Commented on [#1668](https://github.com/aquasecurity/trivy/issues/1668) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 5. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
