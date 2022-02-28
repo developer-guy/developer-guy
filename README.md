@@ -40,8 +40,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#847](https://github.com/anchore/syft/issues/847) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#642](https://github.com/anchore/grype/issues/642) in [anchore/grype](https://github.com/anchore/grype)
+1. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#847](https://github.com/anchore/syft/issues/847) in [anchore/syft](https://github.com/anchore/syft)
 3. 🗣 Commented on [#642](https://github.com/anchore/grype/issues/642) in [anchore/grype](https://github.com/anchore/grype)
 4. 🗣 Commented on [#642](https://github.com/anchore/grype/issues/642) in [anchore/grype](https://github.com/anchore/grype)
 5. 🗣 Commented on [#642](https://github.com/anchore/grype/issues/642) in [anchore/grype](https://github.com/anchore/grype)
