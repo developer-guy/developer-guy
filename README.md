@@ -31,11 +31,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [buildkit-machine: A brand new project to enable building/pushing container images without requiring…](https://medium.com/trendyol-tech/buildkit-machine-a-brand-new-project-to-enable-building-pushing-container-images-without-requiring-f8a899fd0cd0?source=rss-57d794f14ac9------2)
 - [A modern toolkit to start working with container images on macOS that meets your needs without…](https://medium.com/trendyol-tech/a-modern-toolkit-to-start-working-with-container-images-on-macos-that-meets-your-needs-without-caa0f38529de?source=rss-57d794f14ac9------2)
 - [Manage Kubernetes Admission Webhook&#39;s certificates with cert-manager CA Injector and Vault PKI…](https://medium.com/trendyol-tech/manage-kubernetes-admission-webhooks-certificates-with-cert-manager-ca-injector-and-vault-pki-281b065e1044?source=rss-57d794f14ac9------2)
 - [The fanciest way of releasing Go binaries with GoReleaser](https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb?source=rss-57d794f14ac9------2)
 - [5 Ways of Managing TLS Certificates for your Kubernetes Admission Webhooks](https://medium.com/trendyol-tech/5-ways-of-managing-tls-certificates-for-your-kubernetes-admission-webhooks-b2ca971c065?source=rss-57d794f14ac9------2)
-- [Getting Started to Write Your First Kubernetes Admission Webhook Part 2✨](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-2-48d0b0b1780e?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
