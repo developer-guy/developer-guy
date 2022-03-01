@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#626](https://github.com/google/ko/issues/626) in [google/ko](https://github.com/google/ko)
-3. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#1521](https://github.com/sigstore/cosign/issues/1521) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#626](https://github.com/google/ko/issues/626) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
