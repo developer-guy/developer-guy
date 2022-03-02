@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
+1. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
 2. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-3. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#626](https://github.com/google/ko/issues/626) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
