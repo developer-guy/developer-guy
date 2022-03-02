@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-2. 💪 Opened PR [#66](https://github.com/kubernetes-sigs/bom/pull/66) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
-5. 🗣 Commented on [#138](https://github.com/sigstore/sigstore/issues/138) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+1. 🗣 Commented on [#626](https://github.com/google/ko/issues/626) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
+3. 💪 Opened PR [#66](https://github.com/kubernetes-sigs/bom/pull/66) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#653](https://github.com/lima-vm/lima/issues/653) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#376](https://github.com/kyverno/website/issues/376) in [kyverno/website](https://github.com/kyverno/website)
 <!--END_SECTION:activity-->
 
 
