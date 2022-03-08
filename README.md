@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2954](https://github.com/goreleaser/goreleaser/issues/2954) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#96](https://github.com/gythialy/golang-cross/pull/96) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-5. 💪 Opened PR [#37](https://github.com/chainguard-dev/apko/pull/37) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+1. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+2. 🗣 Commented on [#2954](https://github.com/goreleaser/goreleaser/issues/2954) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 💪 Opened PR [#96](https://github.com/gythialy/golang-cross/pull/96) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
 
