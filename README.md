@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1569](https://github.com/sigstore/cosign/issues/1569) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
-4. 🗣 Commented on [#24](https://github.com/abiosoft/colima/issues/24) in [abiosoft/colima](https://github.com/abiosoft/colima)
-5. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
+1. 🗣 Commented on [#881](https://github.com/anchore/syft/issues/881) in [anchore/syft](https://github.com/anchore/syft)
+2. 🗣 Commented on [#661](https://github.com/anchore/grype/issues/661) in [anchore/grype](https://github.com/anchore/grype)
+3. 💪 Opened PR [#661](https://github.com/anchore/grype/pull/661) in [anchore/grype](https://github.com/anchore/grype)
+4. 💪 Opened PR [#881](https://github.com/anchore/syft/pull/881) in [anchore/syft](https://github.com/anchore/syft)
+5. ❗️ Opened issue [#1569](https://github.com/sigstore/cosign/issues/1569) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
