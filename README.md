@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#806](https://github.com/docker/buildx/issues/806) in [docker/buildx](https://github.com/docker/buildx)
-2. ❗️ Opened issue [#662](https://github.com/anchore/grype/issues/662) in [anchore/grype](https://github.com/anchore/grype)
-3. 💪 Opened PR [#100](https://github.com/gythialy/golang-cross/pull/100) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#881](https://github.com/anchore/syft/issues/881) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#661](https://github.com/anchore/grype/issues/661) in [anchore/grype](https://github.com/anchore/grype)
+1. ❗️ Opened issue [#997](https://github.com/docker/buildx/issues/997) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#806](https://github.com/docker/buildx/issues/806) in [docker/buildx](https://github.com/docker/buildx)
+3. ❗️ Opened issue [#662](https://github.com/anchore/grype/issues/662) in [anchore/grype](https://github.com/anchore/grype)
+4. 💪 Opened PR [#100](https://github.com/gythialy/golang-cross/pull/100) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#881](https://github.com/anchore/syft/issues/881) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
