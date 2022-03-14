@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/gythialy/golang-cross/pull/101) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-2. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
-3. ❗️ Opened issue [#997](https://github.com/docker/buildx/issues/997) in [docker/buildx](https://github.com/docker/buildx)
-4. 🗣 Commented on [#806](https://github.com/docker/buildx/issues/806) in [docker/buildx](https://github.com/docker/buildx)
-5. ❗️ Opened issue [#662](https://github.com/anchore/grype/issues/662) in [anchore/grype](https://github.com/anchore/grype)
+1. 🗣 Commented on [#72](https://github.com/kubernetes-sigs/bom/issues/72) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+2. ❗️ Opened issue [#72](https://github.com/kubernetes-sigs/bom/issues/72) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+3. 🗣 Commented on [#44](https://github.com/kubernetes-sigs/bom/issues/44) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 💪 Opened PR [#101](https://github.com/gythialy/golang-cross/pull/101) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#1533](https://github.com/containers/skopeo/issues/1533) in [containers/skopeo](https://github.com/containers/skopeo)
 <!--END_SECTION:activity-->
 
 
