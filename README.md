@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1001](https://github.com/docker/buildx/issues/1001) in [docker/buildx](https://github.com/docker/buildx)
-2. ❗️ Opened issue [#74](https://github.com/kubernetes-sigs/bom/issues/74) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 💪 Opened PR [#73](https://github.com/kubernetes-sigs/bom/pull/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-4. ❗️ Opened issue [#1604](https://github.com/sigstore/cosign/issues/1604) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#1603](https://github.com/sigstore/cosign/pull/1603) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#1583](https://github.com/cue-lang/cue/issues/1583) in [cue-lang/cue](https://github.com/cue-lang/cue)
+2. ❗️ Opened issue [#1001](https://github.com/docker/buildx/issues/1001) in [docker/buildx](https://github.com/docker/buildx)
+3. ❗️ Opened issue [#74](https://github.com/kubernetes-sigs/bom/issues/74) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 💪 Opened PR [#73](https://github.com/kubernetes-sigs/bom/pull/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. ❗️ Opened issue [#1604](https://github.com/sigstore/cosign/issues/1604) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
