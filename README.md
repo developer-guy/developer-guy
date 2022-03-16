@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+1. ❗️ Opened issue [#1942](https://github.com/falcosecurity/falco/issues/1942) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 2. 🗣 Commented on [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
-3. ❗️ Opened issue [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
-4. 🗣 Commented on [#73](https://github.com/kubernetes-sigs/bom/issues/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 💪 Opened PR [#1003](https://github.com/docker/buildx/pull/1003) in [docker/buildx](https://github.com/docker/buildx)
+3. 🗣 Commented on [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+4. ❗️ Opened issue [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+5. 🗣 Commented on [#73](https://github.com/kubernetes-sigs/bom/issues/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
 <!--END_SECTION:activity-->
 
 
