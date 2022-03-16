@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/kubernetes-sigs/bom/issues/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 💪 Opened PR [#1003](https://github.com/docker/buildx/pull/1003) in [docker/buildx](https://github.com/docker/buildx)
-3. 🗣 Commented on [#2643](https://github.com/moby/buildkit/issues/2643) in [moby/buildkit](https://github.com/moby/buildkit)
-4. ❗️ Opened issue [#1583](https://github.com/cue-lang/cue/issues/1583) in [cue-lang/cue](https://github.com/cue-lang/cue)
-5. ❗️ Opened issue [#1001](https://github.com/docker/buildx/issues/1001) in [docker/buildx](https://github.com/docker/buildx)
+1. 🗣 Commented on [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+3. ❗️ Opened issue [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#73](https://github.com/kubernetes-sigs/bom/issues/73) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. 💪 Opened PR [#1003](https://github.com/docker/buildx/pull/1003) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
 
 
