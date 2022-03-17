@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
+1. 🗣 Commented on [#1627](https://github.com/sigstore/cosign/issues/1627) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
 3. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
-4. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#1626](https://github.com/sigstore/cosign/pull/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
+5. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
