@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#1626](https://github.com/sigstore/cosign/pull/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#1625](https://github.com/sigstore/cosign/issues/1625) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Closed issue [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
-5. ❗️ Opened issue [#1942](https://github.com/falcosecurity/falco/issues/1942) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
+2. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#1626](https://github.com/sigstore/cosign/pull/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗️ Opened issue [#1625](https://github.com/sigstore/cosign/issues/1625) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗️ Closed issue [#1006](https://github.com/docker/buildx/issues/1006) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
 
 
