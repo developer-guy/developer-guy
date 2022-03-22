@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#82](https://github.com/kubernetes-sigs/bom/issues/82) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-3. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
-5. 💪 Opened PR [#1](https://github.com/kyverno/KDP/pull/1) in [kyverno/KDP](https://github.com/kyverno/KDP)
+1. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+2. ❗️ Opened issue [#82](https://github.com/kubernetes-sigs/bom/issues/82) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+3. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+4. 🗣 Commented on [#571](https://github.com/google/ko/issues/571) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
