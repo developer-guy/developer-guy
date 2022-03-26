@@ -31,7 +31,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to verify container images with Kyverno using KMS, Cosign, and Workload Identity](https://blog.sigstore.dev/how-to-verify-container-images-with-kyverno-using-kms-cosign-and-workload-identity-1e07d2b85061?source=rss-57d794f14ac9------2)
+- [How to verify container images with Kyverno using KMS, Cosign, and Workload Identity](https://medium.com/sigstore/how-to-verify-container-images-with-kyverno-using-kms-cosign-and-workload-identity-1e07d2b85061?source=rss-57d794f14ac9------2)
 - [buildkit-machine: A brand new project to enable building/pushing container images without requiring…](https://medium.com/trendyol-tech/buildkit-machine-a-brand-new-project-to-enable-building-pushing-container-images-without-requiring-f8a899fd0cd0?source=rss-57d794f14ac9------2)
 - [A modern toolkit to start working with container images on macOS that meets your needs without…](https://medium.com/trendyol-tech/a-modern-toolkit-to-start-working-with-container-images-on-macos-that-meets-your-needs-without-caa0f38529de?source=rss-57d794f14ac9------2)
 - [Manage Kubernetes Admission Webhook&#39;s certificates with cert-manager CA Injector and Vault PKI…](https://medium.com/trendyol-tech/manage-kubernetes-admission-webhooks-certificates-with-cert-manager-ca-injector-and-vault-pki-281b065e1044?source=rss-57d794f14ac9------2)
