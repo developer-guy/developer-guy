@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2756](https://github.com/moby/buildkit/issues/2756) in [moby/buildkit](https://github.com/moby/buildkit)
-2. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
-3. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
-4. ❗️ Opened issue [#1026](https://github.com/docker/buildx/issues/1026) in [docker/buildx](https://github.com/docker/buildx)
-5. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+1. 🗣 Commented on [#2756](https://github.com/moby/buildkit/issues/2756) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 🗣 Commented on [#2756](https://github.com/moby/buildkit/issues/2756) in [moby/buildkit](https://github.com/moby/buildkit)
+3. ❗️ Opened issue [#2756](https://github.com/moby/buildkit/issues/2756) in [moby/buildkit](https://github.com/moby/buildkit)
+4. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
+5. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
 <!--END_SECTION:activity-->
 
 
