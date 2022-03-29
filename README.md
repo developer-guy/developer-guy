@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1026](https://github.com/docker/buildx/issues/1026) in [docker/buildx](https://github.com/docker/buildx)
-2. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-3. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
-4. ❗️ Opened issue [#82](https://github.com/kubernetes-sigs/bom/issues/82) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+1. 🗣 Commented on [#2560](https://github.com/moby/buildkit/issues/2560) in [moby/buildkit](https://github.com/moby/buildkit)
+2. ❗️ Opened issue [#1026](https://github.com/docker/buildx/issues/1026) in [docker/buildx](https://github.com/docker/buildx)
+3. 🗣 Commented on [#873](https://github.com/withfig/autocomplete/issues/873) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+4. 🗣 Commented on [#647](https://github.com/open-policy-agent/conftest/issues/647) in [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest)
+5. ❗️ Opened issue [#82](https://github.com/kubernetes-sigs/bom/issues/82) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
 <!--END_SECTION:activity-->
 
 
