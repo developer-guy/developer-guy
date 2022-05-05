@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-2. ❗️ Opened issue [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-3. 🗣 Commented on [#909](https://github.com/docker/buildx/issues/909) in [docker/buildx](https://github.com/docker/buildx)
-4. 🗣 Commented on [#881](https://github.com/anchore/syft/issues/881) in [anchore/syft](https://github.com/anchore/syft)
-5. 💪 Opened PR [#1](https://github.com/aws-containers/kubectl-detector-for-docker-socket/pull/1) in [aws-containers/kubectl-detector-for-docker-socket](https://github.com/aws-containers/kubectl-detector-for-docker-socket)
+1. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. ❗️ Opened issue [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
 <!--END_SECTION:activity-->
 
 
