@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 3. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-5. ❗️ Opened issue [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+4. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#193](https://github.com/chainguard-dev/apko/issues/193) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
 <!--END_SECTION:activity-->
 
 
