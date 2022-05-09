@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2853](https://github.com/moby/buildkit/issues/2853) in [moby/buildkit](https://github.com/moby/buildkit)
-2. 💪 Opened PR [#3090](https://github.com/goreleaser/goreleaser/pull/3090) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#8802](https://github.com/kubernetes-sigs/kubespray/issues/8802) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. ❗️ Opened issue [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🎉 Merged PR [#7](https://github.com/awesomeSBOM/awesome-sbom/pull/7) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🗣 Commented on [#7](https://github.com/awesomeSBOM/awesome-sbom/issues/7) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🎉 Merged PR [#6](https://github.com/awesomeSBOM/awesome-sbom/pull/6) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#6](https://github.com/awesomeSBOM/awesome-sbom/issues/6) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. ❗️ Opened issue [#2853](https://github.com/moby/buildkit/issues/2853) in [moby/buildkit](https://github.com/moby/buildkit)
 <!--END_SECTION:activity-->
 
 
