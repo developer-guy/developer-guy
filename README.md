@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/awesomeSBOM/awesome-sbom/pull/7) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#7](https://github.com/awesomeSBOM/awesome-sbom/issues/7) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-3. 🎉 Merged PR [#6](https://github.com/awesomeSBOM/awesome-sbom/pull/6) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🗣 Commented on [#6](https://github.com/awesomeSBOM/awesome-sbom/issues/6) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. ❗️ Opened issue [#2853](https://github.com/moby/buildkit/issues/2853) in [moby/buildkit](https://github.com/moby/buildkit)
+1. 🗣 Commented on [#1773](https://github.com/sigstore/cosign/issues/1773) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#63](https://github.com/kubernetes-sigs/depstat/issues/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
+4. ❗️ Opened issue [#152](https://github.com/CycloneDX/cyclonedx-gomod/issues/152) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+5. 🎉 Merged PR [#7](https://github.com/awesomeSBOM/awesome-sbom/pull/7) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
