@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4544](https://github.com/vmware-tanzu/velero/issues/4544) in [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
-2. 🗣 Commented on [#1773](https://github.com/sigstore/cosign/issues/1773) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#627](https://github.com/google/ko/issues/627) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#63](https://github.com/kubernetes-sigs/depstat/issues/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-5. ❗️ Opened issue [#152](https://github.com/CycloneDX/cyclonedx-gomod/issues/152) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+1. ❌ Closed PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
+2. 🗣 Commented on [#8](https://github.com/ktock/buildg/issues/8) in [ktock/buildg](https://github.com/ktock/buildg)
+3. 💪 Opened PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
+4. 💪 Opened PR [#7](https://github.com/ktock/buildg/pull/7) in [ktock/buildg](https://github.com/ktock/buildg)
+5. 🗣 Commented on [#6149](https://github.com/docker/for-mac/issues/6149) in [docker/for-mac](https://github.com/docker/for-mac)
 <!--END_SECTION:activity-->
 
 
