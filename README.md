@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
-2. 🗣 Commented on [#8](https://github.com/ktock/buildg/issues/8) in [ktock/buildg](https://github.com/ktock/buildg)
-3. 💪 Opened PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
-4. 💪 Opened PR [#7](https://github.com/ktock/buildg/pull/7) in [ktock/buildg](https://github.com/ktock/buildg)
-5. 🗣 Commented on [#6149](https://github.com/docker/for-mac/issues/6149) in [docker/for-mac](https://github.com/docker/for-mac)
+1. 🗣 Commented on [#498](https://github.com/google/ko/issues/498) in [google/ko](https://github.com/google/ko)
+2. ❌ Closed PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
+3. 🗣 Commented on [#8](https://github.com/ktock/buildg/issues/8) in [ktock/buildg](https://github.com/ktock/buildg)
+4. 💪 Opened PR [#8](https://github.com/ktock/buildg/pull/8) in [ktock/buildg](https://github.com/ktock/buildg)
+5. 💪 Opened PR [#7](https://github.com/ktock/buildg/pull/7) in [ktock/buildg](https://github.com/ktock/buildg)
 <!--END_SECTION:activity-->
 
 
