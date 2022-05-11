@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/containerd/nerdctl/issues/607) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#63](https://github.com/kubernetes-sigs/depstat/issues/63) in [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat)
-3. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 💪 Opened PR [#121](https://github.com/gythialy/golang-cross/pull/121) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 💪 Opened PR [#120](https://github.com/gythialy/golang-cross/pull/120) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
+3. ❗️ Closed issue [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
+5. 🗣 Commented on [#910](https://github.com/anchore/syft/issues/910) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
