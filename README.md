@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
