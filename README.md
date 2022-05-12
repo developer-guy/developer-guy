@@ -42,9 +42,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#990](https://github.com/anchore/syft/issues/990) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. ❗️ Opened issue [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2997](https://github.com/goreleaser/goreleaser/issues/2997) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
