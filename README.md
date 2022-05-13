@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Opened issue [#1443](https://github.com/buildpacks/pack/issues/1443) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1626](https://github.com/sigstore/cosign/issues/1626) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
