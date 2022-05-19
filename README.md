@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#707](https://github.com/google/ko/issues/707) in [google/ko](https://github.com/google/ko)
-2. ❗️ Opened issue [#706](https://github.com/google/ko/issues/706) in [google/ko](https://github.com/google/ko)
-3. 🗣 Commented on [#8](https://github.com/awesomeSBOM/awesome-sbom/issues/8) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🎉 Merged PR [#8](https://github.com/awesomeSBOM/awesome-sbom/pull/8) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. ❗️ Opened issue [#1443](https://github.com/buildpacks/pack/issues/1443) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. ❗️ Opened issue [#707](https://github.com/google/ko/issues/707) in [google/ko](https://github.com/google/ko)
+4. ❗️ Opened issue [#706](https://github.com/google/ko/issues/706) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#8](https://github.com/awesomeSBOM/awesome-sbom/issues/8) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
