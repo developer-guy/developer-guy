@@ -40,10 +40,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-2. 🗣 Commented on [#1691](https://github.com/sigstore/cosign/issues/1691) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1773](https://github.com/sigstore/cosign/issues/1773) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
+2. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
+3. 🗣 Commented on [#1691](https://github.com/sigstore/cosign/issues/1691) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#1773](https://github.com/sigstore/cosign/issues/1773) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
