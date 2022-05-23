@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ktock/buildg/issues/7) in [ktock/buildg](https://github.com/ktock/buildg)
-2. 💪 Opened PR [#156](https://github.com/CycloneDX/cyclonedx-gomod/pull/156) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-3. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
-4. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
-5. 🗣 Commented on [#1691](https://github.com/sigstore/cosign/issues/1691) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#7](https://github.com/ktock/buildg/issues/7) in [ktock/buildg](https://github.com/ktock/buildg)
+3. 💪 Opened PR [#156](https://github.com/CycloneDX/cyclonedx-gomod/pull/156) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
+4. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
+5. 🗣 Commented on [#40](https://github.com/docker-credential-magic/docker-credential-magic/issues/40) in [docker-credential-magic/docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic)
 <!--END_SECTION:activity-->
 
 
