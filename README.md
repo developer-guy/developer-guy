@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/sigstore/gitsign/issues/46) in [sigstore/gitsign](https://github.com/sigstore/gitsign)
-2. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#7](https://github.com/ktock/buildg/issues/7) in [ktock/buildg](https://github.com/ktock/buildg)
-4. 💪 Opened PR [#156](https://github.com/CycloneDX/cyclonedx-gomod/pull/156) in [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod)
-5. 🗣 Commented on [#1220](https://github.com/moby/buildkit/issues/1220) in [moby/buildkit](https://github.com/moby/buildkit)
+1. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#46](https://github.com/sigstore/gitsign/issues/46) in [sigstore/gitsign](https://github.com/sigstore/gitsign)
+4. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#7](https://github.com/ktock/buildg/issues/7) in [ktock/buildg](https://github.com/ktock/buildg)
 <!--END_SECTION:activity-->
 
 
