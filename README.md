@@ -43,8 +43,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 1. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#4023](https://github.com/kyverno/kyverno/pull/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#3](https://github.com/marcofranssen/slsa-workflow-examples/pull/3) in [marcofranssen/slsa-workflow-examples](https://github.com/marcofranssen/slsa-workflow-examples)
+4. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#4023](https://github.com/kyverno/kyverno/pull/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
