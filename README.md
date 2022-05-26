@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
 2. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#4023](https://github.com/kyverno/kyverno/pull/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
