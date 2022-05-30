@@ -40,8 +40,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
-2. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
+2. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
 3. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 4. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
