@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#19](https://github.com/kyverno/KDP/pull/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
-3. 💪 Opened PR [#1934](https://github.com/sigstore/cosign/pull/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
-5. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
+1. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
+2. ❗️ Opened issue [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#19](https://github.com/kyverno/KDP/pull/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
+4. 💪 Opened PR [#1934](https://github.com/sigstore/cosign/pull/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#16397](https://github.com/goharbor/harbor/issues/16397) in [goharbor/harbor](https://github.com/goharbor/harbor)
 <!--END_SECTION:activity-->
 
 
