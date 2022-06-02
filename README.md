@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Opened issue [#110](https://github.com/ckotzbauer/sbom-operator/issues/110) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
+2. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#4023](https://github.com/kyverno/kyverno/issues/4023) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
