@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#4062](https://github.com/kyverno/kyverno/issues/4062) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#110](https://github.com/ckotzbauer/sbom-operator/issues/110) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
-5. 🗣 Commented on [#3897](https://github.com/kyverno/kyverno/issues/3897) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#406](https://github.com/wagoodman/dive/issues/406) in [wagoodman/dive](https://github.com/wagoodman/dive)
+2. ❗️ Closed issue [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1936](https://github.com/sigstore/cosign/issues/1936) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#4062](https://github.com/kyverno/kyverno/issues/4062) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#110](https://github.com/ckotzbauer/sbom-operator/issues/110) in [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator)
 <!--END_SECTION:activity-->
 
 
