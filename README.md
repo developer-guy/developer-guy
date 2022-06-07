@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1965](https://github.com/sigstore/cosign/pull/1965) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#928](https://github.com/cncf/tag-security/pull/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
-3. 🗣 Commented on [#881](https://github.com/lima-vm/lima/issues/881) in [lima-vm/lima](https://github.com/lima-vm/lima)
-4. 🗣 Commented on [#4083](https://github.com/kyverno/kyverno/issues/4083) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#4085](https://github.com/kyverno/kyverno/pull/4085) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. ❗️ Opened issue [#341](https://github.com/kyverno/policies/issues/341) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 💪 Opened PR [#1965](https://github.com/sigstore/cosign/pull/1965) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#928](https://github.com/cncf/tag-security/pull/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
+4. 🗣 Commented on [#881](https://github.com/lima-vm/lima/issues/881) in [lima-vm/lima](https://github.com/lima-vm/lima)
+5. 🗣 Commented on [#4083](https://github.com/kyverno/kyverno/issues/4083) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
