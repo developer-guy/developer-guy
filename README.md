@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#341](https://github.com/kyverno/policies/issues/341) in [kyverno/policies](https://github.com/kyverno/policies)
-2. 💪 Opened PR [#1965](https://github.com/sigstore/cosign/pull/1965) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 💪 Opened PR [#928](https://github.com/cncf/tag-security/pull/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 🗣 Commented on [#881](https://github.com/lima-vm/lima/issues/881) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🗣 Commented on [#4083](https://github.com/kyverno/kyverno/issues/4083) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 💪 Opened PR [#342](https://github.com/kyverno/policies/pull/342) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 🗣 Commented on [#1443](https://github.com/buildpacks/pack/issues/1443) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. ❗️ Opened issue [#341](https://github.com/kyverno/policies/issues/341) in [kyverno/policies](https://github.com/kyverno/policies)
+4. 💪 Opened PR [#1965](https://github.com/sigstore/cosign/pull/1965) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#928](https://github.com/cncf/tag-security/pull/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
 <!--END_SECTION:activity-->
 
 
