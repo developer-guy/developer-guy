@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1974](https://github.com/sigstore/cosign/issues/1974) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#881](https://github.com/lima-vm/lima/issues/881) in [lima-vm/lima](https://github.com/lima-vm/lima)
-3. 🗣 Commented on [#1972](https://github.com/sigstore/cosign/issues/1972) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#928](https://github.com/cncf/tag-security/issues/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
-5. 💪 Opened PR [#342](https://github.com/kyverno/policies/pull/342) in [kyverno/policies](https://github.com/kyverno/policies)
+1. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#1974](https://github.com/sigstore/cosign/issues/1974) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#881](https://github.com/lima-vm/lima/issues/881) in [lima-vm/lima](https://github.com/lima-vm/lima)
+4. 🗣 Commented on [#1972](https://github.com/sigstore/cosign/issues/1972) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#928](https://github.com/cncf/tag-security/issues/928) in [cncf/tag-security](https://github.com/cncf/tag-security)
 <!--END_SECTION:activity-->
 
 
