@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1986](https://github.com/sigstore/cosign/pull/1986) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#67](https://github.com/philips-labs/spiffe-vault/pull/67) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
-3. ❗️ Opened issue [#1985](https://github.com/sigstore/cosign/issues/1985) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1974](https://github.com/sigstore/cosign/issues/1974) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. ❗️ Opened issue [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1](https://github.com/laurentsimon/slsa-github-generator-ko/issues/1) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
+3. 💪 Opened PR [#1986](https://github.com/sigstore/cosign/pull/1986) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 💪 Opened PR [#67](https://github.com/philips-labs/spiffe-vault/pull/67) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+5. ❗️ Opened issue [#1985](https://github.com/sigstore/cosign/issues/1985) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
