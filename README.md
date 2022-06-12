@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗️ Opened issue [#1](https://github.com/laurentsimon/slsa-github-generator-ko/issues/1) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
-5. 💪 Opened PR [#1986](https://github.com/sigstore/cosign/pull/1986) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#632](https://github.com/google/ko/issues/632) in [google/ko](https://github.com/google/ko)
+4. 🗣 Commented on [#277](https://github.com/tektoncd/chains/issues/277) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. ❗️ Opened issue [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
