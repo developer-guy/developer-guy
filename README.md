@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1384](https://github.com/google/go-containerregistry/pull/1384) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#1383](https://github.com/google/go-containerregistry/issues/1383) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. ❗️ Opened issue [#1383](https://github.com/google/go-containerregistry/issues/1383) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 🗣 Commented on [#728](https://github.com/google/ko/issues/728) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. ❗️ Opened issue [#4108](https://github.com/kyverno/kyverno/issues/4108) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#1384](https://github.com/google/go-containerregistry/pull/1384) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 🗣 Commented on [#1383](https://github.com/google/go-containerregistry/issues/1383) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#1383](https://github.com/google/go-containerregistry/issues/1383) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 🗣 Commented on [#728](https://github.com/google/ko/issues/728) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
