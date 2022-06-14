@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. ❗️ Closed issue [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
-3. 🗣 Commented on [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
-4. ❗️ Opened issue [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
-5. ❗️ Closed issue [#1692](https://github.com/falcosecurity/falco/issues/1692) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 🗣 Commented on [#728](https://github.com/google/ko/issues/728) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. ❗️ Closed issue [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
+5. ❗️ Opened issue [#1162](https://github.com/docker/buildx/issues/1162) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
 
 
