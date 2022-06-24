@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1061](https://github.com/anchore/syft/issues/1061) in [anchore/syft](https://github.com/anchore/syft)
-2. ❗️ Opened issue [#1060](https://github.com/anchore/syft/issues/1060) in [anchore/syft](https://github.com/anchore/syft)
-3. ❗️ Opened issue [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
-4. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 💪 Opened PR [#1](https://github.com/chipzoller/zulu/pull/1) in [chipzoller/zulu](https://github.com/chipzoller/zulu)
+1. 🗣 Commented on [#1061](https://github.com/anchore/syft/issues/1061) in [anchore/syft](https://github.com/anchore/syft)
+2. ❗️ Opened issue [#1061](https://github.com/anchore/syft/issues/1061) in [anchore/syft](https://github.com/anchore/syft)
+3. ❗️ Opened issue [#1060](https://github.com/anchore/syft/issues/1060) in [anchore/syft](https://github.com/anchore/syft)
+4. ❗️ Opened issue [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
+5. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
