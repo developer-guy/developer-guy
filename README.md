@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 💪 Opened PR [#1](https://github.com/chipzoller/zulu/pull/1) in [chipzoller/zulu](https://github.com/chipzoller/zulu)
-3. 🗣 Commented on [#4127](https://github.com/kyverno/kyverno/issues/4127) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 💪 Opened PR [#2](https://github.com/crazy-max/docker-allhands2-buildx-bake/pull/2) in [crazy-max/docker-allhands2-buildx-bake](https://github.com/crazy-max/docker-allhands2-buildx-bake)
-5. 💪 Opened PR [#133](https://github.com/gythialy/golang-cross/pull/133) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+1. ❗️ Opened issue [#1059](https://github.com/anchore/syft/issues/1059) in [anchore/syft](https://github.com/anchore/syft)
+2. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. 💪 Opened PR [#1](https://github.com/chipzoller/zulu/pull/1) in [chipzoller/zulu](https://github.com/chipzoller/zulu)
+4. 🗣 Commented on [#4127](https://github.com/kyverno/kyverno/issues/4127) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 💪 Opened PR [#2](https://github.com/crazy-max/docker-allhands2-buildx-bake/pull/2) in [crazy-max/docker-allhands2-buildx-bake](https://github.com/crazy-max/docker-allhands2-buildx-bake)
 <!--END_SECTION:activity-->
 
 
