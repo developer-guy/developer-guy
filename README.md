@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1398](https://github.com/google/go-containerregistry/issues/1398) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#1693](https://github.com/containers/skopeo/issues/1693) in [containers/skopeo](https://github.com/containers/skopeo)
-3. ❗️ Opened issue [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
-4. 🗣 Commented on [#1060](https://github.com/anchore/syft/issues/1060) in [anchore/syft](https://github.com/anchore/syft)
-5. 🗣 Commented on [#1061](https://github.com/anchore/syft/issues/1061) in [anchore/syft](https://github.com/anchore/syft)
+1. 💪 Opened PR [#1068](https://github.com/anchore/syft/pull/1068) in [anchore/syft](https://github.com/anchore/syft)
+2. ❗️ Opened issue [#1398](https://github.com/google/go-containerregistry/issues/1398) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. ❗️ Opened issue [#1693](https://github.com/containers/skopeo/issues/1693) in [containers/skopeo](https://github.com/containers/skopeo)
+4. ❗️ Opened issue [#1692](https://github.com/containers/skopeo/issues/1692) in [containers/skopeo](https://github.com/containers/skopeo)
+5. 🗣 Commented on [#1060](https://github.com/anchore/syft/issues/1060) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
