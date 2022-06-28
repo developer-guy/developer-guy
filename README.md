@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/developer-guy/buildkit-machine/issues/8) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-2. ❗️ Opened issue [#73](https://github.com/chainguard-dev/melange/issues/73) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-3. 💪 Opened PR [#1068](https://github.com/anchore/syft/pull/1068) in [anchore/syft](https://github.com/anchore/syft)
-4. ❗️ Opened issue [#1398](https://github.com/google/go-containerregistry/issues/1398) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. ❗️ Opened issue [#1693](https://github.com/containers/skopeo/issues/1693) in [containers/skopeo](https://github.com/containers/skopeo)
+1. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#8](https://github.com/developer-guy/buildkit-machine/issues/8) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
+3. ❗️ Opened issue [#73](https://github.com/chainguard-dev/melange/issues/73) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+4. 💪 Opened PR [#1068](https://github.com/anchore/syft/pull/1068) in [anchore/syft](https://github.com/anchore/syft)
+5. ❗️ Opened issue [#1398](https://github.com/google/go-containerregistry/issues/1398) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
