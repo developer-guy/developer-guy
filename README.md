@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
-2. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. ❗️ Opened issue [#8](https://github.com/developer-guy/buildkit-machine/issues/8) in [developer-guy/buildkit-machine](https://github.com/developer-guy/buildkit-machine)
-4. ❗️ Opened issue [#73](https://github.com/chainguard-dev/melange/issues/73) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-5. 💪 Opened PR [#1068](https://github.com/anchore/syft/pull/1068) in [anchore/syft](https://github.com/anchore/syft)
+1. 🗣 Commented on [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Closed issue [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1989](https://github.com/sigstore/cosign/issues/1989) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#193](https://github.com/philips-labs/slsa-provenance-action/issues/193) in [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action)
+5. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
