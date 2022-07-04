@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+1. ❗️ Closed issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
 2. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-3. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-4. ❗️ Opened issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-5. ❗️ Opened issue [#2045](https://github.com/sigstore/cosign/issues/2045) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#46](https://github.com/ktock/buildg/issues/46) in [ktock/buildg](https://github.com/ktock/buildg)
+4. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+5. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
 <!--END_SECTION:activity-->
 
 
