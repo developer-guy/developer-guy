@@ -40,10 +40,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-2. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-3. ❗️ Opened issue [#46](https://github.com/ktock/buildg/issues/46) in [ktock/buildg](https://github.com/ktock/buildg)
-4. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+1. ❗️ Opened issue [#120](https://github.com/safe-waters/docker-lock/issues/120) in [safe-waters/docker-lock](https://github.com/safe-waters/docker-lock)
+2. 🗣 Commented on [#55](https://github.com/crazy-max/undock/issues/55) in [crazy-max/undock](https://github.com/crazy-max/undock)
+3. 💪 Opened PR [#55](https://github.com/crazy-max/undock/pull/55) in [crazy-max/undock](https://github.com/crazy-max/undock)
+4. ❗️ Closed issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
 5. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
 <!--END_SECTION:activity-->
 
