@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-2. ❗️ Opened issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
-3. ❗️ Opened issue [#2045](https://github.com/sigstore/cosign/issues/2045) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2044](https://github.com/sigstore/cosign/issues/2044) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#2044](https://github.com/sigstore/cosign/issues/2044) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+3. 🗣 Commented on [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+4. ❗️ Opened issue [#45](https://github.com/ktock/buildg/issues/45) in [ktock/buildg](https://github.com/ktock/buildg)
+5. ❗️ Opened issue [#2045](https://github.com/sigstore/cosign/issues/2045) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
