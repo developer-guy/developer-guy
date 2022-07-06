@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1087](https://github.com/anchore/syft/pull/1087) in [anchore/syft](https://github.com/anchore/syft)
-2. 🗣 Commented on [#47](https://github.com/ktock/buildg/issues/47) in [ktock/buildg](https://github.com/ktock/buildg)
-3. 💪 Opened PR [#47](https://github.com/ktock/buildg/pull/47) in [ktock/buildg](https://github.com/ktock/buildg)
-4. ❗️ Opened issue [#120](https://github.com/safe-waters/docker-lock/issues/120) in [safe-waters/docker-lock](https://github.com/safe-waters/docker-lock)
-5. 🗣 Commented on [#55](https://github.com/crazy-max/undock/issues/55) in [crazy-max/undock](https://github.com/crazy-max/undock)
+1. 🗣 Commented on [#2052](https://github.com/sigstore/cosign/issues/2052) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#1087](https://github.com/anchore/syft/pull/1087) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#47](https://github.com/ktock/buildg/issues/47) in [ktock/buildg](https://github.com/ktock/buildg)
+4. 💪 Opened PR [#47](https://github.com/ktock/buildg/pull/47) in [ktock/buildg](https://github.com/ktock/buildg)
+5. ❗️ Opened issue [#120](https://github.com/safe-waters/docker-lock/issues/120) in [safe-waters/docker-lock](https://github.com/safe-waters/docker-lock)
 <!--END_SECTION:activity-->
 
 
