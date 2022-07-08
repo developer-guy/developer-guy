@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
-2. 💪 Opened PR [#497](https://github.com/slsa-framework/slsa-github-generator/pull/497) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. ❌ Closed PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#753](https://github.com/google/ko/issues/753) in [google/ko](https://github.com/google/ko)
-5. 💪 Opened PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
+1. ❗️ Opened issue [#1](https://github.com/afbjorklund/nerdctld/issues/1) in [afbjorklund/nerdctld](https://github.com/afbjorklund/nerdctld)
+2. ❌ Reopened PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
+3. 💪 Opened PR [#497](https://github.com/slsa-framework/slsa-github-generator/pull/497) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+4. ❌ Closed PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#753](https://github.com/google/ko/issues/753) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
