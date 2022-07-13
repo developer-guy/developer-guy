@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/kubernetes-sigs/bom/issues/135) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 💪 Opened PR [#1207](https://github.com/docker/buildx/pull/1207) in [docker/buildx](https://github.com/docker/buildx)
-3. 🗣 Commented on [#77](https://github.com/Trendyol/kink/issues/77) in [Trendyol/kink](https://github.com/Trendyol/kink)
-4. ❗️ Opened issue [#1](https://github.com/afbjorklund/nerdctld/issues/1) in [afbjorklund/nerdctld](https://github.com/afbjorklund/nerdctld)
-5. ❌ Reopened PR [#753](https://github.com/google/ko/pull/753) in [google/ko](https://github.com/google/ko)
+1. 💪 Opened PR [#136](https://github.com/kubernetes-sigs/bom/pull/136) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+2. 🗣 Commented on [#135](https://github.com/kubernetes-sigs/bom/issues/135) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+3. 💪 Opened PR [#1207](https://github.com/docker/buildx/pull/1207) in [docker/buildx](https://github.com/docker/buildx)
+4. 🗣 Commented on [#77](https://github.com/Trendyol/kink/issues/77) in [Trendyol/kink](https://github.com/Trendyol/kink)
+5. ❗️ Opened issue [#1](https://github.com/afbjorklund/nerdctld/issues/1) in [afbjorklund/nerdctld](https://github.com/afbjorklund/nerdctld)
 <!--END_SECTION:activity-->
 
 
