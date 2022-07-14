@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3369](https://github.com/GoogleContainerTools/kpt/issues/3369) in [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
-2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 💪 Opened PR [#4219](https://github.com/kyverno/kyverno/pull/4219) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 🗣 Commented on [#136](https://github.com/kubernetes-sigs/bom/issues/136) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+1. 🎉 Merged PR [#10](https://github.com/awesomeSBOM/awesome-sbom/pull/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🗣 Commented on [#10](https://github.com/awesomeSBOM/awesome-sbom/issues/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. ❗️ Opened issue [#3369](https://github.com/GoogleContainerTools/kpt/issues/3369) in [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
+4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. 💪 Opened PR [#4219](https://github.com/kyverno/kyverno/pull/4219) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
