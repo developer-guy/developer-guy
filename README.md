@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/awesomeSBOM/awesome-sbom/pull/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#10](https://github.com/awesomeSBOM/awesome-sbom/issues/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-3. ❗️ Opened issue [#3369](https://github.com/GoogleContainerTools/kpt/issues/3369) in [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
-4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 💪 Opened PR [#4219](https://github.com/kyverno/kyverno/pull/4219) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#78](https://github.com/philips-labs/spiffe-vault/issues/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+2. 💪 Opened PR [#78](https://github.com/philips-labs/spiffe-vault/pull/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+3. 🎉 Merged PR [#10](https://github.com/awesomeSBOM/awesome-sbom/pull/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#10](https://github.com/awesomeSBOM/awesome-sbom/issues/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. ❗️ Opened issue [#3369](https://github.com/GoogleContainerTools/kpt/issues/3369) in [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
 <!--END_SECTION:activity-->
 
 
