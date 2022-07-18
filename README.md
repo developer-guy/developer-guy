@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/philips-labs/spiffe-vault/issues/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
-2. 💪 Opened PR [#78](https://github.com/philips-labs/spiffe-vault/pull/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
-3. 🎉 Merged PR [#10](https://github.com/awesomeSBOM/awesome-sbom/pull/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🗣 Commented on [#10](https://github.com/awesomeSBOM/awesome-sbom/issues/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. ❗️ Opened issue [#3369](https://github.com/GoogleContainerTools/kpt/issues/3369) in [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
+1. 🗣 Commented on [#81](https://github.com/philips-labs/spiffe-vault/issues/81) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+2. 💪 Opened PR [#81](https://github.com/philips-labs/spiffe-vault/pull/81) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+3. 🗣 Commented on [#78](https://github.com/philips-labs/spiffe-vault/issues/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+4. 💪 Opened PR [#78](https://github.com/philips-labs/spiffe-vault/pull/78) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+5. 🎉 Merged PR [#10](https://github.com/awesomeSBOM/awesome-sbom/pull/10) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
