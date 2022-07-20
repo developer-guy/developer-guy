@@ -40,11 +40,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2925](https://github.com/kyverno/kyverno/issues/2925) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#2925](https://github.com/kyverno/kyverno/issues/2925) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#722](https://github.com/falcosecurity/test-infra/issues/722) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
-4. 🗣 Commented on [#81](https://github.com/philips-labs/spiffe-vault/issues/81) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
-5. 💪 Opened PR [#81](https://github.com/philips-labs/spiffe-vault/pull/81) in [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault)
+1. 🗣 Commented on [#2025](https://github.com/sigstore/cosign/issues/2025) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2082](https://github.com/sigstore/cosign/issues/2082) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#2](https://github.com/chipzoller/zulu/pull/2) in [chipzoller/zulu](https://github.com/chipzoller/zulu)
+4. 🗣 Commented on [#2925](https://github.com/kyverno/kyverno/issues/2925) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2925](https://github.com/kyverno/kyverno/issues/2925) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
