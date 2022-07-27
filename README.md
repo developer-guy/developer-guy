@@ -41,10 +41,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2052](https://github.com/sigstore/cosign/issues/2052) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#4252](https://github.com/kyverno/kyverno/issues/4252) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#1958](https://github.com/kubernetes-sigs/controller-runtime/issues/1958) in [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
-4. 🗣 Commented on [#2085](https://github.com/sigstore/cosign/issues/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#2025](https://github.com/sigstore/cosign/issues/2025) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2052](https://github.com/sigstore/cosign/issues/2052) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#4252](https://github.com/kyverno/kyverno/issues/4252) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. ❗️ Opened issue [#1958](https://github.com/kubernetes-sigs/controller-runtime/issues/1958) in [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
+5. 🗣 Commented on [#2085](https://github.com/sigstore/cosign/issues/2085) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
