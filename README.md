@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1434](https://github.com/google/go-containerregistry/issues/1434) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. ❗️ Opened issue [#1433](https://github.com/google/go-containerregistry/issues/1433) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#152](https://github.com/kubernetes-sigs/bom/issues/152) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-4. 💪 Opened PR [#152](https://github.com/kubernetes-sigs/bom/pull/152) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. ❗️ Opened issue [#151](https://github.com/kubernetes-sigs/bom/issues/151) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+1. 🗣 Commented on [#2171](https://github.com/sigstore/cosign/issues/2171) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#2171](https://github.com/sigstore/cosign/pull/2171) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Opened issue [#1434](https://github.com/google/go-containerregistry/issues/1434) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#1433](https://github.com/google/go-containerregistry/issues/1433) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 🗣 Commented on [#152](https://github.com/kubernetes-sigs/bom/issues/152) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
 <!--END_SECTION:activity-->
 
 
