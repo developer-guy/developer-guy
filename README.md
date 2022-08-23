@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
-2. 🗣 Commented on [#863](https://github.com/fluxcd/source-controller/issues/863) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. ❗️ Opened issue [#795](https://github.com/google/ko/issues/795) in [google/ko](https://github.com/google/ko)
-4. 🗣 Commented on [#154](https://github.com/kubernetes-sigs/bom/issues/154) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 💪 Opened PR [#154](https://github.com/kubernetes-sigs/bom/pull/154) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+1. 🗣 Commented on [#4376](https://github.com/kyverno/kyverno/issues/4376) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#4376](https://github.com/kyverno/kyverno/issues/4376) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
+4. 🗣 Commented on [#863](https://github.com/fluxcd/source-controller/issues/863) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. ❗️ Opened issue [#795](https://github.com/google/ko/issues/795) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
