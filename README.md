@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3119](https://github.com/kyverno/kyverno/issues/3119) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#3119](https://github.com/kyverno/kyverno/issues/3119) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 💪 Opened PR [#1442](https://github.com/google/go-containerregistry/pull/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. 🗣 Commented on [#1433](https://github.com/google/go-containerregistry/issues/1433) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 🗣 Commented on [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#3119](https://github.com/kyverno/kyverno/issues/3119) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#3119](https://github.com/kyverno/kyverno/issues/3119) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
