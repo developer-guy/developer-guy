@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#236](https://github.com/slsa-framework/slsa-verifier/issues/236) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
-2. 💪 Opened PR [#1095](https://github.com/fluxcd/website/pull/1095) in [fluxcd/website](https://github.com/fluxcd/website)
-3. 🗣 Commented on [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 💪 Opened PR [#876](https://github.com/fluxcd/source-controller/pull/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+3. ❗️ Opened issue [#236](https://github.com/slsa-framework/slsa-verifier/issues/236) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+4. 💪 Opened PR [#1095](https://github.com/fluxcd/website/pull/1095) in [fluxcd/website](https://github.com/fluxcd/website)
 5. 🗣 Commented on [#4412](https://github.com/kyverno/kyverno/issues/4412) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
