@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
-3. ❗️ Opened issue [#4439](https://github.com/kyverno/kyverno/issues/4439) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
-5. 🗣 Commented on [#1095](https://github.com/fluxcd/website/issues/1095) in [fluxcd/website](https://github.com/fluxcd/website)
+1. ❗️ Closed issue [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
+2. 🗣 Commented on [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
+3. 🗣 Commented on [#4439](https://github.com/kyverno/kyverno/issues/4439) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. ❗️ Closed issue [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
+5. 🗣 Commented on [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
 <!--END_SECTION:activity-->
 
 
