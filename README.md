@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1095](https://github.com/fluxcd/website/issues/1095) in [fluxcd/website](https://github.com/fluxcd/website)
-2. 🗣 Commented on [#153](https://github.com/anchore/sbom-action/issues/153) in [anchore/sbom-action](https://github.com/anchore/sbom-action)
-3. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 💪 Opened PR [#876](https://github.com/fluxcd/source-controller/pull/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. ❗️ Opened issue [#806](https://github.com/google/ko/issues/806) in [google/ko](https://github.com/google/ko)
+2. 🗣 Commented on [#1095](https://github.com/fluxcd/website/issues/1095) in [fluxcd/website](https://github.com/fluxcd/website)
+3. 🗣 Commented on [#153](https://github.com/anchore/sbom-action/issues/153) in [anchore/sbom-action](https://github.com/anchore/sbom-action)
+4. 🗣 Commented on [#669](https://github.com/containerd/nerdctl/issues/669) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 
