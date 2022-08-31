@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2213](https://github.com/sigstore/cosign/issues/2213) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#774](https://github.com/slsa-framework/slsa-github-generator/pull/774) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. ❗️ Closed issue [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
-4. 🗣 Commented on [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
-5. 🗣 Commented on [#4439](https://github.com/kyverno/kyverno/issues/4439) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4376](https://github.com/kyverno/kyverno/issues/4376) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#2213](https://github.com/sigstore/cosign/issues/2213) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#774](https://github.com/slsa-framework/slsa-github-generator/pull/774) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+4. ❗️ Closed issue [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
+5. 🗣 Commented on [#319](https://github.com/fluxcd/pkg/issues/319) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
 <!--END_SECTION:activity-->
 
 
