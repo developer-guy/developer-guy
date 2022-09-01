@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1121](https://github.com/fluxcd/website/pull/1121) in [fluxcd/website](https://github.com/fluxcd/website)
-2. ❗️ Opened issue [#117](https://github.com/helm/chart-releaser-action/issues/117) in [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action)
-3. 💪 Opened PR [#4479](https://github.com/kyverno/kyverno/pull/4479) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. ❗️ Opened issue [#2216](https://github.com/sigstore/cosign/issues/2216) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#2215](https://github.com/sigstore/cosign/issues/2215) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1124](https://github.com/fluxcd/website/pull/1124) in [fluxcd/website](https://github.com/fluxcd/website)
+2. 💪 Opened PR [#1121](https://github.com/fluxcd/website/pull/1121) in [fluxcd/website](https://github.com/fluxcd/website)
+3. ❗️ Opened issue [#117](https://github.com/helm/chart-releaser-action/issues/117) in [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action)
+4. 💪 Opened PR [#4479](https://github.com/kyverno/kyverno/pull/4479) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. ❗️ Opened issue [#2216](https://github.com/sigstore/cosign/issues/2216) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
