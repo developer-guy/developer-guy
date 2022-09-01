@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/awesomeSBOM/awesome-sbom/pull/11) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#11](https://github.com/awesomeSBOM/awesome-sbom/issues/11) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-3. 🗣 Commented on [#4376](https://github.com/kyverno/kyverno/issues/4376) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2213](https://github.com/sigstore/cosign/issues/2213) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#774](https://github.com/slsa-framework/slsa-github-generator/pull/774) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+2. 🎉 Merged PR [#11](https://github.com/awesomeSBOM/awesome-sbom/pull/11) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🗣 Commented on [#11](https://github.com/awesomeSBOM/awesome-sbom/issues/11) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#4376](https://github.com/kyverno/kyverno/issues/4376) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#2213](https://github.com/sigstore/cosign/issues/2213) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
