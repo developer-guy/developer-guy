@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#809](https://github.com/google/ko/issues/809) in [google/ko](https://github.com/google/ko)
-2. 🗣 Commented on [#4483](https://github.com/kyverno/kyverno/issues/4483) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 💪 Opened PR [#4482](https://github.com/kyverno/kyverno/pull/4482) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#4479](https://github.com/kyverno/kyverno/issues/4479) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4485](https://github.com/kyverno/kyverno/issues/4485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#809](https://github.com/google/ko/issues/809) in [google/ko](https://github.com/google/ko)
+3. 🗣 Commented on [#4483](https://github.com/kyverno/kyverno/issues/4483) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#4482](https://github.com/kyverno/kyverno/pull/4482) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#4479](https://github.com/kyverno/kyverno/issues/4479) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
