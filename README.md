@@ -44,10 +44,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 🗣 Commented on [#604](https://github.com/anchore/grype/issues/604) in [anchore/grype](https://github.com/anchore/grype)
+2. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 3. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#4482](https://github.com/kyverno/kyverno/issues/4482) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#4485](https://github.com/kyverno/kyverno/issues/4485) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#604](https://github.com/anchore/grype/issues/604) in [anchore/grype](https://github.com/anchore/grype)
+5. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
