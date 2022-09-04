@@ -43,9 +43,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
+1. ❗️ Opened issue [#242](https://github.com/fluxcd/community/issues/242) in [fluxcd/community](https://github.com/fluxcd/community)
 2. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
-3. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
 4. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 5. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
