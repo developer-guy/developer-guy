@@ -44,10 +44,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-2. 🗣 Commented on [#890](https://github.com/fluxcd/source-controller/issues/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. 💪 Opened PR [#890](https://github.com/fluxcd/source-controller/pull/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-4. ❌ Closed PR [#876](https://github.com/fluxcd/source-controller/pull/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+2. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+3. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+4. 🗣 Commented on [#890](https://github.com/fluxcd/source-controller/issues/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. 💪 Opened PR [#890](https://github.com/fluxcd/source-controller/pull/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 
