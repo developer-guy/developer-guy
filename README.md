@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
-2. ❗️ Opened issue [#242](https://github.com/fluxcd/community/issues/242) in [fluxcd/community](https://github.com/fluxcd/community)
-3. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
-4. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
-5. 🗣 Commented on [#895](https://github.com/tektoncd/catalog/issues/895) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+1. 🗣 Commented on [#890](https://github.com/fluxcd/source-controller/issues/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 💪 Opened PR [#890](https://github.com/fluxcd/source-controller/pull/890) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+3. ❌ Closed PR [#876](https://github.com/fluxcd/source-controller/pull/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+4. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+5. ❗️ Opened issue [#242](https://github.com/fluxcd/community/issues/242) in [fluxcd/community](https://github.com/fluxcd/community)
 <!--END_SECTION:activity-->
 
 
