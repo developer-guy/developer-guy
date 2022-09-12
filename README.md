@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#819](https://github.com/ko-build/ko/issues/819) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#679](https://github.com/ko-build/ko/issues/679) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#679](https://github.com/ko-build/ko/issues/679) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#820](https://github.com/ko-build/ko/issues/820) in [ko-build/ko](https://github.com/ko-build/ko)
 3. 🗣 Commented on [#819](https://github.com/ko-build/ko/issues/819) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#4592](https://github.com/kyverno/kyverno/issues/4592) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#819](https://github.com/ko-build/ko/issues/819) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🗣 Commented on [#679](https://github.com/ko-build/ko/issues/679) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#819](https://github.com/ko-build/ko/issues/819) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
