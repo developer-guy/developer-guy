@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#728](https://github.com/ko-build/ko/issues/728) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#4592](https://github.com/kyverno/kyverno/issues/4592) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 💪 Opened PR [#821](https://github.com/ko-build/ko/pull/821) in [ko-build/ko](https://github.com/ko-build/ko)
-4. ❌ Closed PR [#632](https://github.com/ko-build/ko/pull/632) in [ko-build/ko](https://github.com/ko-build/ko)
-5. ❌ Closed PR [#571](https://github.com/ko-build/ko/pull/571) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#729](https://github.com/ko-build/ko/issues/729) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#728](https://github.com/ko-build/ko/issues/728) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#4592](https://github.com/kyverno/kyverno/issues/4592) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#821](https://github.com/ko-build/ko/pull/821) in [ko-build/ko](https://github.com/ko-build/ko)
+5. ❌ Closed PR [#632](https://github.com/ko-build/ko/pull/632) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
