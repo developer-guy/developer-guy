@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/ktock/buildg/issues/86) in [ktock/buildg](https://github.com/ktock/buildg)
+1. 🗣 Commented on [#728](https://github.com/ko-build/ko/issues/728) in [ko-build/ko](https://github.com/ko-build/ko)
 2. 🗣 Commented on [#86](https://github.com/ktock/buildg/issues/86) in [ktock/buildg](https://github.com/ktock/buildg)
-3. 💪 Opened PR [#86](https://github.com/ktock/buildg/pull/86) in [ktock/buildg](https://github.com/ktock/buildg)
-4. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 🗣 Commented on [#728](https://github.com/ko-build/ko/issues/728) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#86](https://github.com/ktock/buildg/issues/86) in [ktock/buildg](https://github.com/ktock/buildg)
+4. 💪 Opened PR [#86](https://github.com/ktock/buildg/pull/86) in [ktock/buildg](https://github.com/ktock/buildg)
+5. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 
