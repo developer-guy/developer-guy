@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/gythialy/golang-cross/pull/157) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-2. 💪 Opened PR [#3378](https://github.com/goreleaser/goreleaser/pull/3378) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#1072](https://github.com/tektoncd/catalog/pull/1072) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 💪 Opened PR [#822](https://github.com/ko-build/ko/pull/822) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#728](https://github.com/ko-build/ko/issues/728) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#2254](https://github.com/sigstore/cosign/pull/2254) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#78](https://github.com/stefanprodan/kustomizer/pull/78) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
+3. 💪 Opened PR [#157](https://github.com/gythialy/golang-cross/pull/157) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 💪 Opened PR [#3378](https://github.com/goreleaser/goreleaser/pull/3378) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#1072](https://github.com/tektoncd/catalog/pull/1072) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
