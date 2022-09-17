@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#309](https://github.com/ossf/scorecard/issues/309) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#744](https://github.com/ossf/scorecard/issues/744) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#2254](https://github.com/sigstore/cosign/issues/2254) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#2260](https://github.com/sigstore/cosign/pull/2260) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
+1. 🗣 Commented on [#25](https://github.com/testifysec/witness/issues/25) in [testifysec/witness](https://github.com/testifysec/witness)
+2. 🗣 Commented on [#18](https://github.com/testifysec/witness/issues/18) in [testifysec/witness](https://github.com/testifysec/witness)
+3. 🗣 Commented on [#154](https://github.com/testifysec/witness/issues/154) in [testifysec/witness](https://github.com/testifysec/witness)
+4. 🗣 Commented on [#125](https://github.com/testifysec/witness/issues/125) in [testifysec/witness](https://github.com/testifysec/witness)
+5. 🗣 Commented on [#145](https://github.com/testifysec/witness/issues/145) in [testifysec/witness](https://github.com/testifysec/witness)
 <!--END_SECTION:activity-->
 
 
