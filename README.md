@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/testifysec/witness/issues/25) in [testifysec/witness](https://github.com/testifysec/witness)
-2. 🗣 Commented on [#18](https://github.com/testifysec/witness/issues/18) in [testifysec/witness](https://github.com/testifysec/witness)
-3. 🗣 Commented on [#154](https://github.com/testifysec/witness/issues/154) in [testifysec/witness](https://github.com/testifysec/witness)
-4. 🗣 Commented on [#125](https://github.com/testifysec/witness/issues/125) in [testifysec/witness](https://github.com/testifysec/witness)
-5. 🗣 Commented on [#145](https://github.com/testifysec/witness/issues/145) in [testifysec/witness](https://github.com/testifysec/witness)
+1. ❗️ Closed issue [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
+2. 🗣 Commented on [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
+3. 🗣 Commented on [#304](https://github.com/regclient/regclient/issues/304) in [regclient/regclient](https://github.com/regclient/regclient)
+4. ❗️ Opened issue [#304](https://github.com/regclient/regclient/issues/304) in [regclient/regclient](https://github.com/regclient/regclient)
+5. 🗣 Commented on [#280](https://github.com/regclient/regclient/issues/280) in [regclient/regclient](https://github.com/regclient/regclient)
 <!--END_SECTION:activity-->
 
 
