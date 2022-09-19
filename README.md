@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2231](https://github.com/sigstore/cosign/issues/2231) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. ❗️ Closed issue [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
-3. 🗣 Commented on [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
-4. 🗣 Commented on [#304](https://github.com/regclient/regclient/issues/304) in [regclient/regclient](https://github.com/regclient/regclient)
-5. ❗️ Opened issue [#304](https://github.com/regclient/regclient/issues/304) in [regclient/regclient](https://github.com/regclient/regclient)
+1. 💪 Opened PR [#208](https://github.com/testifysec/witness/pull/208) in [testifysec/witness](https://github.com/testifysec/witness)
+2. 🗣 Commented on [#2231](https://github.com/sigstore/cosign/issues/2231) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. ❗️ Closed issue [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
+4. 🗣 Commented on [#33](https://github.com/actions/gh-actions-cache/issues/33) in [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache)
+5. 🗣 Commented on [#304](https://github.com/regclient/regclient/issues/304) in [regclient/regclient](https://github.com/regclient/regclient)
 <!--END_SECTION:activity-->
 
 
