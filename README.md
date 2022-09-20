@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#821](https://github.com/ko-build/ko/issues/821) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
-3. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#208](https://github.com/testifysec/witness/pull/208) in [testifysec/witness](https://github.com/testifysec/witness)
-5. 🗣 Commented on [#2231](https://github.com/sigstore/cosign/issues/2231) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#1756](https://github.com/actions/starter-workflows/pull/1756) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+2. 🗣 Commented on [#821](https://github.com/ko-build/ko/issues/821) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#592](https://github.com/anchore/syft/issues/592) in [anchore/syft](https://github.com/anchore/syft)
+4. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 💪 Opened PR [#208](https://github.com/testifysec/witness/pull/208) in [testifysec/witness](https://github.com/testifysec/witness)
 <!--END_SECTION:activity-->
 
 
