@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2269](https://github.com/sigstore/cosign/pull/2269) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2758](https://github.com/aquasecurity/trivy/issues/2758) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 💪 Opened PR [#2268](https://github.com/sigstore/cosign/pull/2268) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#1756](https://github.com/actions/starter-workflows/pull/1756) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-5. 🗣 Commented on [#821](https://github.com/ko-build/ko/issues/821) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#876](https://github.com/fluxcd/source-controller/issues/876) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 💪 Opened PR [#2269](https://github.com/sigstore/cosign/pull/2269) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#2758](https://github.com/aquasecurity/trivy/issues/2758) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. 💪 Opened PR [#2268](https://github.com/sigstore/cosign/pull/2268) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 💪 Opened PR [#1756](https://github.com/actions/starter-workflows/pull/1756) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
 <!--END_SECTION:activity-->
 
 
