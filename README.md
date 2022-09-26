@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1162](https://github.com/fluxcd/website/issues/1162) in [fluxcd/website](https://github.com/fluxcd/website)
-2. 💪 Opened PR [#211](https://github.com/testifysec/witness/pull/211) in [testifysec/witness](https://github.com/testifysec/witness)
-3. 🗣 Commented on [#210](https://github.com/testifysec/witness/issues/210) in [testifysec/witness](https://github.com/testifysec/witness)
-4. 🗣 Commented on [#2268](https://github.com/sigstore/cosign/issues/2268) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#4665](https://github.com/kyverno/kyverno/issues/4665) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+2. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+3. 🗣 Commented on [#914](https://github.com/fluxcd/source-controller/issues/914) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+4. 🗣 Commented on [#914](https://github.com/fluxcd/source-controller/issues/914) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. ❗️ Opened issue [#1162](https://github.com/fluxcd/website/issues/1162) in [fluxcd/website](https://github.com/fluxcd/website)
 <!--END_SECTION:activity-->
 
 
