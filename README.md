@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/laurentsimon/slsa-github-generator-ko/pull/3) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
-2. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+1. 🗣 Commented on [#825](https://github.com/ko-build/ko/issues/825) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 💪 Opened PR [#3](https://github.com/laurentsimon/slsa-github-generator-ko/pull/3) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
 3. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
-4. 🗣 Commented on [#914](https://github.com/fluxcd/source-controller/issues/914) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+4. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
 5. 🗣 Commented on [#914](https://github.com/fluxcd/source-controller/issues/914) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
