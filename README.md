@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/kyverno/policies/pull/405) in [kyverno/policies](https://github.com/kyverno/policies)
-2. 🗣 Commented on [#825](https://github.com/ko-build/ko/issues/825) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 💪 Opened PR [#3](https://github.com/laurentsimon/slsa-github-generator-ko/pull/3) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
-4. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+1. ❗️ Opened issue [#17](https://github.com/chainguard-images/static/issues/17) in [chainguard-images/static](https://github.com/chainguard-images/static)
+2. 💪 Opened PR [#405](https://github.com/kyverno/policies/pull/405) in [kyverno/policies](https://github.com/kyverno/policies)
+3. 🗣 Commented on [#825](https://github.com/ko-build/ko/issues/825) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 💪 Opened PR [#3](https://github.com/laurentsimon/slsa-github-generator-ko/pull/3) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
 5. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
 <!--END_SECTION:activity-->
 
