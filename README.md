@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1356](https://github.com/google/go-containerregistry/issues/1356) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#1356](https://github.com/google/go-containerregistry/issues/1356) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#1356](https://github.com/google/go-containerregistry/issues/1356) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. ❗️ Opened issue [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. ❗️ Opened issue [#160](https://github.com/chainguard-dev/actions/issues/160) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+2. ❗️ Opened issue [#159](https://github.com/chainguard-dev/actions/issues/159) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+3. 🗣 Commented on [#80](https://github.com/chainguard-dev/actions/issues/80) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
