@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/opencontainers/oci-conformance/pull/93) in [opencontainers/oci-conformance](https://github.com/opencontainers/oci-conformance)
-2. 💪 Opened PR [#575](https://github.com/tektoncd/chains/pull/575) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#17](https://github.com/chainguard-images/static/issues/17) in [chainguard-images/static](https://github.com/chainguard-images/static)
-4. 💪 Opened PR [#405](https://github.com/kyverno/policies/pull/405) in [kyverno/policies](https://github.com/kyverno/policies)
-5. 🗣 Commented on [#825](https://github.com/ko-build/ko/issues/825) in [ko-build/ko](https://github.com/ko-build/ko)
+1. ❗️ Opened issue [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 💪 Opened PR [#93](https://github.com/opencontainers/oci-conformance/pull/93) in [opencontainers/oci-conformance](https://github.com/opencontainers/oci-conformance)
+3. 💪 Opened PR [#575](https://github.com/tektoncd/chains/pull/575) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. ❗️ Opened issue [#17](https://github.com/chainguard-images/static/issues/17) in [chainguard-images/static](https://github.com/chainguard-images/static)
+5. 💪 Opened PR [#405](https://github.com/kyverno/policies/pull/405) in [kyverno/policies](https://github.com/kyverno/policies)
 <!--END_SECTION:activity-->
 
 
