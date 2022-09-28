@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 💪 Opened PR [#93](https://github.com/opencontainers/oci-conformance/pull/93) in [opencontainers/oci-conformance](https://github.com/opencontainers/oci-conformance)
-3. 💪 Opened PR [#575](https://github.com/tektoncd/chains/pull/575) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. ❗️ Opened issue [#17](https://github.com/chainguard-images/static/issues/17) in [chainguard-images/static](https://github.com/chainguard-images/static)
-5. 💪 Opened PR [#405](https://github.com/kyverno/policies/pull/405) in [kyverno/policies](https://github.com/kyverno/policies)
+1. 🗣 Commented on [#1356](https://github.com/google/go-containerregistry/issues/1356) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. ❗️ Opened issue [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 💪 Opened PR [#93](https://github.com/opencontainers/oci-conformance/pull/93) in [opencontainers/oci-conformance](https://github.com/opencontainers/oci-conformance)
+5. 💪 Opened PR [#575](https://github.com/tektoncd/chains/pull/575) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
