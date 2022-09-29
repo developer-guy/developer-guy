@@ -44,10 +44,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 💪 Opened PR [#1454](https://github.com/google/go-containerregistry/pull/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. ❗️ Opened issue [#160](https://github.com/chainguard-dev/actions/issues/160) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
-4. ❗️ Opened issue [#159](https://github.com/chainguard-dev/actions/issues/159) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
-5. 🗣 Commented on [#80](https://github.com/chainguard-dev/actions/issues/80) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+3. 💪 Opened PR [#1454](https://github.com/google/go-containerregistry/pull/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#160](https://github.com/chainguard-dev/actions/issues/160) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+5. ❗️ Opened issue [#159](https://github.com/chainguard-dev/actions/issues/159) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
 <!--END_SECTION:activity-->
 
 
