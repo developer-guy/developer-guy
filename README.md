@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 💪 Opened PR [#1454](https://github.com/google/go-containerregistry/pull/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. ❗️ Opened issue [#160](https://github.com/chainguard-dev/actions/issues/160) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
-5. ❗️ Opened issue [#159](https://github.com/chainguard-dev/actions/issues/159) in [chainguard-dev/actions](https://github.com/chainguard-dev/actions)
+1. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 💪 Opened PR [#4768](https://github.com/kyverno/kyverno/pull/4768) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. 💪 Opened PR [#1454](https://github.com/google/go-containerregistry/pull/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
