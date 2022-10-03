@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1173](https://github.com/fluxcd/website/pull/1173) in [fluxcd/website](https://github.com/fluxcd/website)
-2. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. 💪 Opened PR [#4768](https://github.com/kyverno/kyverno/pull/4768) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+1. 🗣 Commented on [#2126](https://github.com/sigstore/cosign/issues/2126) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 💪 Opened PR [#1173](https://github.com/fluxcd/website/pull/1173) in [fluxcd/website](https://github.com/fluxcd/website)
+3. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 💪 Opened PR [#4768](https://github.com/kyverno/kyverno/pull/4768) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
 <!--END_SECTION:activity-->
 
