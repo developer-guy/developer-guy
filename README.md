@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4787](https://github.com/kyverno/kyverno/issues/4787) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 💪 Opened PR [#581](https://github.com/tektoncd/chains/pull/581) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#4787](https://github.com/kyverno/kyverno/issues/4787) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#2126](https://github.com/sigstore/cosign/issues/2126) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#1173](https://github.com/fluxcd/website/pull/1173) in [fluxcd/website](https://github.com/fluxcd/website)
+1. 🗣 Commented on [#405](https://github.com/kyverno/policies/issues/405) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 💪 Opened PR [#582](https://github.com/tektoncd/chains/pull/582) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. 🗣 Commented on [#4787](https://github.com/kyverno/kyverno/issues/4787) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#581](https://github.com/tektoncd/chains/pull/581) in [tektoncd/chains](https://github.com/tektoncd/chains)
+5. ❗️ Opened issue [#4787](https://github.com/kyverno/kyverno/issues/4787) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
