@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1434](https://github.com/google/go-containerregistry/issues/1434) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#21435](https://github.com/cilium/cilium/issues/21435) in [cilium/cilium](https://github.com/cilium/cilium)
-3. 💪 Opened PR [#1175](https://github.com/fluxcd/website/pull/1175) in [fluxcd/website](https://github.com/fluxcd/website)
-4. 🗣 Commented on [#4801](https://github.com/kyverno/kyverno/issues/4801) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#4801](https://github.com/kyverno/kyverno/pull/4801) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 🗣 Commented on [#2290](https://github.com/sigstore/cosign/issues/2290) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#1434](https://github.com/google/go-containerregistry/issues/1434) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#21435](https://github.com/cilium/cilium/issues/21435) in [cilium/cilium](https://github.com/cilium/cilium)
+5. 💪 Opened PR [#1175](https://github.com/fluxcd/website/pull/1175) in [fluxcd/website](https://github.com/fluxcd/website)
 <!--END_SECTION:activity-->
 
 
