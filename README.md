@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2264](https://github.com/sigstore/cosign/issues/2264) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 🗣 Commented on [#2264](https://github.com/sigstore/cosign/issues/2264) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#603](https://github.com/ko-build/ko/issues/603) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. 🗣 Commented on [#809](https://github.com/ko-build/ko/issues/809) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#2264](https://github.com/sigstore/cosign/issues/2264) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#2264](https://github.com/sigstore/cosign/issues/2264) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#603](https://github.com/ko-build/ko/issues/603) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
