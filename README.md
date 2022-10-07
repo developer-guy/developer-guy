@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3181](https://github.com/fluxcd/flux2/issues/3181) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-2. ❗️ Opened issue [#3180](https://github.com/fluxcd/flux2/issues/3180) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-3. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#3181](https://github.com/fluxcd/flux2/issues/3181) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+3. ❗️ Opened issue [#3180](https://github.com/fluxcd/flux2/issues/3180) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
 4. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#2316](https://github.com/sigstore/cosign/pull/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
