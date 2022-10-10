@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/shelmangroup/distroless-k8s/pull/4) in [shelmangroup/distroless-k8s](https://github.com/shelmangroup/distroless-k8s)
-2. 💪 Opened PR [#4854](https://github.com/kyverno/kyverno/pull/4854) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#4852](https://github.com/kyverno/kyverno/issues/4852) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#4836](https://github.com/kyverno/kyverno/issues/4836) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 💪 Opened PR [#145](https://github.com/chainguard-dev/edu/pull/145) in [chainguard-dev/edu](https://github.com/chainguard-dev/edu)
+2. 💪 Opened PR [#4](https://github.com/shelmangroup/distroless-k8s/pull/4) in [shelmangroup/distroless-k8s](https://github.com/shelmangroup/distroless-k8s)
+3. 💪 Opened PR [#4854](https://github.com/kyverno/kyverno/pull/4854) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. ❗️ Opened issue [#4852](https://github.com/kyverno/kyverno/issues/4852) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#4836](https://github.com/kyverno/kyverno/issues/4836) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
