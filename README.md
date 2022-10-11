@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3190](https://github.com/fluxcd/flux2/pull/3190) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-2. 🗣 Commented on [#3181](https://github.com/fluxcd/flux2/issues/3181) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-3. 🗣 Commented on [#3180](https://github.com/fluxcd/flux2/issues/3180) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-4. 💪 Opened PR [#145](https://github.com/chainguard-dev/edu/pull/145) in [chainguard-dev/edu](https://github.com/chainguard-dev/edu)
-5. 💪 Opened PR [#4](https://github.com/shelmangroup/distroless-k8s/pull/4) in [shelmangroup/distroless-k8s](https://github.com/shelmangroup/distroless-k8s)
+1. 🗣 Commented on [#3194](https://github.com/fluxcd/flux2/issues/3194) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+2. 💪 Opened PR [#3190](https://github.com/fluxcd/flux2/pull/3190) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+3. 🗣 Commented on [#3181](https://github.com/fluxcd/flux2/issues/3181) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+4. 🗣 Commented on [#3180](https://github.com/fluxcd/flux2/issues/3180) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+5. 💪 Opened PR [#145](https://github.com/chainguard-dev/edu/pull/145) in [chainguard-dev/edu](https://github.com/chainguard-dev/edu)
 <!--END_SECTION:activity-->
 
 
