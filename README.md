@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4869](https://github.com/kyverno/kyverno/issues/4869) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#4665](https://github.com/kyverno/kyverno/issues/4665) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#4801](https://github.com/kyverno/kyverno/issues/4801) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#4869](https://github.com/kyverno/kyverno/issues/4869) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4801](https://github.com/kyverno/kyverno/issues/4801) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#4869](https://github.com/kyverno/kyverno/issues/4869) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#4665](https://github.com/kyverno/kyverno/issues/4665) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#4801](https://github.com/kyverno/kyverno/issues/4801) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 5. 🗣 Commented on [#4869](https://github.com/kyverno/kyverno/issues/4869) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
