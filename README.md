@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/ko-build/ko/issues/262) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#1175](https://github.com/fluxcd/website/issues/1175) in [fluxcd/website](https://github.com/fluxcd/website)
-3. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-5. 🗣 Commented on [#4592](https://github.com/kyverno/kyverno/issues/4592) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#3](https://github.com/laurentsimon/slsa-github-generator-ko/issues/3) in [laurentsimon/slsa-github-generator-ko](https://github.com/laurentsimon/slsa-github-generator-ko)
+2. 🗣 Commented on [#262](https://github.com/ko-build/ko/issues/262) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#1175](https://github.com/fluxcd/website/issues/1175) in [fluxcd/website](https://github.com/fluxcd/website)
+4. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
