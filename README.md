@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 💪 Opened PR [#382](https://github.com/fluxcd/pkg/pull/382) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
+2. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
 3. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#5032](https://github.com/kyverno/kyverno/issues/5032) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#4895](https://github.com/kyverno/kyverno/issues/4895) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#5032](https://github.com/kyverno/kyverno/issues/5032) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
