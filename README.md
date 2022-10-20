@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#3224](https://github.com/fluxcd/flux2/issues/3224) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-3. 💪 Opened PR [#3224](https://github.com/fluxcd/flux2/pull/3224) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-4. 💪 Opened PR [#382](https://github.com/fluxcd/pkg/pull/382) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
-5. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#435](https://github.com/kyverno/policies/pull/435) in [kyverno/policies](https://github.com/kyverno/policies)
+2. 🗣 Commented on [#5026](https://github.com/kyverno/kyverno/issues/5026) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#3224](https://github.com/fluxcd/flux2/issues/3224) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+5. 💪 Opened PR [#3224](https://github.com/fluxcd/flux2/pull/3224) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
 <!--END_SECTION:activity-->
 
 
