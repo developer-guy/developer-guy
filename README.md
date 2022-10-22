@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2367](https://github.com/sigstore/cosign/issues/2367) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#384](https://github.com/fluxcd/pkg/pull/384) in [fluxcd/pkg](https://github.com/fluxcd/pkg)
-3. 💪 Opened PR [#435](https://github.com/kyverno/policies/pull/435) in [kyverno/policies](https://github.com/kyverno/policies)
-4. 🗣 Commented on [#5026](https://github.com/kyverno/kyverno/issues/5026) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#2316](https://github.com/sigstore/cosign/issues/2316) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#2564](https://github.com/goreleaser/goreleaser/issues/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ❌ Reopened PR [#2564](https://github.com/goreleaser/goreleaser/pull/2564) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ❗️ Opened issue [#663](https://github.com/kyverno/website/issues/663) in [kyverno/website](https://github.com/kyverno/website)
+5. 🗣 Commented on [#2556](https://github.com/goreleaser/goreleaser/issues/2556) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
