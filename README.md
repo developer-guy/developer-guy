@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
-2. ❗️ Opened issue [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
-3. ❗️ Opened issue [#3518](https://github.com/spiffe/spire/issues/3518) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#130](https://github.com/buildsec/frsca/issues/130) in [buildsec/frsca](https://github.com/buildsec/frsca)
-5. 💪 Opened PR [#1](https://github.com/imjasonh/miniko/pull/1) in [imjasonh/miniko](https://github.com/imjasonh/miniko)
+1. 💪 Opened PR [#53](https://github.com/spiffe/spiffe-csi/pull/53) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
+2. 🗣 Commented on [#820](https://github.com/ko-build/ko/issues/820) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
+4. ❗️ Opened issue [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
+5. ❗️ Opened issue [#3518](https://github.com/spiffe/spire/issues/3518) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
