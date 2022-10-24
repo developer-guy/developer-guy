@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3518](https://github.com/spiffe/spire/issues/3518) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 🗣 Commented on [#130](https://github.com/buildsec/frsca/issues/130) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. 💪 Opened PR [#1](https://github.com/imjasonh/miniko/pull/1) in [imjasonh/miniko](https://github.com/imjasonh/miniko)
-4. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 💪 Opened PR [#3490](https://github.com/goreleaser/goreleaser/pull/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
+2. ❗️ Opened issue [#7](https://github.com/equinixmetal-helm/k8s-spire/issues/7) in [equinixmetal-helm/k8s-spire](https://github.com/equinixmetal-helm/k8s-spire)
+3. ❗️ Opened issue [#3518](https://github.com/spiffe/spire/issues/3518) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#130](https://github.com/buildsec/frsca/issues/130) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 💪 Opened PR [#1](https://github.com/imjasonh/miniko/pull/1) in [imjasonh/miniko](https://github.com/imjasonh/miniko)
 <!--END_SECTION:activity-->
 
 
