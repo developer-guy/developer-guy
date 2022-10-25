@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/philips-labs/helm-charts/pull/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-2. 💪 Opened PR [#354](https://github.com/buildsec/frsca/pull/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. ❗️ Opened issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
-4. 💪 Opened PR [#53](https://github.com/spiffe/spiffe-csi/pull/53) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
-5. 🗣 Commented on [#820](https://github.com/ko-build/ko/issues/820) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
+2. 💪 Opened PR [#60](https://github.com/philips-labs/helm-charts/pull/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+3. 💪 Opened PR [#354](https://github.com/buildsec/frsca/pull/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
+4. ❗️ Opened issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 💪 Opened PR [#53](https://github.com/spiffe/spiffe-csi/pull/53) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
 <!--END_SECTION:activity-->
 
 
