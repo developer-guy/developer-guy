@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#1454](https://github.com/google/go-containerregistry/issues/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. ❗️ Opened issue [#869](https://github.com/ko-build/ko/issues/869) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#3](https://github.com/sudo-bmitch/helm-charts/pull/3) in [sudo-bmitch/helm-charts](https://github.com/sudo-bmitch/helm-charts)
+1. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#1454](https://github.com/google/go-containerregistry/issues/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. ❗️ Opened issue [#869](https://github.com/ko-build/ko/issues/869) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
