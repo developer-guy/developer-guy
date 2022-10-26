@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/sudo-bmitch/helm-charts/pull/3) in [sudo-bmitch/helm-charts](https://github.com/sudo-bmitch/helm-charts)
-2. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
-3. 💪 Opened PR [#60](https://github.com/philips-labs/helm-charts/pull/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-4. 💪 Opened PR [#354](https://github.com/buildsec/frsca/pull/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
-5. ❗️ Opened issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
+1. 🗣 Commented on [#3154](https://github.com/kyverno/kyverno/issues/3154) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#3](https://github.com/sudo-bmitch/helm-charts/pull/3) in [sudo-bmitch/helm-charts](https://github.com/sudo-bmitch/helm-charts)
+3. 🗣 Commented on [#19](https://github.com/kyverno/KDP/issues/19) in [kyverno/KDP](https://github.com/kyverno/KDP)
+4. 💪 Opened PR [#60](https://github.com/philips-labs/helm-charts/pull/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 💪 Opened PR [#354](https://github.com/buildsec/frsca/pull/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 
