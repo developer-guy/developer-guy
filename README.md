@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
-2. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. 🗣 Commented on [#3519](https://github.com/spiffe/spire/issues/3519) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#60](https://github.com/philips-labs/helm-charts/issues/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+2. 🗣 Commented on [#354](https://github.com/buildsec/frsca/issues/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
+3. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
+4. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 🗣 Commented on [#3519](https://github.com/spiffe/spire/issues/3519) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
