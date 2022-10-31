@@ -44,10 +44,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
-2. 🗣 Commented on [#3519](https://github.com/spiffe/spire/issues/3519) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#1454](https://github.com/google/go-containerregistry/issues/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
+3. 🗣 Commented on [#3519](https://github.com/spiffe/spire/issues/3519) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
