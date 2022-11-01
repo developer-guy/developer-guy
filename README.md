@@ -43,10 +43,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#355](https://github.com/buildsec/frsca/issues/355) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. 💪 Opened PR [#604](https://github.com/tektoncd/chains/pull/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#66](https://github.com/philips-labs/helm-charts/pull/66) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+2. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#355](https://github.com/buildsec/frsca/issues/355) in [buildsec/frsca](https://github.com/buildsec/frsca)
+4. 💪 Opened PR [#604](https://github.com/tektoncd/chains/pull/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
 5. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
