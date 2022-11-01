@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1240](https://github.com/fluxcd/website/issues/1240) in [fluxcd/website](https://github.com/fluxcd/website)
-2. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#60](https://github.com/philips-labs/helm-charts/issues/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-4. 🗣 Commented on [#354](https://github.com/buildsec/frsca/issues/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
-5. 🗣 Commented on [#356](https://github.com/buildsec/frsca/issues/356) in [buildsec/frsca](https://github.com/buildsec/frsca)
+1. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. ❗️ Opened issue [#1240](https://github.com/fluxcd/website/issues/1240) in [fluxcd/website](https://github.com/fluxcd/website)
+3. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#60](https://github.com/philips-labs/helm-charts/issues/60) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 🗣 Commented on [#354](https://github.com/buildsec/frsca/issues/354) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 
