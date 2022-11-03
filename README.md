@@ -43,11 +43,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2652](https://github.com/spiffe/spire/issues/2652) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#362](https://github.com/buildsec/frsca/issues/362) in [buildsec/frsca](https://github.com/buildsec/frsca)
-4. 🗣 Commented on [#2394](https://github.com/sigstore/cosign/issues/2394) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗️ Opened issue [#361](https://github.com/buildsec/frsca/issues/361) in [buildsec/frsca](https://github.com/buildsec/frsca)
+1. 🗣 Commented on [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. ❗️ Opened issue [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 🗣 Commented on [#2652](https://github.com/spiffe/spire/issues/2652) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#362](https://github.com/buildsec/frsca/issues/362) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 
