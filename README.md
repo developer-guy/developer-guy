@@ -21,8 +21,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### 🎖 Certificates
 <p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/badges/349777de-9673-444f-a05e-2dbb770768c3/public_url" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/e2ba7704-b6ba-46e0-914a-b3bbb3f58cc6/public_url" width="100" height="100"/> 
+ <img src="https://images.credly.com/size/340x340/images/41c70194-555c-4245-b3f0-921425b8010e/image.png" alt="https://www.credly.com/badges/a23d8f99-a2fb-48ca-b72e-24924cf559e8/public_url" width="100" height="100" />
 </p>
-
 
 
 ### :octocat: Github Statistics
@@ -43,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/chainguard-dev/melange/pull/158) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-2. 🗣 Commented on [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-3. ❗️ Opened issue [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 🗣 Commented on [#2652](https://github.com/spiffe/spire/issues/2652) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 🗣 Commented on [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. ❗️ Opened issue [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 🗣 Commented on [#2652](https://github.com/spiffe/spire/issues/2652) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#362](https://github.com/buildsec/frsca/issues/362) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 
