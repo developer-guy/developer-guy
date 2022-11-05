@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/ossf/ossf-landscape/issues/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-2. 💪 Opened PR [#200](https://github.com/ossf/ossf-landscape/pull/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-3. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 💪 Opened PR [#158](https://github.com/chainguard-dev/melange/pull/158) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-5. 🗣 Commented on [#157](https://github.com/chainguard-dev/melange/issues/157) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. ❗️ Closed issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
+2. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
+3. 🗣 Commented on [#200](https://github.com/ossf/ossf-landscape/issues/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+4. 💪 Opened PR [#200](https://github.com/ossf/ossf-landscape/pull/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+5. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
 <!--END_SECTION:activity-->
 
 
