@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/ossf/ossf-landscape/issues/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-2. ❗️ Closed issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
-4. 🗣 Commented on [#200](https://github.com/ossf/ossf-landscape/issues/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-5. 💪 Opened PR [#200](https://github.com/ossf/ossf-landscape/pull/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+1. 🗣 Commented on [#1240](https://github.com/fluxcd/website/issues/1240) in [fluxcd/website](https://github.com/fluxcd/website)
+2. 🗣 Commented on [#1240](https://github.com/fluxcd/website/issues/1240) in [fluxcd/website](https://github.com/fluxcd/website)
+3. 🗣 Commented on [#200](https://github.com/ossf/ossf-landscape/issues/200) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+4. ❗️ Closed issue [#353](https://github.com/buildsec/frsca/issues/353) in [buildsec/frsca](https://github.com/buildsec/frsca)
+5. 🗣 Commented on [#313](https://github.com/anchore/syft/issues/313) in [anchore/syft](https://github.com/anchore/syft)
 <!--END_SECTION:activity-->
 
 
