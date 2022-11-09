@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2664](https://github.com/prometheus-community/helm-charts/pull/2664) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. 🗣 Commented on [#5](https://github.com/stefanprodan/flux-local-dev/issues/5) in [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev)
-3. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
-4. 🗣 Commented on [#2416](https://github.com/sigstore/cosign/issues/2416) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#1253](https://github.com/fluxcd/website/issues/1253) in [fluxcd/website](https://github.com/fluxcd/website)
+1. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 💪 Opened PR [#2664](https://github.com/prometheus-community/helm-charts/pull/2664) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+3. 🗣 Commented on [#5](https://github.com/stefanprodan/flux-local-dev/issues/5) in [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev)
+4. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
+5. 🗣 Commented on [#2416](https://github.com/sigstore/cosign/issues/2416) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
