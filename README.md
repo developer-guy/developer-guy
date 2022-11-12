@@ -3,7 +3,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
+<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
