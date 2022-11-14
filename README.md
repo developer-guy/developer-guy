@@ -45,10 +45,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 💪 Opened PR [#71](https://github.com/philips-labs/helm-charts/pull/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-3. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#752](https://github.com/falcosecurity/test-infra/issues/752) in [falcosecurity/test-infra](https://github.com/falcosecurity/test-infra)
-5. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 💪 Opened PR [#71](https://github.com/philips-labs/helm-charts/pull/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
