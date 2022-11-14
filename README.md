@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
-2. 💪 Opened PR [#1263](https://github.com/fluxcd/website/pull/1263) in [fluxcd/website](https://github.com/fluxcd/website)
-3. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#71](https://github.com/philips-labs/helm-charts/issues/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+2. ❗️ Opened issue [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
+3. 💪 Opened PR [#1263](https://github.com/fluxcd/website/pull/1263) in [fluxcd/website](https://github.com/fluxcd/website)
+4. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
