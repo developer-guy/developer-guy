@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
 2. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#71](https://github.com/philips-labs/helm-charts/issues/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-4. ❗️ Opened issue [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
-5. 💪 Opened PR [#1263](https://github.com/fluxcd/website/pull/1263) in [fluxcd/website](https://github.com/fluxcd/website)
+3. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#71](https://github.com/philips-labs/helm-charts/issues/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. ❗️ Opened issue [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
 <!--END_SECTION:activity-->
 
 
