@@ -44,10 +44,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#114](https://github.com/wolfi-dev/os/pull/114) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#1508](https://github.com/containerd/nerdctl/issues/1508) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 🗣 Commented on [#423](https://github.com/wagoodman/dive/issues/423) in [wagoodman/dive](https://github.com/wagoodman/dive)
+2. ❗️ Opened issue [#423](https://github.com/wagoodman/dive/issues/423) in [wagoodman/dive](https://github.com/wagoodman/dive)
+3. 💪 Opened PR [#1492](https://github.com/google/go-containerregistry/pull/1492) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 💪 Opened PR [#114](https://github.com/wolfi-dev/os/pull/114) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 5. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
