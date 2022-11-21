@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 💪 Opened PR [#199](https://github.com/kubernetes-sigs/bom/pull/199) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-4. ❗️ Opened issue [#1189](https://github.com/lima-vm/lima/issues/1189) in [lima-vm/lima](https://github.com/lima-vm/lima)
-5. 🗣 Commented on [#114](https://github.com/wolfi-dev/os/issues/114) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#116](https://github.com/wolfi-dev/os/pull/116) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+3. 💪 Opened PR [#199](https://github.com/kubernetes-sigs/bom/pull/199) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. ❗️ Opened issue [#1189](https://github.com/lima-vm/lima/issues/1189) in [lima-vm/lima](https://github.com/lima-vm/lima)
 <!--END_SECTION:activity-->
 
 
