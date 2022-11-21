@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 🗣 Commented on [#1508](https://github.com/containerd/nerdctl/issues/1508) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
+1. 💪 Opened PR [#114](https://github.com/wolfi-dev/os/pull/114) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
+3. 🗣 Commented on [#1508](https://github.com/containerd/nerdctl/issues/1508) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 4. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 🗣 Commented on [#1984](https://github.com/spiffe/spire/issues/1984) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
