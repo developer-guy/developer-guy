@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/philips-labs/helm-charts/issues/76) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-2. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. ❗️ Opened issue [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#121](https://github.com/wolfi-dev/os/issues/121) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#895](https://github.com/ko-build/ko/pull/895) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. ❗️ Opened issue [#76](https://github.com/philips-labs/helm-charts/issues/76) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+3. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. ❗️ Opened issue [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#121](https://github.com/wolfi-dev/os/issues/121) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
