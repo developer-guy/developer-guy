@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❗️ Opened issue [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#121](https://github.com/wolfi-dev/os/issues/121) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#895](https://github.com/ko-build/ko/pull/895) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#1634](https://github.com/containers/image/issues/1634) in [containers/image](https://github.com/containers/image)
+1. ❗️ Opened issue [#76](https://github.com/philips-labs/helm-charts/issues/76) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+2. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗️ Opened issue [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#121](https://github.com/wolfi-dev/os/issues/121) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#895](https://github.com/ko-build/ko/pull/895) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
