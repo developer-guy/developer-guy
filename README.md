@@ -21,7 +21,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### 🎖 Certificates
 <p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/badges/349777de-9673-444f-a05e-2dbb770768c3/public_url" width="100" height="100"/> 
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/e2ba7704-b6ba-46e0-914a-b3bbb3f58cc6/public_url" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/e2ba7704-b6ba-46e0-914a-b3bbb3f58cc6/public_url" width="100" height="100"/>
+ <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/kss/color/kubernetes-security-specialist-color.png" alt="[https://www.credly.com/badges/e2ba7704-b6ba-46e0-914a-b3bbb3f58cc6/public_url](https://www.credly.com/badges/79c34054-2204-42d5-bf86-b3b42e9b4c04)" width="100" height="100"/> 
  <img src="https://images.credly.com/size/340x340/images/41c70194-555c-4245-b3f0-921425b8010e/image.png" alt="https://www.credly.com/badges/a23d8f99-a2fb-48ca-b72e-24924cf559e8/public_url" width="100" height="100" />
 </p>
 
