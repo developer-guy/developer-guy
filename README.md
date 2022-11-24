@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 💪 Opened PR [#77](https://github.com/philips-labs/helm-charts/pull/77) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
 2. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 3. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. 🗣 Commented on [#5566](https://github.com/cert-manager/cert-manager/issues/5566) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+4. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
