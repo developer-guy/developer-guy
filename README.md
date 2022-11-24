@@ -44,11 +44,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5566](https://github.com/cert-manager/cert-manager/issues/5566) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-2. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
-3. ❗️ Opened issue [#76](https://github.com/philips-labs/helm-charts/issues/76) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-4. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 🗣 Commented on [#5566](https://github.com/cert-manager/cert-manager/issues/5566) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+3. 🗣 Commented on [#604](https://github.com/tektoncd/chains/issues/604) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. ❗️ Opened issue [#76](https://github.com/philips-labs/helm-charts/issues/76) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 🗣 Commented on [#5435](https://github.com/kyverno/kyverno/issues/5435) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
