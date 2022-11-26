@@ -45,10 +45,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 💪 Opened PR [#77](https://github.com/philips-labs/helm-charts/pull/77) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+1. 🗣 Commented on [#679](https://github.com/ko-build/ko/issues/679) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#603](https://github.com/ko-build/ko/issues/603) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#1442](https://github.com/google/go-containerregistry/issues/1442) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
 5. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
