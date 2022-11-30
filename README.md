@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/argoproj/notifications-engine/issues/123) in [argoproj/notifications-engine](https://github.com/argoproj/notifications-engine)
-2. ❗️ Opened issue [#123](https://github.com/argoproj/notifications-engine/issues/123) in [argoproj/notifications-engine](https://github.com/argoproj/notifications-engine)
-3. ❗️ Closed issue [#11499](https://github.com/argoproj/argo-cd/issues/11499) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#11499](https://github.com/argoproj/argo-cd/issues/11499) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-5. ❗️ Opened issue [#11499](https://github.com/argoproj/argo-cd/issues/11499) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+1. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+2. 💪 Opened PR [#632](https://github.com/tektoncd/chains/pull/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. 🗣 Commented on [#123](https://github.com/argoproj/notifications-engine/issues/123) in [argoproj/notifications-engine](https://github.com/argoproj/notifications-engine)
+4. ❗️ Opened issue [#123](https://github.com/argoproj/notifications-engine/issues/123) in [argoproj/notifications-engine](https://github.com/argoproj/notifications-engine)
+5. ❗️ Closed issue [#11499](https://github.com/argoproj/argo-cd/issues/11499) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 
