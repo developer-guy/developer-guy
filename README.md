@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
-2. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#1478](https://github.com/sigstore/cosign/issues/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 💪 Opened PR [#433](https://github.com/sigstore/helm-charts/pull/433) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-5. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. 🗣 Commented on [#2508](https://github.com/sigstore/cosign/issues/2508) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2508](https://github.com/sigstore/cosign/issues/2508) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
+4. 🗣 Commented on [#1934](https://github.com/sigstore/cosign/issues/1934) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#1478](https://github.com/sigstore/cosign/issues/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
