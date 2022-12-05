@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#163](https://github.com/wolfi-dev/os/pull/163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-3. 🗣 Commented on [#2508](https://github.com/sigstore/cosign/issues/2508) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2508](https://github.com/sigstore/cosign/issues/2508) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 🗣 Commented on [#269](https://github.com/docker/roadmap/issues/269) in [docker/roadmap](https://github.com/docker/roadmap)
+1. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+2. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+3. 🗣 Commented on [#3636](https://github.com/spiffe/spire/issues/3636) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 💪 Opened PR [#115](https://github.com/chainguard-images/images/pull/115) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#163](https://github.com/wolfi-dev/os/pull/163) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
