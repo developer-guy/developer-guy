@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
-2. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+1. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 3. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
-4. 🗣 Commented on [#3636](https://github.com/spiffe/spire/issues/3636) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 💪 Opened PR [#115](https://github.com/chainguard-images/images/pull/115) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
+5. 🗣 Commented on [#272](https://github.com/hashicorp/go-getter/issues/272) in [hashicorp/go-getter](https://github.com/hashicorp/go-getter)
 <!--END_SECTION:activity-->
 
 
