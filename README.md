@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2526](https://github.com/sigstore/cosign/issues/2526) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#21435](https://github.com/cilium/cilium/issues/21435) in [cilium/cilium](https://github.com/cilium/cilium)
-3. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-4. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#680](https://github.com/containerd/nerdctl/issues/680) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#10644](https://github.com/helm/helm/issues/10644) in [helm/helm](https://github.com/helm/helm)
+2. 🗣 Commented on [#2526](https://github.com/sigstore/cosign/issues/2526) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#21435](https://github.com/cilium/cilium/issues/21435) in [cilium/cilium](https://github.com/cilium/cilium)
+4. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 🗣 Commented on [#86](https://github.com/wolfi-dev/os/issues/86) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
