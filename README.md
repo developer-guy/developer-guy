@@ -45,9 +45,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 4. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 5. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
