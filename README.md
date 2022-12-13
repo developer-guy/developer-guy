@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
-3. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. ❗️ Opened issue [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#979](https://github.com/fluxcd/source-controller/issues/979) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. 🗣 Commented on [#375](https://github.com/cncf/artwork/issues/375) in [cncf/artwork](https://github.com/cncf/artwork)
+2. 🗣 Commented on [#1542](https://github.com/containerd/nerdctl/issues/1542) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+3. 🗣 Commented on [#1](https://github.com/guacsec/guac/issues/1) in [guacsec/guac](https://github.com/guacsec/guac)
+4. 🗣 Commented on [#243](https://github.com/wolfi-dev/os/issues/243) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. ❗️ Opened issue [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
