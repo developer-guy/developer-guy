@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/chainguard-images/images/issues/136) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 🗣 Commented on [#71](https://github.com/philips-labs/helm-charts/issues/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-3. 💪 Opened PR [#269](https://github.com/wolfi-dev/os/pull/269) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-5. 🗣 Commented on [#90](https://github.com/spiffe/spire-tutorials/issues/90) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
+1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+2. 💪 Opened PR [#904](https://github.com/ko-build/ko/pull/904) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#136](https://github.com/chainguard-images/images/issues/136) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 🗣 Commented on [#71](https://github.com/philips-labs/helm-charts/issues/71) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+5. 💪 Opened PR [#269](https://github.com/wolfi-dev/os/pull/269) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
