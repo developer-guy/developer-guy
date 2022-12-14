@@ -45,10 +45,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-2. 🗣 Commented on [#90](https://github.com/spiffe/spire-tutorials/issues/90) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
-3. 💪 Opened PR [#135](https://github.com/chainguard-images/images/pull/135) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 🗣 Commented on [#457](https://github.com/cncf/kubernetes-community-days/issues/457) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+1. 💪 Opened PR [#269](https://github.com/wolfi-dev/os/pull/269) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#80](https://github.com/philips-labs/helm-charts/issues/80) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+3. 🗣 Commented on [#90](https://github.com/spiffe/spire-tutorials/issues/90) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
+4. 💪 Opened PR [#135](https://github.com/chainguard-images/images/pull/135) in [chainguard-images/images](https://github.com/chainguard-images/images)
 5. 🗣 Commented on [#457](https://github.com/cncf/kubernetes-community-days/issues/457) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
 <!--END_SECTION:activity-->
 
