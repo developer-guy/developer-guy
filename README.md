@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
-2. 🗣 Commented on [#907](https://github.com/ko-build/ko/issues/907) in [ko-build/ko](https://github.com/ko-build/ko)
-3. ❗️ Opened issue [#907](https://github.com/ko-build/ko/issues/907) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#844](https://github.com/ko-build/ko/issues/844) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 💪 Opened PR [#99](https://github.com/spiffe/spire-tutorials/pull/99) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
+1. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
+2. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+3. 🗣 Commented on [#907](https://github.com/ko-build/ko/issues/907) in [ko-build/ko](https://github.com/ko-build/ko)
+4. ❗️ Opened issue [#907](https://github.com/ko-build/ko/issues/907) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#844](https://github.com/ko-build/ko/issues/844) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
