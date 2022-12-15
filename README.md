@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/spiffe/spire-tutorials/pull/99) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
-2. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-3. 🗣 Commented on [#136](https://github.com/chainguard-images/images/issues/136) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 🗣 Commented on [#269](https://github.com/wolfi-dev/os/issues/269) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+1. ❗️ Opened issue [#907](https://github.com/ko-build/ko/issues/907) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#844](https://github.com/ko-build/ko/issues/844) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 💪 Opened PR [#99](https://github.com/spiffe/spire-tutorials/pull/99) in [spiffe/spire-tutorials](https://github.com/spiffe/spire-tutorials)
+4. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. 🗣 Commented on [#136](https://github.com/chainguard-images/images/issues/136) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
