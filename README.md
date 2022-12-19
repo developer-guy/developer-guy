@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗️ Opened issue [#1040](https://github.com/anchore/grype/issues/1040) in [anchore/grype](https://github.com/anchore/grype)
-3. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
-4. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
-5. 🗣 Commented on [#3048](https://github.com/crossplane/crossplane/issues/3048) in [crossplane/crossplane](https://github.com/crossplane/crossplane)
+1. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
+2. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗️ Opened issue [#1040](https://github.com/anchore/grype/issues/1040) in [anchore/grype](https://github.com/anchore/grype)
+4. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+5. 🗣 Commented on [#58](https://github.com/in-toto/attestation/issues/58) in [in-toto/attestation](https://github.com/in-toto/attestation)
 <!--END_SECTION:activity-->
 
 
