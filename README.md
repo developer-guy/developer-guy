@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/cpanato/vault-installer/pull/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
-2. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
-3. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. ❗️ Opened issue [#1040](https://github.com/anchore/grype/issues/1040) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#2](https://github.com/wolfi-dev/wolfictl/issues/2) in [wolfi-dev/wolfictl](https://github.com/wolfi-dev/wolfictl)
+1. 🗣 Commented on [#3653](https://github.com/goreleaser/goreleaser/issues/3653) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#3](https://github.com/cpanato/vault-installer/pull/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
+3. 🗣 Commented on [#2286](https://github.com/kubernetes/release/issues/2286) in [kubernetes/release](https://github.com/kubernetes/release)
+4. 🗣 Commented on [#3490](https://github.com/goreleaser/goreleaser/issues/3490) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. ❗️ Opened issue [#1040](https://github.com/anchore/grype/issues/1040) in [anchore/grype](https://github.com/anchore/grype)
 <!--END_SECTION:activity-->
 
 
