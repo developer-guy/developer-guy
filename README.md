@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#910](https://github.com/ko-build/ko/issues/910) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#3](https://github.com/cpanato/vault-installer/issues/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
-3. 🗣 Commented on [#1478](https://github.com/sigstore/cosign/issues/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#3653](https://github.com/goreleaser/goreleaser/issues/3653) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#3](https://github.com/cpanato/vault-installer/pull/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
+1. 🗣 Commented on [#1433](https://github.com/google/go-containerregistry/issues/1433) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 🗣 Commented on [#910](https://github.com/ko-build/ko/issues/910) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#3](https://github.com/cpanato/vault-installer/issues/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
+4. 🗣 Commented on [#1478](https://github.com/sigstore/cosign/issues/1478) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#3653](https://github.com/goreleaser/goreleaser/issues/3653) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
