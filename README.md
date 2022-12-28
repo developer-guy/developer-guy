@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#447](https://github.com/sigstore/helm-charts/pull/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-2. 🗣 Commented on [#447](https://github.com/sigstore/helm-charts/issues/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-3. 💪 Opened PR [#447](https://github.com/sigstore/helm-charts/pull/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
-4. 💪 Opened PR [#5782](https://github.com/kyverno/kyverno/pull/5782) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#100](https://github.com/philips-labs/helm-charts/pull/100) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+1. 🗣 Commented on [#5797](https://github.com/kyverno/kyverno/issues/5797) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 💪 Opened PR [#5797](https://github.com/kyverno/kyverno/pull/5797) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❌ Closed PR [#447](https://github.com/sigstore/helm-charts/pull/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+4. 🗣 Commented on [#447](https://github.com/sigstore/helm-charts/issues/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
+5. 💪 Opened PR [#447](https://github.com/sigstore/helm-charts/pull/447) in [sigstore/helm-charts](https://github.com/sigstore/helm-charts)
 <!--END_SECTION:activity-->
 
 
