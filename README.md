@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/wolfi-dev/os/pull/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#5819](https://github.com/kyverno/kyverno/pull/5819) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 💪 Opened PR [#338](https://github.com/wolfi-dev/os/pull/338) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#5797](https://github.com/kyverno/kyverno/issues/5797) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#5797](https://github.com/kyverno/kyverno/pull/5797) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#339](https://github.com/wolfi-dev/os/issues/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#339](https://github.com/wolfi-dev/os/pull/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#5819](https://github.com/kyverno/kyverno/pull/5819) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 💪 Opened PR [#338](https://github.com/wolfi-dev/os/pull/338) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#5797](https://github.com/kyverno/kyverno/issues/5797) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
