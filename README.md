@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#353](https://github.com/wolfi-dev/os/pull/353) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#238](https://github.com/chainguard-dev/melange/pull/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-3. 🗣 Commented on [#339](https://github.com/wolfi-dev/os/issues/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#346](https://github.com/wolfi-dev/os/issues/346) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#346](https://github.com/wolfi-dev/os/pull/346) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#354](https://github.com/wolfi-dev/os/pull/354) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#353](https://github.com/wolfi-dev/os/issues/353) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#353](https://github.com/wolfi-dev/os/pull/353) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#238](https://github.com/chainguard-dev/melange/pull/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+5. 🗣 Commented on [#339](https://github.com/wolfi-dev/os/issues/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
