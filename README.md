@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#383](https://github.com/buildsec/frsca/pull/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
-2. 💪 Opened PR [#371](https://github.com/wolfi-dev/os/pull/371) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#370](https://github.com/wolfi-dev/os/pull/370) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#919](https://github.com/ko-build/ko/issues/919) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 💪 Opened PR [#188](https://github.com/chainguard-images/images/pull/188) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#238](https://github.com/chainguard-dev/melange/issues/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 💪 Opened PR [#383](https://github.com/buildsec/frsca/pull/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
+3. 💪 Opened PR [#371](https://github.com/wolfi-dev/os/pull/371) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#370](https://github.com/wolfi-dev/os/pull/370) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#919](https://github.com/ko-build/ko/issues/919) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
