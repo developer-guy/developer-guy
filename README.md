@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-3. 💪 Opened PR [#56](https://github.com/spiffe/spire-examples/pull/56) in [spiffe/spire-examples](https://github.com/spiffe/spire-examples)
-4. 🗣 Commented on [#1040](https://github.com/anchore/grype/issues/1040) in [anchore/grype](https://github.com/anchore/grype)
-5. 🗣 Commented on [#238](https://github.com/chainguard-dev/melange/issues/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. 🗣 Commented on [#238](https://github.com/chainguard-dev/melange/issues/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 💪 Opened PR [#409](https://github.com/wolfi-dev/os/pull/409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+5. 💪 Opened PR [#56](https://github.com/spiffe/spire-examples/pull/56) in [spiffe/spire-examples](https://github.com/spiffe/spire-examples)
 <!--END_SECTION:activity-->
 
 
