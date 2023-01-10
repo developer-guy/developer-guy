@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1502](https://github.com/docker/buildx/pull/1502) in [docker/buildx](https://github.com/docker/buildx)
-2. 🗣 Commented on [#409](https://github.com/wolfi-dev/os/issues/409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#238](https://github.com/chainguard-dev/melange/issues/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-5. 💪 Opened PR [#409](https://github.com/wolfi-dev/os/pull/409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. ❗️ Opened issue [#345](https://github.com/regclient/regclient/issues/345) in [regclient/regclient](https://github.com/regclient/regclient)
+2. 💪 Opened PR [#1502](https://github.com/docker/buildx/pull/1502) in [docker/buildx](https://github.com/docker/buildx)
+3. 🗣 Commented on [#409](https://github.com/wolfi-dev/os/issues/409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#3607](https://github.com/spiffe/spire/issues/3607) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#238](https://github.com/chainguard-dev/melange/issues/238) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
 <!--END_SECTION:activity-->
 
 
