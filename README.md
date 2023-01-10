@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/buildsec/frsca/issues/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
-2. 🗣 Commented on [#3](https://github.com/cpanato/vault-installer/issues/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
-3. ❗️ Opened issue [#345](https://github.com/regclient/regclient/issues/345) in [regclient/regclient](https://github.com/regclient/regclient)
-4. 💪 Opened PR [#1502](https://github.com/docker/buildx/pull/1502) in [docker/buildx](https://github.com/docker/buildx)
-5. 🗣 Commented on [#409](https://github.com/wolfi-dev/os/issues/409) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#919](https://github.com/ko-build/ko/issues/919) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#383](https://github.com/buildsec/frsca/issues/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
+3. 🗣 Commented on [#3](https://github.com/cpanato/vault-installer/issues/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
+4. ❗️ Opened issue [#345](https://github.com/regclient/regclient/issues/345) in [regclient/regclient](https://github.com/regclient/regclient)
+5. 💪 Opened PR [#1502](https://github.com/docker/buildx/pull/1502) in [docker/buildx](https://github.com/docker/buildx)
 <!--END_SECTION:activity-->
 
 
