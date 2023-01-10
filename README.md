@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#919](https://github.com/ko-build/ko/issues/919) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#383](https://github.com/buildsec/frsca/issues/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
-3. 🗣 Commented on [#3](https://github.com/cpanato/vault-installer/issues/3) in [cpanato/vault-installer](https://github.com/cpanato/vault-installer)
-4. ❗️ Opened issue [#345](https://github.com/regclient/regclient/issues/345) in [regclient/regclient](https://github.com/regclient/regclient)
-5. 💪 Opened PR [#1502](https://github.com/docker/buildx/pull/1502) in [docker/buildx](https://github.com/docker/buildx)
+1. ❗️ Opened issue [#925](https://github.com/ko-build/ko/issues/925) in [ko-build/ko](https://github.com/ko-build/ko)
+2. ❗️ Opened issue [#924](https://github.com/ko-build/ko/issues/924) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#904](https://github.com/ko-build/ko/issues/904) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🗣 Commented on [#919](https://github.com/ko-build/ko/issues/919) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#383](https://github.com/buildsec/frsca/issues/383) in [buildsec/frsca](https://github.com/buildsec/frsca)
 <!--END_SECTION:activity-->
 
 
