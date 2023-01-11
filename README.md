@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#906](https://github.com/ko-build/ko/issues/906) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#906](https://github.com/ko-build/ko/issues/906) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 💪 Opened PR [#1126](https://github.com/tektoncd/catalog/pull/1126) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 💪 Opened PR [#2593](https://github.com/ossf/scorecard/pull/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#748](https://github.com/ko-build/ko/issues/748) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#906](https://github.com/ko-build/ko/issues/906) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🗣 Commented on [#906](https://github.com/ko-build/ko/issues/906) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 💪 Opened PR [#1126](https://github.com/tektoncd/catalog/pull/1126) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 
