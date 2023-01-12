@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2679](https://github.com/artifacthub/hub/pull/2679) in [artifacthub/hub](https://github.com/artifacthub/hub)
-2. 💪 Opened PR [#77](https://github.com/oras-project/oras-www/pull/77) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-3. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#748](https://github.com/ko-build/ko/issues/748) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#906](https://github.com/ko-build/ko/issues/906) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#2679](https://github.com/artifacthub/hub/issues/2679) in [artifacthub/hub](https://github.com/artifacthub/hub)
+2. 🗣 Commented on [#53](https://github.com/spiffe/spiffe-csi/issues/53) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
+3. 💪 Opened PR [#2679](https://github.com/artifacthub/hub/pull/2679) in [artifacthub/hub](https://github.com/artifacthub/hub)
+4. 💪 Opened PR [#77](https://github.com/oras-project/oras-www/pull/77) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+5. 🗣 Commented on [#896](https://github.com/ko-build/ko/issues/896) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
