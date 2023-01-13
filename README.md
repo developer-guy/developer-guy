@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 2. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#425](https://github.com/wolfi-dev/os/pull/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#2679](https://github.com/artifacthub/hub/issues/2679) in [artifacthub/hub](https://github.com/artifacthub/hub)
-5. 🗣 Commented on [#53](https://github.com/spiffe/spiffe-csi/issues/53) in [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi)
+3. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#425](https://github.com/wolfi-dev/os/pull/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#2679](https://github.com/artifacthub/hub/issues/2679) in [artifacthub/hub](https://github.com/artifacthub/hub)
 <!--END_SECTION:activity-->
 
 
