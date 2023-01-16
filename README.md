@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/wolfi-dev/os/issues/346) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#375](https://github.com/cncf/artwork/issues/375) in [cncf/artwork](https://github.com/cncf/artwork)
+2. 🗣 Commented on [#346](https://github.com/wolfi-dev/os/issues/346) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 3. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#425](https://github.com/wolfi-dev/os/issues/425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#426](https://github.com/wolfi-dev/os/issues/426) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
