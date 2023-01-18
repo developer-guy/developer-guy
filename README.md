@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 🗣 Commented on [#102](https://github.com/philips-labs/helm-charts/issues/102) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
-3. 💪 Opened PR [#6](https://github.com/mchmarny/s3cme/pull/6) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
-4. 💪 Opened PR [#29](https://github.com/cdfoundation/sig-software-supply-chain/pull/29) in [cdfoundation/sig-software-supply-chain](https://github.com/cdfoundation/sig-software-supply-chain)
-5. 🗣 Commented on [#3653](https://github.com/goreleaser/goreleaser/issues/3653) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#455](https://github.com/wolfi-dev/os/pull/455) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. 🗣 Commented on [#102](https://github.com/philips-labs/helm-charts/issues/102) in [philips-labs/helm-charts](https://github.com/philips-labs/helm-charts)
+4. 💪 Opened PR [#6](https://github.com/mchmarny/s3cme/pull/6) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
+5. 💪 Opened PR [#29](https://github.com/cdfoundation/sig-software-supply-chain/pull/29) in [cdfoundation/sig-software-supply-chain](https://github.com/cdfoundation/sig-software-supply-chain)
 <!--END_SECTION:activity-->
 
 
