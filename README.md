@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#939](https://github.com/ko-build/ko/issues/939) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 💪 Opened PR [#938](https://github.com/ko-build/ko/pull/938) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 💪 Opened PR [#2607](https://github.com/aquasecurity/tracee/pull/2607) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-4. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. 💪 Opened PR [#455](https://github.com/wolfi-dev/os/pull/455) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#79](https://github.com/oras-project/oras-www/pull/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+2. 🗣 Commented on [#939](https://github.com/ko-build/ko/issues/939) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 💪 Opened PR [#938](https://github.com/ko-build/ko/pull/938) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 💪 Opened PR [#2607](https://github.com/aquasecurity/tracee/pull/2607) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+5. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
