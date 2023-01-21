@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1537](https://github.com/google/go-containerregistry/issues/1537) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#80](https://github.com/oras-project/oras-www/pull/80) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-4. 💪 Opened PR [#79](https://github.com/oras-project/oras-www/pull/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-5. 🗣 Commented on [#939](https://github.com/ko-build/ko/issues/939) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#62](https://github.com/project-zot/project-zot.github.io/pull/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
+2. ❗️ Opened issue [#1537](https://github.com/google/go-containerregistry/issues/1537) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#80](https://github.com/oras-project/oras-www/pull/80) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+5. 💪 Opened PR [#79](https://github.com/oras-project/oras-www/pull/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
 <!--END_SECTION:activity-->
 
 
