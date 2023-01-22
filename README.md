@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
-2. 💪 Opened PR [#62](https://github.com/project-zot/project-zot.github.io/pull/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
-3. ❗️ Opened issue [#1537](https://github.com/google/go-containerregistry/issues/1537) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-4. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#80](https://github.com/oras-project/oras-www/pull/80) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+1. ❗️ Opened issue [#14491](https://github.com/bitnami/charts/issues/14491) in [bitnami/charts](https://github.com/bitnami/charts)
+2. 🗣 Commented on [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
+3. 💪 Opened PR [#62](https://github.com/project-zot/project-zot.github.io/pull/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
+4. ❗️ Opened issue [#1537](https://github.com/google/go-containerregistry/issues/1537) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+5. 🗣 Commented on [#2737](https://github.com/goreleaser/goreleaser/issues/2737) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
