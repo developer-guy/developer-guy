@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/project-zot/project-zot.github.io/issues/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
-2. 🗣 Commented on [#79](https://github.com/oras-project/oras-www/issues/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. ❗️ Opened issue [#14491](https://github.com/bitnami/charts/issues/14491) in [bitnami/charts](https://github.com/bitnami/charts)
-5. 🗣 Commented on [#22157](https://github.com/cilium/cilium/issues/22157) in [cilium/cilium](https://github.com/cilium/cilium)
+1. 🗣 Commented on [#938](https://github.com/ko-build/ko/issues/938) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. 🗣 Commented on [#62](https://github.com/project-zot/project-zot.github.io/issues/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
+4. 🗣 Commented on [#79](https://github.com/oras-project/oras-www/issues/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+5. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
