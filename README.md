@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#121332](https://github.com/Homebrew/homebrew-core/pull/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#121332](https://github.com/Homebrew/homebrew-core/issues/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#121332](https://github.com/Homebrew/homebrew-core/issues/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 3. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#938](https://github.com/ko-build/ko/issues/938) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#632](https://github.com/tektoncd/chains/issues/632) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. 💪 Opened PR [#121332](https://github.com/Homebrew/homebrew-core/pull/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
