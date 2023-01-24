@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#62](https://github.com/project-zot/project-zot.github.io/issues/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
-3. 💪 Opened PR [#31](https://github.com/eBay/sbom-scorecard/pull/31) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
-4. 🗣 Commented on [#121332](https://github.com/Homebrew/homebrew-core/issues/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 🗣 Commented on [#121332](https://github.com/Homebrew/homebrew-core/issues/121332) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#31](https://github.com/eBay/sbom-scorecard/issues/31) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
+3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#62](https://github.com/project-zot/project-zot.github.io/issues/62) in [project-zot/project-zot.github.io](https://github.com/project-zot/project-zot.github.io)
+5. 💪 Opened PR [#31](https://github.com/eBay/sbom-scorecard/pull/31) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
 <!--END_SECTION:activity-->
 
 
