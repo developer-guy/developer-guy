@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#232](https://github.com/falcosecurity/falcoctl/issues/232) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
-2. 🗣 Commented on [#339](https://github.com/wolfi-dev/os/issues/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#31](https://github.com/eBay/sbom-scorecard/issues/31) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
-5. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. ❗️ Opened issue [#233](https://github.com/falcosecurity/falcoctl/issues/233) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
+2. ❗️ Opened issue [#232](https://github.com/falcosecurity/falcoctl/issues/232) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
+3. 🗣 Commented on [#339](https://github.com/wolfi-dev/os/issues/339) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#2646](https://github.com/sigstore/cosign/issues/2646) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#31](https://github.com/eBay/sbom-scorecard/issues/31) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
 <!--END_SECTION:activity-->
 
 
