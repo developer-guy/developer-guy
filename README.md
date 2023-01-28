@@ -45,10 +45,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2671](https://github.com/sigstore/cosign/pull/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#2666](https://github.com/sigstore/cosign/issues/2666) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#2666](https://github.com/sigstore/cosign/issues/2666) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2666](https://github.com/sigstore/cosign/issues/2666) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#79](https://github.com/oras-project/oras-www/issues/79) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+2. 🗣 Commented on [#869](https://github.com/ko-build/ko/issues/869) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#869](https://github.com/ko-build/ko/issues/869) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 💪 Opened PR [#2671](https://github.com/sigstore/cosign/pull/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
 5. 🗣 Commented on [#2666](https://github.com/sigstore/cosign/issues/2666) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
