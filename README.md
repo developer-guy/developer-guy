@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/aquasecurity/trivy-plugin-attest/pull/6) in [aquasecurity/trivy-plugin-attest](https://github.com/aquasecurity/trivy-plugin-attest)
-2. 💪 Opened PR [#64](https://github.com/sigstore/docs/pull/64) in [sigstore/docs](https://github.com/sigstore/docs)
-3. 💪 Opened PR [#1313](https://github.com/sigstore/rekor/pull/1313) in [sigstore/rekor](https://github.com/sigstore/rekor)
-4. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. 💪 Opened PR [#493](https://github.com/wolfi-dev/os/pull/493) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#3494](https://github.com/aquasecurity/trivy/pull/3494) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. 💪 Opened PR [#6](https://github.com/aquasecurity/trivy-plugin-attest/pull/6) in [aquasecurity/trivy-plugin-attest](https://github.com/aquasecurity/trivy-plugin-attest)
+3. 💪 Opened PR [#64](https://github.com/sigstore/docs/pull/64) in [sigstore/docs](https://github.com/sigstore/docs)
+4. 💪 Opened PR [#1313](https://github.com/sigstore/rekor/pull/1313) in [sigstore/rekor](https://github.com/sigstore/rekor)
+5. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 
