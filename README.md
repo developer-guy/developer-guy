@@ -36,11 +36,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss-57d794f14ac9------2)
 - [How to become the next Sigstore Evangelist?](https://blog.sigstore.dev/how-to-become-the-next-sigstore-evangelist-9303ed297e54?source=rss-57d794f14ac9------2)
 - [Distribute your Binaries hosted on a private GitLab repository with HomeBrew using GoReleaser](https://medium.com/trendyol-tech/distribute-your-binaries-hosted-on-a-private-gitlab-repository-with-homebrew-using-goreleaser-56c8fb5a61fe?source=rss-57d794f14ac9------2)
 - [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss-57d794f14ac9------2)
 - [How to verify container images with Kyverno using KMS, Cosign, and Workload Identity](https://blog.sigstore.dev/how-to-verify-container-images-with-kyverno-using-kms-cosign-and-workload-identity-1e07d2b85061?source=rss-57d794f14ac9------2)
-- [buildkit-machine: A brand new project to enable building/pushing container images without requiring…](https://medium.com/trendyol-tech/buildkit-machine-a-brand-new-project-to-enable-building-pushing-container-images-without-requiring-f8a899fd0cd0?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
