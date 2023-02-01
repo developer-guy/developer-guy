@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3743](https://github.com/goreleaser/goreleaser/issues/3743) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#1397](https://github.com/sigstore/cosign/issues/1397) in [sigstore/cosign](https://github.com/sigstore/cosign)
 2. 🗣 Commented on [#3743](https://github.com/goreleaser/goreleaser/issues/3743) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 🗣 Commented on [#3744](https://github.com/goreleaser/goreleaser/issues/3744) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#3743](https://github.com/goreleaser/goreleaser/issues/3743) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#3744](https://github.com/goreleaser/goreleaser/issues/3744) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#507](https://github.com/wolfi-dev/os/pull/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#3744](https://github.com/goreleaser/goreleaser/issues/3744) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 
