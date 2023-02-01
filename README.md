@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#507](https://github.com/wolfi-dev/os/pull/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#3494](https://github.com/aquasecurity/trivy/pull/3494) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 💪 Opened PR [#6](https://github.com/aquasecurity/trivy-plugin-attest/pull/6) in [aquasecurity/trivy-plugin-attest](https://github.com/aquasecurity/trivy-plugin-attest)
-4. 💪 Opened PR [#64](https://github.com/sigstore/docs/pull/64) in [sigstore/docs](https://github.com/sigstore/docs)
-5. 💪 Opened PR [#1313](https://github.com/sigstore/rekor/pull/1313) in [sigstore/rekor](https://github.com/sigstore/rekor)
+1. 🗣 Commented on [#3743](https://github.com/goreleaser/goreleaser/issues/3743) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#3743](https://github.com/goreleaser/goreleaser/issues/3743) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🗣 Commented on [#3744](https://github.com/goreleaser/goreleaser/issues/3744) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 🗣 Commented on [#3744](https://github.com/goreleaser/goreleaser/issues/3744) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#507](https://github.com/wolfi-dev/os/pull/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
