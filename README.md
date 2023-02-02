@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#484](https://github.com/chainguard-dev/apko/pull/484) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-2. 🗣 Commented on [#507](https://github.com/wolfi-dev/os/issues/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#979](https://github.com/fluxcd/source-controller/issues/979) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 🗣 Commented on [#1397](https://github.com/sigstore/cosign/issues/1397) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#501](https://github.com/slsa-framework/slsa/issues/501) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
+2. 💪 Opened PR [#484](https://github.com/chainguard-dev/apko/pull/484) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+3. 🗣 Commented on [#507](https://github.com/wolfi-dev/os/issues/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#979](https://github.com/fluxcd/source-controller/issues/979) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 
