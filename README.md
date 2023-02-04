@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/falcosecurity/falcoctl/issues/233) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
-2. 🗣 Commented on [#501](https://github.com/slsa-framework/slsa/issues/501) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-3. 💪 Opened PR [#484](https://github.com/chainguard-dev/apko/pull/484) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-4. 🗣 Commented on [#507](https://github.com/wolfi-dev/os/issues/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#2688](https://github.com/sigstore/cosign/issues/2688) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#233](https://github.com/falcosecurity/falcoctl/issues/233) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
+3. 🗣 Commented on [#501](https://github.com/slsa-framework/slsa/issues/501) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
+4. 💪 Opened PR [#484](https://github.com/chainguard-dev/apko/pull/484) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. 🗣 Commented on [#507](https://github.com/wolfi-dev/os/issues/507) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
