@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1557](https://github.com/google/go-containerregistry/issues/1557) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-2. 🗣 Commented on [#1454](https://github.com/google/go-containerregistry/issues/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#539](https://github.com/ko-build/ko/issues/539) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#951](https://github.com/ko-build/ko/issues/951) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#6263](https://github.com/kyverno/kyverno/pull/6263) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. ❗️ Opened issue [#1557](https://github.com/google/go-containerregistry/issues/1557) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+3. 🗣 Commented on [#1454](https://github.com/google/go-containerregistry/issues/1454) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#539](https://github.com/ko-build/ko/issues/539) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
