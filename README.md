@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2126](https://github.com/sigstore/cosign/issues/2126) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 💪 Opened PR [#194](https://github.com/gythialy/golang-cross/pull/194) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. 🗣 Commented on [#350](https://github.com/buildpacks/spec/issues/350) in [buildpacks/spec](https://github.com/buildpacks/spec)
-4. 💪 Opened PR [#6263](https://github.com/kyverno/kyverno/pull/6263) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗️ Opened issue [#1557](https://github.com/google/go-containerregistry/issues/1557) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+1. 💪 Opened PR [#107](https://github.com/oras-project/oras-www/pull/107) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+2. 🗣 Commented on [#2126](https://github.com/sigstore/cosign/issues/2126) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 💪 Opened PR [#194](https://github.com/gythialy/golang-cross/pull/194) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. 🗣 Commented on [#350](https://github.com/buildpacks/spec/issues/350) in [buildpacks/spec](https://github.com/buildpacks/spec)
+5. 💪 Opened PR [#6263](https://github.com/kyverno/kyverno/pull/6263) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
