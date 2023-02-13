@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#3585](https://github.com/golangci/golangci-lint/issues/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-3. 🗣 Commented on [#567](https://github.com/wolfi-dev/os/issues/567) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#3585](https://github.com/golangci/golangci-lint/pull/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 💪 Opened PR [#567](https://github.com/wolfi-dev/os/pull/567) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#3585](https://github.com/golangci/golangci-lint/issues/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+2. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#3585](https://github.com/golangci/golangci-lint/issues/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+4. 🗣 Commented on [#567](https://github.com/wolfi-dev/os/issues/567) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#3585](https://github.com/golangci/golangci-lint/pull/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 <!--END_SECTION:activity-->
 
 
