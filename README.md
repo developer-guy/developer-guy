@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#954](https://github.com/ko-build/ko/issues/954) in [ko-build/ko](https://github.com/ko-build/ko)
 2. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#195](https://github.com/gythialy/golang-cross/pull/195) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-4. 🗣 Commented on [#951](https://github.com/ko-build/ko/issues/951) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🎉 Merged PR [#13](https://github.com/awesomeSBOM/awesome-sbom/pull/13) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#195](https://github.com/gythialy/golang-cross/pull/195) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+5. 🗣 Commented on [#951](https://github.com/ko-build/ko/issues/951) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
