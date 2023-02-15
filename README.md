@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#954](https://github.com/ko-build/ko/issues/954) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#195](https://github.com/gythialy/golang-cross/pull/195) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 🗣 Commented on [#951](https://github.com/ko-build/ko/issues/951) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#289](https://github.com/chainguard-dev/melange/pull/289) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 💪 Opened PR [#507](https://github.com/chainguard-dev/apko/pull/507) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+3. 🗣 Commented on [#954](https://github.com/ko-build/ko/issues/954) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
