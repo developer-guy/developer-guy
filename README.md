@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1479](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/1479) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
-2. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 💪 Opened PR [#960](https://github.com/ko-build/ko/pull/960) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#954](https://github.com/ko-build/ko/issues/954) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 💪 Opened PR [#289](https://github.com/chainguard-dev/melange/pull/289) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. 💪 Opened PR [#114](https://github.com/oras-project/oras-www/pull/114) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+2. 💪 Opened PR [#1479](https://github.com/terraform-provider-openstack/terraform-provider-openstack/pull/1479) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
+3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#960](https://github.com/ko-build/ko/pull/960) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#954](https://github.com/ko-build/ko/issues/954) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
