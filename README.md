@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#979](https://github.com/fluxcd/source-controller/issues/979) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. 🗣 Commented on [#14](https://github.com/awesomeSBOM/awesome-sbom/issues/14) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🗣 Commented on [#3585](https://github.com/golangci/golangci-lint/issues/3585) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 💪 Opened PR [#114](https://github.com/oras-project/oras-www/pull/114) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+1. 💪 Opened PR [#606](https://github.com/wolfi-dev/os/pull/606) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#5655](https://github.com/kyverno/kyverno/issues/5655) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#979](https://github.com/fluxcd/source-controller/issues/979) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. 🗣 Commented on [#14](https://github.com/awesomeSBOM/awesome-sbom/issues/14) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
