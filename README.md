@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#218224](https://github.com/NixOS/nixpkgs/pull/218224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#198](https://github.com/gythialy/golang-cross/pull/198) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-3. ❗️ Opened issue [#4](https://github.com/dosgo/zigtool/issues/4) in [dosgo/zigtool](https://github.com/dosgo/zigtool)
-4. 🗣 Commented on [#938](https://github.com/ko-build/ko/issues/938) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 💪 Opened PR [#663](https://github.com/wolfi-dev/os/pull/663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#218224](https://github.com/NixOS/nixpkgs/pull/218224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#198](https://github.com/gythialy/golang-cross/pull/198) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+4. ❗️ Opened issue [#4](https://github.com/dosgo/zigtool/issues/4) in [dosgo/zigtool](https://github.com/dosgo/zigtool)
+5. 🗣 Commented on [#938](https://github.com/ko-build/ko/issues/938) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
