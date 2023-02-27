@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#665](https://github.com/wolfi-dev/os/issues/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#665](https://github.com/wolfi-dev/os/pull/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#663](https://github.com/wolfi-dev/os/pull/663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#218224](https://github.com/NixOS/nixpkgs/pull/218224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#671](https://github.com/wolfi-dev/os/pull/671) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#567](https://github.com/wolfi-dev/os/pull/567) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#18](https://github.com/awesomeSBOM/awesome-sbom/issues/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#19](https://github.com/awesomeSBOM/awesome-sbom/issues/19) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. 🎉 Merged PR [#19](https://github.com/awesomeSBOM/awesome-sbom/pull/19) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
