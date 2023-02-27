@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗️ Opened issue [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#671](https://github.com/wolfi-dev/os/pull/671) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. ❌ Closed PR [#567](https://github.com/wolfi-dev/os/pull/567) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#18](https://github.com/awesomeSBOM/awesome-sbom/issues/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+1. ❗️ Closed issue [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗️ Opened issue [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
