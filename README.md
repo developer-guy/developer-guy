@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#665](https://github.com/wolfi-dev/os/pull/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#663](https://github.com/wolfi-dev/os/pull/663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#218224](https://github.com/NixOS/nixpkgs/pull/218224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#198](https://github.com/gythialy/golang-cross/pull/198) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. ❗️ Opened issue [#4](https://github.com/dosgo/zigtool/issues/4) in [dosgo/zigtool](https://github.com/dosgo/zigtool)
+1. 🗣 Commented on [#665](https://github.com/wolfi-dev/os/issues/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#665](https://github.com/wolfi-dev/os/pull/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#663](https://github.com/wolfi-dev/os/pull/663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#218224](https://github.com/NixOS/nixpkgs/pull/218224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#198](https://github.com/gythialy/golang-cross/pull/198) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
