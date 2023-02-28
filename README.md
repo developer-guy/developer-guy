@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#665](https://github.com/wolfi-dev/os/issues/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 💪 Opened PR [#218651](https://github.com/NixOS/nixpkgs/pull/218651) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗️ Closed issue [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#199](https://github.com/gythialy/golang-cross/issues/199) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
+2. 🗣 Commented on [#665](https://github.com/wolfi-dev/os/issues/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#218651](https://github.com/NixOS/nixpkgs/pull/218651) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗️ Closed issue [#218621](https://github.com/NixOS/nixpkgs/issues/218621) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
