@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
-2. 🗣 Commented on [#218651](https://github.com/NixOS/nixpkgs/issues/218651) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#261](https://github.com/ko-build/ko/issues/261) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#199](https://github.com/gythialy/golang-cross/issues/199) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
-5. 🗣 Commented on [#665](https://github.com/wolfi-dev/os/issues/665) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#2671](https://github.com/sigstore/cosign/issues/2671) in [sigstore/cosign](https://github.com/sigstore/cosign)
+3. 🗣 Commented on [#218651](https://github.com/NixOS/nixpkgs/issues/218651) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#261](https://github.com/ko-build/ko/issues/261) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#199](https://github.com/gythialy/golang-cross/issues/199) in [gythialy/golang-cross](https://github.com/gythialy/golang-cross)
 <!--END_SECTION:activity-->
 
 
