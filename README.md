@@ -47,9 +47,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
 2. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-3. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#699](https://github.com/wolfi-dev/os/pull/699) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#219397](https://github.com/NixOS/nixpkgs/pull/219397) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+4. 🗣 Commented on [#566](https://github.com/wolfi-dev/os/issues/566) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#699](https://github.com/wolfi-dev/os/pull/699) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
