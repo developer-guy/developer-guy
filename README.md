@@ -46,10 +46,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#219949](https://github.com/NixOS/nixpkgs/issues/219949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#219949](https://github.com/NixOS/nixpkgs/pull/219949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#219948](https://github.com/NixOS/nixpkgs/pull/219948) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#2814](https://github.com/aquasecurity/tracee/pull/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. 💪 Opened PR [#219476](https://github.com/NixOS/nixpkgs/pull/219476) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#219949](https://github.com/NixOS/nixpkgs/issues/219949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#219949](https://github.com/NixOS/nixpkgs/pull/219949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#219948](https://github.com/NixOS/nixpkgs/pull/219948) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#2814](https://github.com/aquasecurity/tracee/pull/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
 <!--END_SECTION:activity-->
 
 
