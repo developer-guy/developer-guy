@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3935](https://github.com/spiffe/spire/pull/3935) in [spiffe/spire](https://github.com/spiffe/spire)
-2. 🗣 Commented on [#3935](https://github.com/spiffe/spire/issues/3935) in [spiffe/spire](https://github.com/spiffe/spire)
-3. 🗣 Commented on [#557](https://github.com/chainguard-dev/apko/issues/557) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-4. 💪 Opened PR [#330](https://github.com/chainguard-images/images/pull/330) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 🗣 Commented on [#2775](https://github.com/sigstore/cosign/issues/2775) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#557](https://github.com/chainguard-dev/apko/issues/557) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+2. ❌ Closed PR [#3935](https://github.com/spiffe/spire/pull/3935) in [spiffe/spire](https://github.com/spiffe/spire)
+3. 🗣 Commented on [#3935](https://github.com/spiffe/spire/issues/3935) in [spiffe/spire](https://github.com/spiffe/spire)
+4. 🗣 Commented on [#557](https://github.com/chainguard-dev/apko/issues/557) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. 💪 Opened PR [#330](https://github.com/chainguard-images/images/pull/330) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
