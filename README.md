@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/awesomeSBOM/awesome-sbom/pull/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#974](https://github.com/ko-build/ko/issues/974) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 🗣 Commented on [#18](https://github.com/awesomeSBOM/awesome-sbom/issues/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🎉 Merged PR [#20](https://github.com/awesomeSBOM/awesome-sbom/pull/20) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#975](https://github.com/ko-build/ko/issues/975) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#1680](https://github.com/slsa-framework/slsa-github-generator/issues/1680) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+2. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🎉 Merged PR [#18](https://github.com/awesomeSBOM/awesome-sbom/pull/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#974](https://github.com/ko-build/ko/issues/974) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#18](https://github.com/awesomeSBOM/awesome-sbom/issues/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
