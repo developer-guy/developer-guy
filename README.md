@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#979](https://github.com/ko-build/ko/issues/979) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#1680](https://github.com/slsa-framework/slsa-github-generator/issues/1680) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 🎉 Merged PR [#18](https://github.com/awesomeSBOM/awesome-sbom/pull/18) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#974](https://github.com/ko-build/ko/issues/974) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#3861](https://github.com/goreleaser/goreleaser/issues/3861) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#2814](https://github.com/aquasecurity/tracee/issues/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+3. 🗣 Commented on [#979](https://github.com/ko-build/ko/issues/979) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🗣 Commented on [#1680](https://github.com/slsa-framework/slsa-github-generator/issues/1680) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
