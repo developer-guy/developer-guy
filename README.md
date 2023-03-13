@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220881](https://github.com/NixOS/nixpkgs/pull/220881) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#213028](https://github.com/NixOS/nixpkgs/issues/213028) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#220670](https://github.com/NixOS/nixpkgs/pull/220670) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#739](https://github.com/wolfi-dev/os/pull/739) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#3861](https://github.com/goreleaser/goreleaser/issues/3861) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#2814](https://github.com/aquasecurity/tracee/issues/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+2. 💪 Opened PR [#220881](https://github.com/NixOS/nixpkgs/pull/220881) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#213028](https://github.com/NixOS/nixpkgs/issues/213028) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#220670](https://github.com/NixOS/nixpkgs/pull/220670) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#739](https://github.com/wolfi-dev/os/pull/739) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
