@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#978](https://github.com/ko-build/ko/issues/978) in [ko-build/ko](https://github.com/ko-build/ko)
-2. 🗣 Commented on [#220754](https://github.com/NixOS/nixpkgs/issues/220754) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗️ Opened issue [#3972](https://github.com/spiffe/spire/issues/3972) in [spiffe/spire](https://github.com/spiffe/spire)
-4. 🗣 Commented on [#2814](https://github.com/aquasecurity/tracee/issues/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. 💪 Opened PR [#220881](https://github.com/NixOS/nixpkgs/pull/220881) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#220754](https://github.com/NixOS/nixpkgs/issues/220754) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#978](https://github.com/ko-build/ko/issues/978) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#220754](https://github.com/NixOS/nixpkgs/issues/220754) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗️ Opened issue [#3972](https://github.com/spiffe/spire/issues/3972) in [spiffe/spire](https://github.com/spiffe/spire)
+5. 🗣 Commented on [#2814](https://github.com/aquasecurity/tracee/issues/2814) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
 <!--END_SECTION:activity-->
 
 
