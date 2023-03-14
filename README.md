@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1680](https://github.com/slsa-framework/slsa-github-generator/issues/1680) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. ❗️ Opened issue [#2747](https://github.com/ossf/scorecard/issues/2747) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 💪 Opened PR [#221128](https://github.com/NixOS/nixpkgs/pull/221128) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#983](https://github.com/ko-build/ko/issues/983) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 💪 Opened PR [#983](https://github.com/ko-build/ko/pull/983) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#221208](https://github.com/NixOS/nixpkgs/pull/221208) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#1680](https://github.com/slsa-framework/slsa-github-generator/issues/1680) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. ❗️ Opened issue [#2747](https://github.com/ossf/scorecard/issues/2747) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 💪 Opened PR [#221128](https://github.com/NixOS/nixpkgs/pull/221128) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#983](https://github.com/ko-build/ko/issues/983) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
