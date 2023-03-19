@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/eBay/sbom-scorecard/pull/39) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
-2. 🗣 Commented on [#2821](https://github.com/sigstore/cosign/issues/2821) in [sigstore/cosign](https://github.com/sigstore/cosign)
-3. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 💪 Opened PR [#2765](https://github.com/ossf/scorecard/pull/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. ❗️ Opened issue [#1842](https://github.com/slsa-framework/slsa-github-generator/issues/1842) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 💪 Opened PR [#222026](https://github.com/NixOS/nixpkgs/pull/222026) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#39](https://github.com/eBay/sbom-scorecard/pull/39) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
+3. 🗣 Commented on [#2821](https://github.com/sigstore/cosign/issues/2821) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+5. 💪 Opened PR [#2765](https://github.com/ossf/scorecard/pull/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
