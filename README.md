@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+1. ❗️ Opened issue [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
 2. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🗣 Commented on [#1844](https://github.com/slsa-framework/slsa-github-generator/issues/1844) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-4. 💪 Opened PR [#40](https://github.com/eBay/sbom-scorecard/pull/40) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
-5. 💪 Opened PR [#537](https://github.com/slsa-framework/slsa-verifier/pull/537) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+3. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#1844](https://github.com/slsa-framework/slsa-github-generator/issues/1844) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 💪 Opened PR [#40](https://github.com/eBay/sbom-scorecard/pull/40) in [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard)
 <!--END_SECTION:activity-->
 
 
