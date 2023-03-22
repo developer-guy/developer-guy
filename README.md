@@ -45,10 +45,10 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1862](https://github.com/slsa-framework/slsa-github-generator/issues/1862) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. 💪 Opened PR [#1611](https://github.com/google/go-containerregistry/pull/1611) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
-3. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
-4. 🗣 Commented on [#1844](https://github.com/slsa-framework/slsa-github-generator/issues/1844) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+2. ❗️ Opened issue [#1862](https://github.com/slsa-framework/slsa-github-generator/issues/1862) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 💪 Opened PR [#1611](https://github.com/google/go-containerregistry/pull/1611) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+4. 🗣 Commented on [#2593](https://github.com/ossf/scorecard/issues/2593) in [ossf/scorecard](https://github.com/ossf/scorecard)
 5. 🗣 Commented on [#1844](https://github.com/slsa-framework/slsa-github-generator/issues/1844) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
 <!--END_SECTION:activity-->
 
