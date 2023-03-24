@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 💪 Opened PR [#222862](https://github.com/NixOS/nixpkgs/pull/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. 💪 Opened PR [#309](https://github.com/google/osv-scanner/pull/309) in [google/osv-scanner](https://github.com/google/osv-scanner)
-4. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. ❗️ Opened issue [#1862](https://github.com/slsa-framework/slsa-github-generator/issues/1862) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+4. 💪 Opened PR [#309](https://github.com/google/osv-scanner/pull/309) in [google/osv-scanner](https://github.com/google/osv-scanner)
+5. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
 <!--END_SECTION:activity-->
 
 
