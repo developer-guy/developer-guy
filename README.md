@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222862](https://github.com/NixOS/nixpkgs/issues/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#5566](https://github.com/cert-manager/cert-manager/issues/5566) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-3. 💪 Opened PR [#222862](https://github.com/NixOS/nixpkgs/pull/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-5. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 🗣 Commented on [#979](https://github.com/ko-build/ko/issues/979) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
+3. 🗣 Commented on [#222862](https://github.com/NixOS/nixpkgs/issues/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#5566](https://github.com/cert-manager/cert-manager/issues/5566) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+5. 💪 Opened PR [#222862](https://github.com/NixOS/nixpkgs/pull/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
