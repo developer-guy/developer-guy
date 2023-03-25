@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222949](https://github.com/NixOS/nixpkgs/pull/222949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-3. 🗣 Commented on [#979](https://github.com/ko-build/ko/issues/979) in [ko-build/ko](https://github.com/ko-build/ko)
-4. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
-5. 🗣 Commented on [#222862](https://github.com/NixOS/nixpkgs/issues/222862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#135](https://github.com/oras-project/oras-www/issues/135) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+2. 💪 Opened PR [#222949](https://github.com/NixOS/nixpkgs/pull/222949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+4. 🗣 Commented on [#979](https://github.com/ko-build/ko/issues/979) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#870](https://github.com/ko-build/ko/issues/870) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
