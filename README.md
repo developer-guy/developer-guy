@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
-2. ❗️ Opened issue [#1878](https://github.com/slsa-framework/slsa-github-generator/issues/1878) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. 🗣 Commented on [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
-4. 💪 Opened PR [#136](https://github.com/oras-project/oras-www/pull/136) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-5. 🗣 Commented on [#309](https://github.com/google/osv-scanner/issues/309) in [google/osv-scanner](https://github.com/google/osv-scanner)
+1. ❗️ Opened issue [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+2. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
+3. ❗️ Closed issue [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+4. ❗️ Opened issue [#1878](https://github.com/slsa-framework/slsa-github-generator/issues/1878) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 🗣 Commented on [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
 <!--END_SECTION:activity-->
 
 
