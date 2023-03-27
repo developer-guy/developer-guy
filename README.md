@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/oras-project/oras-www/pull/136) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-2. 🗣 Commented on [#309](https://github.com/google/osv-scanner/issues/309) in [google/osv-scanner](https://github.com/google/osv-scanner)
-3. 🗣 Commented on [#135](https://github.com/oras-project/oras-www/issues/135) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
-4. 💪 Opened PR [#222949](https://github.com/NixOS/nixpkgs/pull/222949) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+1. ❗️ Closed issue [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+2. ❗️ Opened issue [#1878](https://github.com/slsa-framework/slsa-github-generator/issues/1878) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 🗣 Commented on [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+4. 💪 Opened PR [#136](https://github.com/oras-project/oras-www/pull/136) in [oras-project/oras-www](https://github.com/oras-project/oras-www)
+5. 🗣 Commented on [#309](https://github.com/google/osv-scanner/issues/309) in [google/osv-scanner](https://github.com/google/osv-scanner)
 <!--END_SECTION:activity-->
 
 
