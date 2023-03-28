@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/ossf/ossf-landscape/pull/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-2. 🗣 Commented on [#2135](https://github.com/containerd/nerdctl/issues/2135) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-3. 🗣 Commented on [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-4. 💪 Opened PR [#1882](https://github.com/slsa-framework/slsa-github-generator/pull/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-5. ❗️ Opened issue [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. ❗️ Opened issue [#83](https://github.com/stefanprodan/kustomizer/issues/83) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
+2. ❗️ Opened issue [#82](https://github.com/stefanprodan/kustomizer/issues/82) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
+3. 💪 Opened PR [#274](https://github.com/ossf/ossf-landscape/pull/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+4. 🗣 Commented on [#2135](https://github.com/containerd/nerdctl/issues/2135) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
 <!--END_SECTION:activity-->
 
 
