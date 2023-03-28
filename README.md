@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. 💪 Opened PR [#1882](https://github.com/slsa-framework/slsa-github-generator/pull/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. ❗️ Opened issue [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-4. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
-5. ❗️ Closed issue [#539](https://github.com/slsa-framework/slsa-verifier/issues/539) in [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier)
+1. 🗣 Commented on [#2135](https://github.com/containerd/nerdctl/issues/2135) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 💪 Opened PR [#1882](https://github.com/slsa-framework/slsa-github-generator/pull/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+4. ❗️ Opened issue [#1879](https://github.com/slsa-framework/slsa-github-generator/issues/1879) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 🗣 Commented on [#576](https://github.com/tektoncd/chains/issues/576) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 
