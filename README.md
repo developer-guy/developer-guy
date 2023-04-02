@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-4. 🗣 Commented on [#82](https://github.com/stefanprodan/kustomizer/issues/82) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
-5. 💪 Opened PR [#2136](https://github.com/containerd/nerdctl/pull/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. ❗️ Opened issue [#165](https://github.com/slsa-framework/example-package/issues/165) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+2. 💪 Opened PR [#1906](https://github.com/slsa-framework/slsa-github-generator/pull/1906) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+4. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
 <!--END_SECTION:activity-->
 
 
