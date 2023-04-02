@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-2. 🗣 Commented on [#82](https://github.com/stefanprodan/kustomizer/issues/82) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
-3. 💪 Opened PR [#2136](https://github.com/containerd/nerdctl/pull/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#2907](https://github.com/aquasecurity/tracee/issues/2907) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. ❗️ Opened issue [#83](https://github.com/stefanprodan/kustomizer/issues/83) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
+1. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+2. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+4. 🗣 Commented on [#82](https://github.com/stefanprodan/kustomizer/issues/82) in [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer)
+5. 💪 Opened PR [#2136](https://github.com/containerd/nerdctl/pull/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 
 
