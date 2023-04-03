@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. ❗️ Opened issue [#165](https://github.com/slsa-framework/example-package/issues/165) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-3. 💪 Opened PR [#1906](https://github.com/slsa-framework/slsa-github-generator/pull/1906) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-4. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 🗣 Commented on [#2136](https://github.com/containerd/nerdctl/issues/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+2. 🗣 Commented on [#967](https://github.com/wolfi-dev/os/issues/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#967](https://github.com/wolfi-dev/os/pull/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. ❗️ Opened issue [#165](https://github.com/slsa-framework/example-package/issues/165) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
 <!--END_SECTION:activity-->
 
 
