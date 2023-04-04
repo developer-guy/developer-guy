@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2136](https://github.com/containerd/nerdctl/issues/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-2. 🗣 Commented on [#967](https://github.com/wolfi-dev/os/issues/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#967](https://github.com/wolfi-dev/os/pull/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#1882](https://github.com/slsa-framework/slsa-github-generator/issues/1882) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-5. ❗️ Opened issue [#165](https://github.com/slsa-framework/example-package/issues/165) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+1. 💪 Opened PR [#224534](https://github.com/NixOS/nixpkgs/pull/224534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#224532](https://github.com/NixOS/nixpkgs/pull/224532) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#2136](https://github.com/containerd/nerdctl/issues/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+4. 🗣 Commented on [#967](https://github.com/wolfi-dev/os/issues/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#967](https://github.com/wolfi-dev/os/pull/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
