@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224534](https://github.com/NixOS/nixpkgs/pull/224534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#224532](https://github.com/NixOS/nixpkgs/pull/224532) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#2136](https://github.com/containerd/nerdctl/issues/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
-4. 🗣 Commented on [#967](https://github.com/wolfi-dev/os/issues/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#967](https://github.com/wolfi-dev/os/pull/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#224615](https://github.com/NixOS/nixpkgs/pull/224615) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#224534](https://github.com/NixOS/nixpkgs/pull/224534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#224532](https://github.com/NixOS/nixpkgs/pull/224532) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#2136](https://github.com/containerd/nerdctl/issues/2136) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+5. 🗣 Commented on [#967](https://github.com/wolfi-dev/os/issues/967) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
