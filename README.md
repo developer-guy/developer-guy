@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-3. 🗣 Commented on [#224615](https://github.com/NixOS/nixpkgs/issues/224615) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#2860](https://github.com/sigstore/cosign/issues/2860) in [sigstore/cosign](https://github.com/sigstore/cosign)
+2. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
 4. 🗣 Commented on [#224615](https://github.com/NixOS/nixpkgs/issues/224615) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#224615](https://github.com/NixOS/nixpkgs/pull/224615) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#224615](https://github.com/NixOS/nixpkgs/issues/224615) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
