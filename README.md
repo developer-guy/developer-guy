@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#368](https://github.com/cncf/tag-app-delivery/issues/368) in [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery)
-2. 🗣 Commented on [#1000](https://github.com/ko-build/ko/issues/1000) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 🗣 Commented on [#2860](https://github.com/sigstore/cosign/issues/2860) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#2804](https://github.com/aquasecurity/tracee/issues/2804) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+1. ❗️ Closed issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+2. 🗣 Commented on [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+3. ❗️ Opened issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+4. 🗣 Commented on [#368](https://github.com/cncf/tag-app-delivery/issues/368) in [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery)
+5. 🗣 Commented on [#1000](https://github.com/ko-build/ko/issues/1000) in [ko-build/ko](https://github.com/ko-build/ko)
 <!--END_SECTION:activity-->
 
 
