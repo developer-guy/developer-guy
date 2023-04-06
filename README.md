@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-2. 🗣 Commented on [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-3. ❗️ Opened issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
-4. 🗣 Commented on [#368](https://github.com/cncf/tag-app-delivery/issues/368) in [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery)
-5. 🗣 Commented on [#1000](https://github.com/ko-build/ko/issues/1000) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 💪 Opened PR [#166](https://github.com/slsa-framework/example-package/pull/166) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+2. ❗️ Closed issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+3. 🗣 Commented on [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+4. ❗️ Opened issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+5. 🗣 Commented on [#368](https://github.com/cncf/tag-app-delivery/issues/368) in [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery)
 <!--END_SECTION:activity-->
 
 
