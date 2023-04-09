@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-2. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-3. 💪 Opened PR [#167](https://github.com/slsa-framework/example-package/pull/167) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-4. 💪 Opened PR [#166](https://github.com/slsa-framework/example-package/pull/166) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-5. ❗️ Closed issue [#404](https://github.com/goreleaser/goreleaser-action/issues/404) in [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action)
+1. ❗️ Opened issue [#1068](https://github.com/fluxcd/source-controller/issues/1068) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+2. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+3. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
+4. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. 💪 Opened PR [#167](https://github.com/slsa-framework/example-package/pull/167) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
 <!--END_SECTION:activity-->
 
 
