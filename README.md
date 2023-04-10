@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/slsa-framework/example-package/pull/170) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-2. ❗️ Opened issue [#1068](https://github.com/fluxcd/source-controller/issues/1068) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-4. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
-5. 🗣 Commented on [#1476](https://github.com/slsa-framework/slsa-github-generator/issues/1476) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 💪 Opened PR [#225629](https://github.com/NixOS/nixpkgs/pull/225629) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#170](https://github.com/slsa-framework/example-package/pull/170) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+3. ❗️ Opened issue [#1068](https://github.com/fluxcd/source-controller/issues/1068) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+4. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. 🗣 Commented on [#137](https://github.com/kubernetes-sigs/bom/issues/137) in [kubernetes-sigs/bom](https://github.com/kubernetes-sigs/bom)
 <!--END_SECTION:activity-->
 
 
