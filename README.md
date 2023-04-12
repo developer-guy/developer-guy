@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225635](https://github.com/NixOS/nixpkgs/pull/225635) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#225629](https://github.com/NixOS/nixpkgs/pull/225629) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#170](https://github.com/slsa-framework/example-package/pull/170) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-4. ❗️ Opened issue [#1068](https://github.com/fluxcd/source-controller/issues/1068) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 🗣 Commented on [#918](https://github.com/fluxcd/source-controller/issues/918) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
+2. 💪 Opened PR [#225635](https://github.com/NixOS/nixpkgs/pull/225635) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#225629](https://github.com/NixOS/nixpkgs/pull/225629) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#170](https://github.com/slsa-framework/example-package/pull/170) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+5. ❗️ Opened issue [#1068](https://github.com/fluxcd/source-controller/issues/1068) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 
