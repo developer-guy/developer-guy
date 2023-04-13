@@ -45,9 +45,9 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2978](https://github.com/artifacthub/hub/pull/2978) in [artifacthub/hub](https://github.com/artifacthub/hub)
-2. 🗣 Commented on [#1](https://github.com/Dentrax/falco-gpt/issues/1) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
-3. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
+1. 🗣 Commented on [#2](https://github.com/Dentrax/falco-gpt/issues/2) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+2. 💪 Opened PR [#2978](https://github.com/artifacthub/hub/pull/2978) in [artifacthub/hub](https://github.com/artifacthub/hub)
+3. 🗣 Commented on [#1](https://github.com/Dentrax/falco-gpt/issues/1) in [Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
 4. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
 5. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
 <!--END_SECTION:activity-->
