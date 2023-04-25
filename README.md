@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#228007](https://github.com/NixOS/nixpkgs/pull/228007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#228006](https://github.com/NixOS/nixpkgs/pull/228006) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗️ Opened issue [#639](https://github.com/chainguard-dev/apko/issues/639) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-4. 🗣 Commented on [#3972](https://github.com/spiffe/spire/issues/3972) in [spiffe/spire](https://github.com/spiffe/spire)
-5. 🗣 Commented on [#1000](https://github.com/ko-build/ko/issues/1000) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
+2. 💪 Opened PR [#228007](https://github.com/NixOS/nixpkgs/pull/228007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#228006](https://github.com/NixOS/nixpkgs/pull/228006) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗️ Opened issue [#639](https://github.com/chainguard-dev/apko/issues/639) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
+5. 🗣 Commented on [#3972](https://github.com/spiffe/spire/issues/3972) in [spiffe/spire](https://github.com/spiffe/spire)
 <!--END_SECTION:activity-->
 
 
