@@ -3,7 +3,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
+<i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
