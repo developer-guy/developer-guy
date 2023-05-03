@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🗣 Commented on [#166](https://github.com/slsa-framework/example-package/issues/166) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-3. 🗣 Commented on [#167](https://github.com/slsa-framework/example-package/issues/167) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
-4. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#73](https://github.com/stefanprodan/timoni/issues/73) in [stefanprodan/timoni](https://github.com/stefanprodan/timoni)
+1. 🗣 Commented on [#229618](https://github.com/NixOS/nixpkgs/issues/229618) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🗣 Commented on [#166](https://github.com/slsa-framework/example-package/issues/166) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+4. 🗣 Commented on [#167](https://github.com/slsa-framework/example-package/issues/167) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+5. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
 
 
