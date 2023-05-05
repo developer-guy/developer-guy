@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1856](https://github.com/wolfi-dev/os/pull/1856) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#230195](https://github.com/NixOS/nixpkgs/pull/230195) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#229618](https://github.com/NixOS/nixpkgs/issues/229618) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#2765](https://github.com/ossf/scorecard/issues/2765) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#166](https://github.com/slsa-framework/example-package/issues/166) in [slsa-framework/example-package](https://github.com/slsa-framework/example-package)
+1. 💪 Opened PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗️ Opened issue [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+3. 💪 Opened PR [#1856](https://github.com/wolfi-dev/os/pull/1856) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#230195](https://github.com/NixOS/nixpkgs/pull/230195) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#229618](https://github.com/NixOS/nixpkgs/issues/229618) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
