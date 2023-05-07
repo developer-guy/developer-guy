@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#548](https://github.com/chainguard-images/images/pull/548) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. ❌ Reopened PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#230215](https://github.com/NixOS/nixpkgs/issues/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#228007](https://github.com/NixOS/nixpkgs/issues/228007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#121](https://github.com/sigstore/cosign-installer/issues/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+2. 💪 Opened PR [#121](https://github.com/sigstore/cosign-installer/pull/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+3. 💪 Opened PR [#548](https://github.com/chainguard-images/images/pull/548) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. ❌ Reopened PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❌ Closed PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
