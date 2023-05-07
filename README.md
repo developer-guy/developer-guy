@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/sigstore/cosign-installer/issues/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-2. 💪 Opened PR [#121](https://github.com/sigstore/cosign-installer/pull/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-3. 💪 Opened PR [#548](https://github.com/chainguard-images/images/pull/548) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. ❌ Reopened PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❌ Closed PR [#230215](https://github.com/NixOS/nixpkgs/pull/230215) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+2. 💪 Opened PR [#1881](https://github.com/wolfi-dev/os/pull/1881) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#121](https://github.com/sigstore/cosign-installer/issues/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+4. 💪 Opened PR [#121](https://github.com/sigstore/cosign-installer/pull/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 💪 Opened PR [#548](https://github.com/chainguard-images/images/pull/548) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
