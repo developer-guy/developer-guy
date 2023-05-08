@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-2. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-3. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-4. ❗️ Opened issue [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-5. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+1. 💪 Opened PR [#1907](https://github.com/wolfi-dev/os/pull/1907) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗️ Closed issue [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+3. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+4. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+5. ❗️ Opened issue [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
 <!--END_SECTION:activity-->
 
 
