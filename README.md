@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
-3. 💪 Opened PR [#1881](https://github.com/wolfi-dev/os/pull/1881) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#121](https://github.com/sigstore/cosign-installer/issues/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-5. 💪 Opened PR [#121](https://github.com/sigstore/cosign-installer/pull/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+1. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+2. ❗️ Opened issue [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 🗣 Commented on [#3852](https://github.com/fluxcd/flux2/issues/3852) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
+4. 💪 Opened PR [#1881](https://github.com/wolfi-dev/os/pull/1881) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#121](https://github.com/sigstore/cosign-installer/issues/121) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
 <!--END_SECTION:activity-->
 
 
