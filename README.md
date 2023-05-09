@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230061](https://github.com/NixOS/nixpkgs/issues/230061) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#228007](https://github.com/NixOS/nixpkgs/issues/228007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#230061](https://github.com/NixOS/nixpkgs/issues/230061) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#548](https://github.com/chainguard-images/images/issues/548) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#1907](https://github.com/wolfi-dev/os/pull/1907) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. ❌ Closed PR [#1940](https://github.com/wolfi-dev/os/pull/1940) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#1940](https://github.com/wolfi-dev/os/issues/1940) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#1940](https://github.com/wolfi-dev/os/pull/1940) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. ❌ Closed PR [#1939](https://github.com/wolfi-dev/os/pull/1939) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#1939](https://github.com/wolfi-dev/os/issues/1939) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
