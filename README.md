@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2037](https://github.com/wolfi-dev/os/pull/2037) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#1983](https://github.com/wolfi-dev/os/pull/1983) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#572](https://github.com/chainguard-images/images/issues/572) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#1980](https://github.com/wolfi-dev/os/pull/1980) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#1977](https://github.com/wolfi-dev/os/issues/1977) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#2038](https://github.com/wolfi-dev/os/pull/2038) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#91](https://github.com/jetstack/paranoia/pull/91) in [jetstack/paranoia](https://github.com/jetstack/paranoia)
+3. 💪 Opened PR [#2037](https://github.com/wolfi-dev/os/pull/2037) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#1983](https://github.com/wolfi-dev/os/pull/1983) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#572](https://github.com/chainguard-images/images/issues/572) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
