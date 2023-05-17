@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/chainguard-dev/yam/issues/16) in [chainguard-dev/yam](https://github.com/chainguard-dev/yam)
-2. 🗣 Commented on [#16](https://github.com/chainguard-dev/yam/issues/16) in [chainguard-dev/yam](https://github.com/chainguard-dev/yam)
-3. 💪 Opened PR [#2048](https://github.com/actions/starter-workflows/pull/2048) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-4. 💪 Opened PR [#122](https://github.com/sigstore/cosign-installer/pull/122) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-5. 💪 Opened PR [#2038](https://github.com/wolfi-dev/os/pull/2038) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#623](https://github.com/chainguard-images/images/pull/623) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#622](https://github.com/chainguard-images/images/pull/622) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#16](https://github.com/chainguard-dev/yam/issues/16) in [chainguard-dev/yam](https://github.com/chainguard-dev/yam)
+4. 🗣 Commented on [#16](https://github.com/chainguard-dev/yam/issues/16) in [chainguard-dev/yam](https://github.com/chainguard-dev/yam)
+5. 💪 Opened PR [#2048](https://github.com/actions/starter-workflows/pull/2048) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
 <!--END_SECTION:activity-->
 
 
