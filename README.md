@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#627](https://github.com/chainguard-images/images/pull/627) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#286](https://github.com/falcosecurity/falcoctl/pull/286) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
-3. 💪 Opened PR [#125](https://github.com/sigstore/cosign-installer/pull/125) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
-4. 💪 Opened PR [#623](https://github.com/chainguard-images/images/pull/623) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#622](https://github.com/chainguard-images/images/pull/622) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 💪 Opened PR [#2128](https://github.com/wolfi-dev/os/pull/2128) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#627](https://github.com/chainguard-images/images/pull/627) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#286](https://github.com/falcosecurity/falcoctl/pull/286) in [falcosecurity/falcoctl](https://github.com/falcosecurity/falcoctl)
+4. 💪 Opened PR [#125](https://github.com/sigstore/cosign-installer/pull/125) in [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer)
+5. 💪 Opened PR [#623](https://github.com/chainguard-images/images/pull/623) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
