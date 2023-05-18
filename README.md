@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1977](https://github.com/wolfi-dev/os/issues/1977) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#2143](https://github.com/wolfi-dev/os/pull/2143) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 2. 🗣 Commented on [#1977](https://github.com/wolfi-dev/os/issues/1977) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#2071](https://github.com/wolfi-dev/os/issues/2071) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#1977](https://github.com/wolfi-dev/os/issues/1977) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 4. 🗣 Commented on [#2071](https://github.com/wolfi-dev/os/issues/2071) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#969](https://github.com/ko-build/ko/issues/969) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 🗣 Commented on [#2071](https://github.com/wolfi-dev/os/issues/2071) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
