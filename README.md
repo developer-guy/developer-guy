@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#467](https://github.com/chainguard-dev/melange/pull/467) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-2. 💪 Opened PR [#697](https://github.com/chainguard-dev/apko/pull/697) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-3. 🗣 Commented on [#2246](https://github.com/wolfi-dev/os/issues/2246) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#415](https://github.com/regclient/regclient/issues/415) in [regclient/regclient](https://github.com/regclient/regclient)
+2. 💪 Opened PR [#467](https://github.com/chainguard-dev/melange/pull/467) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 💪 Opened PR [#697](https://github.com/chainguard-dev/apko/pull/697) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
 4. 🗣 Commented on [#2246](https://github.com/wolfi-dev/os/issues/2246) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#627](https://github.com/chainguard-images/images/issues/627) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 🗣 Commented on [#2246](https://github.com/wolfi-dev/os/issues/2246) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
