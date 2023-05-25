@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2306](https://github.com/wolfi-dev/os/issues/2306) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#415](https://github.com/regclient/regclient/issues/415) in [regclient/regclient](https://github.com/regclient/regclient)
-3. 💪 Opened PR [#467](https://github.com/chainguard-dev/melange/pull/467) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 💪 Opened PR [#697](https://github.com/chainguard-dev/apko/pull/697) in [chainguard-dev/apko](https://github.com/chainguard-dev/apko)
-5. 🗣 Commented on [#2246](https://github.com/wolfi-dev/os/issues/2246) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#2](https://github.com/xyctruth/istio-ratelimit/issues/2) in [xyctruth/istio-ratelimit](https://github.com/xyctruth/istio-ratelimit)
+2. 🗣 Commented on [#2](https://github.com/xyctruth/istio-ratelimit/issues/2) in [xyctruth/istio-ratelimit](https://github.com/xyctruth/istio-ratelimit)
+3. 💪 Opened PR [#2](https://github.com/xyctruth/istio-ratelimit/pull/2) in [xyctruth/istio-ratelimit](https://github.com/xyctruth/istio-ratelimit)
+4. 🗣 Commented on [#2306](https://github.com/wolfi-dev/os/issues/2306) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#415](https://github.com/regclient/regclient/issues/415) in [regclient/regclient](https://github.com/regclient/regclient)
 <!--END_SECTION:activity-->
 
 
