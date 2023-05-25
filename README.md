@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-2. 💪 Opened PR [#38](https://github.com/chainguard-dev/hello-melange-apko/pull/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
-3. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-4. 🎉 Merged PR [#24](https://github.com/awesomeSBOM/awesome-sbom/pull/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 🗣 Commented on [#24](https://github.com/awesomeSBOM/awesome-sbom/issues/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+1. 🗣 Commented on [#38](https://github.com/chainguard-dev/hello-melange-apko/issues/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
+2. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+3. 💪 Opened PR [#38](https://github.com/chainguard-dev/hello-melange-apko/pull/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
+4. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+5. 🎉 Merged PR [#24](https://github.com/awesomeSBOM/awesome-sbom/pull/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
