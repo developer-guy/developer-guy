@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/awesomeSBOM/awesome-sbom/pull/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-2. 🗣 Commented on [#24](https://github.com/awesomeSBOM/awesome-sbom/issues/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-3. 🗣 Commented on [#666](https://github.com/chainguard-images/images/issues/666) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#666](https://github.com/chainguard-images/images/pull/666) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#2312](https://github.com/wolfi-dev/os/pull/2312) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+2. 🎉 Merged PR [#24](https://github.com/awesomeSBOM/awesome-sbom/pull/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🗣 Commented on [#24](https://github.com/awesomeSBOM/awesome-sbom/issues/24) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 🗣 Commented on [#666](https://github.com/chainguard-images/images/issues/666) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#666](https://github.com/chainguard-images/images/pull/666) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
