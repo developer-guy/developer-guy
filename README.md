@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#677](https://github.com/chainguard-images/images/pull/677) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#673](https://github.com/chainguard-images/images/pull/673) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 🗣 Commented on [#38](https://github.com/chainguard-dev/hello-melange-apko/issues/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
-4. 🗣 Commented on [#274](https://github.com/ossf/ossf-landscape/issues/274) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-5. 💪 Opened PR [#38](https://github.com/chainguard-dev/hello-melange-apko/pull/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
+1. 🗣 Commented on [#228007](https://github.com/NixOS/nixpkgs/issues/228007) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#234157](https://github.com/NixOS/nixpkgs/pull/234157) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#677](https://github.com/chainguard-images/images/pull/677) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#673](https://github.com/chainguard-images/images/pull/673) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 🗣 Commented on [#38](https://github.com/chainguard-dev/hello-melange-apko/issues/38) in [chainguard-dev/hello-melange-apko](https://github.com/chainguard-dev/hello-melange-apko)
 <!--END_SECTION:activity-->
 
 
