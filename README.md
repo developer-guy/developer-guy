@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#694](https://github.com/chainguard-images/images/pull/694) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 🗣 Commented on [#454](https://github.com/chainguard-dev/melange/issues/454) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-3. 🗣 Commented on [#627](https://github.com/chainguard-images/images/issues/627) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#473](https://github.com/chainguard-dev/melange/pull/473) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-5. ❗️ Opened issue [#1583](https://github.com/lima-vm/lima/issues/1583) in [lima-vm/lima](https://github.com/lima-vm/lima)
+1. ❗️ Opened issue [#474](https://github.com/chainguard-dev/melange/issues/474) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 💪 Opened PR [#694](https://github.com/chainguard-images/images/pull/694) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#454](https://github.com/chainguard-dev/melange/issues/454) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+4. 🗣 Commented on [#627](https://github.com/chainguard-images/images/issues/627) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#473](https://github.com/chainguard-dev/melange/pull/473) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
 <!--END_SECTION:activity-->
 
 
