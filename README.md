@@ -3,7 +3,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
+<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
