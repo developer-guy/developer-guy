@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2691](https://github.com/wolfi-dev/os/pull/2691) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. ❗ Opened issue [#3211](https://github.com/aquasecurity/tracee/issues/3211) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-3. 🗣 Commented on [#68](https://github.com/jetstack/paranoia/issues/68) in [jetstack/paranoia](https://github.com/jetstack/paranoia)
-4. 💪 Opened PR [#2613](https://github.com/wolfi-dev/os/pull/2613) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#2612](https://github.com/wolfi-dev/os/pull/2612) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🎉 Merged PR [#25](https://github.com/awesomeSBOM/awesome-sbom/pull/25) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+2. 🗣 Commented on [#25](https://github.com/awesomeSBOM/awesome-sbom/issues/25) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 💪 Opened PR [#2691](https://github.com/wolfi-dev/os/pull/2691) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. ❗ Opened issue [#3211](https://github.com/aquasecurity/tracee/issues/3211) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+5. 🗣 Commented on [#68](https://github.com/jetstack/paranoia/issues/68) in [jetstack/paranoia](https://github.com/jetstack/paranoia)
 <!--END_SECTION:activity-->
 
 
