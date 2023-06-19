@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2883](https://github.com/wolfi-dev/os/pull/2883) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#2866](https://github.com/wolfi-dev/os/pull/2866) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#784](https://github.com/chainguard-dev/edu/pull/784) in [chainguard-dev/edu](https://github.com/chainguard-dev/edu)
-4. 💪 Opened PR [#2856](https://github.com/wolfi-dev/os/pull/2856) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#42](https://github.com/wolfi-dev/advisories/pull/42) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+1. 💪 Opened PR [#2919](https://github.com/wolfi-dev/os/pull/2919) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#2883](https://github.com/wolfi-dev/os/pull/2883) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#2866](https://github.com/wolfi-dev/os/pull/2866) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#784](https://github.com/chainguard-dev/edu/pull/784) in [chainguard-dev/edu](https://github.com/chainguard-dev/edu)
+5. 💪 Opened PR [#2856](https://github.com/wolfi-dev/os/pull/2856) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
