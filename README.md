@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3526](https://github.com/wolfi-dev/os/pull/3526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/issues/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#242630](https://github.com/NixOS/nixpkgs/pull/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#1078](https://github.com/chainguard-images/images/pull/1078) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#3450](https://github.com/wolfi-dev/os/pull/3450) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/issues/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#3526](https://github.com/wolfi-dev/os/pull/3526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/issues/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#242630](https://github.com/NixOS/nixpkgs/pull/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#1078](https://github.com/chainguard-images/images/pull/1078) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
