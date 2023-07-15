@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3589](https://github.com/prometheus-community/helm-charts/issues/3589) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/pull/242630#issuecomment-1632211534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#3526](https://github.com/wolfi-dev/os/pull/3526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/pull/242630#issuecomment-1630410613) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#242630](https://github.com/NixOS/nixpkgs/pull/242630) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#1119](https://github.com/chainguard-images/images/pull/1119) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. ❗ Opened issue [#3589](https://github.com/prometheus-community/helm-charts/issues/3589) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+3. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/pull/242630#issuecomment-1632211534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#3526](https://github.com/wolfi-dev/os/pull/3526) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#242630](https://github.com/NixOS/nixpkgs/pull/242630#issuecomment-1630410613) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
