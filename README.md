@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3663](https://github.com/wolfi-dev/os/pull/3663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#3663](https://github.com/wolfi-dev/os/pull/3663#issuecomment-1638652842) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#3663](https://github.com/wolfi-dev/os/pull/3663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#3643](https://github.com/wolfi-dev/os/pull/3643) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#3641](https://github.com/wolfi-dev/os/pull/3641) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#3664](https://github.com/wolfi-dev/os/pull/3664) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#3663](https://github.com/wolfi-dev/os/pull/3663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#3663](https://github.com/wolfi-dev/os/pull/3663#issuecomment-1638652842) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#3663](https://github.com/wolfi-dev/os/pull/3663) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#3643](https://github.com/wolfi-dev/os/pull/3643) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
