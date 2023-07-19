@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3723](https://github.com/wolfi-dev/os/pull/3723) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#3723](https://github.com/wolfi-dev/os/pull/3723) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#556](https://github.com/chainguard-dev/melange/pull/556) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 💪 Opened PR [#3686](https://github.com/wolfi-dev/os/pull/3686) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#3664](https://github.com/wolfi-dev/os/pull/3664) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#3724](https://github.com/wolfi-dev/os/pull/3724) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🎉 Merged PR [#3723](https://github.com/wolfi-dev/os/pull/3723) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#3723](https://github.com/wolfi-dev/os/pull/3723) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#556](https://github.com/chainguard-dev/melange/pull/556) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+5. 💪 Opened PR [#3686](https://github.com/wolfi-dev/os/pull/3686) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
