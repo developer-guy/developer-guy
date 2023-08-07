@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107#issuecomment-1666863081) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-2. 💪 Opened PR [#4216](https://github.com/wolfi-dev/os/pull/4216) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#4171](https://github.com/wolfi-dev/os/pull/4171) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. ❌ Closed PR [#1173](https://github.com/chainguard-images/images/pull/1173) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 🗣 Commented on [#1173](https://github.com/chainguard-images/images/pull/1173#issuecomment-1663947629) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1667586278) in [oras-project/oras](https://github.com/oras-project/oras)
+2. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107#issuecomment-1666863081) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+3. 💪 Opened PR [#4216](https://github.com/wolfi-dev/os/pull/4216) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#4171](https://github.com/wolfi-dev/os/pull/4171) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. ❌ Closed PR [#1173](https://github.com/chainguard-images/images/pull/1173) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
