@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1123](https://github.com/falcosecurity/falco-website/issues/1123) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-2. 🗣 Commented on [#2714](https://github.com/falcosecurity/falco/issues/2714#issuecomment-1668243825) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1667586278) in [oras-project/oras](https://github.com/oras-project/oras)
-4. 🗣 Commented on [#2107](https://github.com/slsa-framework/slsa-github-generator/issues/2107#issuecomment-1666863081) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
-5. 💪 Opened PR [#4216](https://github.com/wolfi-dev/os/pull/4216) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628774) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628169) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. ❗ Opened issue [#1123](https://github.com/falcosecurity/falco-website/issues/1123) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#2714](https://github.com/falcosecurity/falco/issues/2714#issuecomment-1668243825) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+5. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1667586278) in [oras-project/oras](https://github.com/oras-project/oras)
 <!--END_SECTION:activity-->
 
 
