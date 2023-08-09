@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4298](https://github.com/wolfi-dev/os/pull/4298#issuecomment-1670825435) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#1124](https://github.com/falcosecurity/falco-website/pull/1124) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-3. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628774) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628169) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. ❗ Opened issue [#1123](https://github.com/falcosecurity/falco-website/issues/1123) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 🗣 Commented on [#871](https://github.com/chainguard-images/images/pull/871#issuecomment-1672034241) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 🗣 Commented on [#4298](https://github.com/wolfi-dev/os/pull/4298#issuecomment-1670825435) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#1124](https://github.com/falcosecurity/falco-website/pull/1124) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+4. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628774) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628169) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
