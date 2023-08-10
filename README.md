@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4344](https://github.com/wolfi-dev/os/pull/4344) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#871](https://github.com/chainguard-images/images/pull/871#issuecomment-1672034241) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 🗣 Commented on [#4298](https://github.com/wolfi-dev/os/pull/4298#issuecomment-1670825435) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#1124](https://github.com/falcosecurity/falco-website/pull/1124) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
-5. 🗣 Commented on [#5237](https://github.com/kyverno/kyverno/issues/5237#issuecomment-1668628774) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 🗣 Commented on [#4345](https://github.com/wolfi-dev/os/pull/4345#issuecomment-1673923969) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#4344](https://github.com/wolfi-dev/os/pull/4344) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#871](https://github.com/chainguard-images/images/pull/871#issuecomment-1672034241) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 🗣 Commented on [#4298](https://github.com/wolfi-dev/os/pull/4298#issuecomment-1670825435) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#1124](https://github.com/falcosecurity/falco-website/pull/1124) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
 <!--END_SECTION:activity-->
 
 
