@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4385](https://github.com/wolfi-dev/os/pull/4385) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#4379](https://github.com/wolfi-dev/os/pull/4379) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. ❌ Closed PR [#1203](https://github.com/chainguard-images/images/pull/1203) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#1203](https://github.com/chainguard-images/images/pull/1203) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 🗣 Commented on [#1124](https://github.com/falcosecurity/falco-website/pull/1124#issuecomment-1673975386) in [falcosecurity/falco-website](https://github.com/falcosecurity/falco-website)
+1. 🗣 Commented on [#2206](https://github.com/wolfi-dev/os/pull/2206#issuecomment-1677671160) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#2206](https://github.com/wolfi-dev/os/pull/2206) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#4438](https://github.com/wolfi-dev/os/pull/4438) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#4385](https://github.com/wolfi-dev/os/pull/4385) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#4379](https://github.com/wolfi-dev/os/pull/4379) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
