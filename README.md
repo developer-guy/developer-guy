@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1214](https://github.com/chainguard-images/images/pull/1214) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#4439](https://github.com/wolfi-dev/os/pull/4439) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. ❌ Closed PR [#556](https://github.com/chainguard-dev/melange/pull/556) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 🗣 Commented on [#2206](https://github.com/wolfi-dev/os/pull/2206#issuecomment-1677671160) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❌ Closed PR [#2206](https://github.com/wolfi-dev/os/pull/2206) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#1114](https://github.com/ko-build/ko/issues/1114#issuecomment-1680531816) in [ko-build/ko](https://github.com/ko-build/ko)
+2. 💪 Opened PR [#1214](https://github.com/chainguard-images/images/pull/1214) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#4439](https://github.com/wolfi-dev/os/pull/4439) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. ❌ Closed PR [#556](https://github.com/chainguard-dev/melange/pull/556) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+5. 🗣 Commented on [#2206](https://github.com/wolfi-dev/os/pull/2206#issuecomment-1677671160) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
