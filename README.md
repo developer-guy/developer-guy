@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4500](https://github.com/wolfi-dev/os/pull/4500) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#1114](https://github.com/ko-build/ko/issues/1114#issuecomment-1680531816) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 💪 Opened PR [#1214](https://github.com/chainguard-images/images/pull/1214) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#4439](https://github.com/wolfi-dev/os/pull/4439) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❌ Closed PR [#556](https://github.com/chainguard-dev/melange/pull/556) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+1. 🗣 Commented on [#4511](https://github.com/wolfi-dev/os/issues/4511#issuecomment-1681963150) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#4500](https://github.com/wolfi-dev/os/pull/4500) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#1114](https://github.com/ko-build/ko/issues/1114#issuecomment-1680531816) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 💪 Opened PR [#1214](https://github.com/chainguard-images/images/pull/1214) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#4439](https://github.com/wolfi-dev/os/pull/4439) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
