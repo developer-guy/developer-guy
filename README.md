@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2152](https://github.com/actions/starter-workflows/pull/2152) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-2. 🗣 Commented on [#969](https://github.com/ko-build/ko/pull/969#issuecomment-1708009207) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 🎉 Merged PR [#5117](https://github.com/wolfi-dev/os/pull/5117) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#5117](https://github.com/wolfi-dev/os/pull/5117) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#1318](https://github.com/chainguard-images/images/pull/1318) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#180](https://github.com/opentffoundation/opentf/issues/180#issuecomment-1708860617) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
+2. 💪 Opened PR [#2152](https://github.com/actions/starter-workflows/pull/2152) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+3. 🗣 Commented on [#969](https://github.com/ko-build/ko/pull/969#issuecomment-1708009207) in [ko-build/ko](https://github.com/ko-build/ko)
+4. 🎉 Merged PR [#5117](https://github.com/wolfi-dev/os/pull/5117) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#5117](https://github.com/wolfi-dev/os/pull/5117) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
