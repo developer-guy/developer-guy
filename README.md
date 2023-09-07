@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1318](https://github.com/chainguard-images/images/pull/1318#issuecomment-1709014253) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. ❗ Opened issue [#315](https://github.com/opentffoundation/opentf/issues/315) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
-3. 🗣 Commented on [#180](https://github.com/opentffoundation/opentf/issues/180#issuecomment-1708860617) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
-4. 💪 Opened PR [#2152](https://github.com/actions/starter-workflows/pull/2152) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-5. 🗣 Commented on [#969](https://github.com/ko-build/ko/pull/969#issuecomment-1708009207) in [ko-build/ko](https://github.com/ko-build/ko)
+1. 🎉 Merged PR [#5235](https://github.com/wolfi-dev/os/pull/5235) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🗣 Commented on [#1318](https://github.com/chainguard-images/images/pull/1318#issuecomment-1709014253) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. ❗ Opened issue [#315](https://github.com/opentffoundation/opentf/issues/315) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
+4. 🗣 Commented on [#180](https://github.com/opentffoundation/opentf/issues/180#issuecomment-1708860617) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
+5. 💪 Opened PR [#2152](https://github.com/actions/starter-workflows/pull/2152) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
 <!--END_SECTION:activity-->
 
 
