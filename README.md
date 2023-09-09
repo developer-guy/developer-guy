@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/mchmarny/s3cme/pull/77) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
-2. 🎉 Merged PR [#5268](https://github.com/wolfi-dev/os/pull/5268) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#1110](https://github.com/oras-project/oras/issues/1110#issuecomment-1711450540) in [oras-project/oras](https://github.com/oras-project/oras)
-4. 💪 Opened PR [#5260](https://github.com/wolfi-dev/os/pull/5260) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#2709](https://github.com/slsa-framework/slsa-github-generator/pull/2709) in [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator)
+1. 💪 Opened PR [#671](https://github.com/chainguard-dev/melange/pull/671) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+2. 💪 Opened PR [#77](https://github.com/mchmarny/s3cme/pull/77) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
+3. 🎉 Merged PR [#5268](https://github.com/wolfi-dev/os/pull/5268) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#1110](https://github.com/oras-project/oras/issues/1110#issuecomment-1711450540) in [oras-project/oras](https://github.com/oras-project/oras)
+5. 💪 Opened PR [#5260](https://github.com/wolfi-dev/os/pull/5260) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
