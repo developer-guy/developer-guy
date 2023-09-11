@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5367](https://github.com/wolfi-dev/os/pull/5367) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#1355](https://github.com/chainguard-images/images/pull/1355) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 🎉 Merged PR [#5358](https://github.com/wolfi-dev/os/pull/5358) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🎉 Merged PR [#5358](https://github.com/wolfi-dev/os/pull/5358) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#5358](https://github.com/wolfi-dev/os/pull/5358) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. ❗ Opened issue [#1114](https://github.com/oras-project/oras/issues/1114) in [oras-project/oras](https://github.com/oras-project/oras)
+2. 🗣 Commented on [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30#issuecomment-1713413541) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+3. 🎉 Merged PR [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+4. 💪 Opened PR [#5367](https://github.com/wolfi-dev/os/pull/5367) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 💪 Opened PR [#1355](https://github.com/chainguard-images/images/pull/1355) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
