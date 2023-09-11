@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4858](https://github.com/wolfi-dev/os/pull/4858) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. ❗ Opened issue [#1114](https://github.com/oras-project/oras/issues/1114) in [oras-project/oras](https://github.com/oras-project/oras)
-3. 🗣 Commented on [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30#issuecomment-1713413541) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-4. 🎉 Merged PR [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
-5. 💪 Opened PR [#5367](https://github.com/wolfi-dev/os/pull/5367) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#5398](https://github.com/wolfi-dev/os/pull/5398) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🎉 Merged PR [#4858](https://github.com/wolfi-dev/os/pull/4858) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. ❗ Opened issue [#1114](https://github.com/oras-project/oras/issues/1114) in [oras-project/oras](https://github.com/oras-project/oras)
+4. 🗣 Commented on [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30#issuecomment-1713413541) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
+5. 🎉 Merged PR [#30](https://github.com/awesomeSBOM/awesome-sbom/pull/30) in [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 <!--END_SECTION:activity-->
 
 
