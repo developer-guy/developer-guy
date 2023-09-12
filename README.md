@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/opentffoundation/opentf/pull/265#issuecomment-1716102678) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
-2. 💪 Opened PR [#13291](https://github.com/devopsdays/devopsdays-web/pull/13291) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
-3. 💪 Opened PR [#5425](https://github.com/wolfi-dev/os/pull/5425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#5416](https://github.com/wolfi-dev/os/pull/5416) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 💪 Opened PR [#5398](https://github.com/wolfi-dev/os/pull/5398) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#333](https://github.com/ossf/ossf-landscape/pull/333#issuecomment-1716134252) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+2. 💪 Opened PR [#333](https://github.com/ossf/ossf-landscape/pull/333) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+3. 🗣 Commented on [#265](https://github.com/opentffoundation/opentf/pull/265#issuecomment-1716102678) in [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
+4. 💪 Opened PR [#13291](https://github.com/devopsdays/devopsdays-web/pull/13291) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
+5. 💪 Opened PR [#5425](https://github.com/wolfi-dev/os/pull/5425) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
