@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5572](https://github.com/wolfi-dev/os/pull/5572) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#1150](https://github.com/ko-build/ko/pull/1150) in [ko-build/ko](https://github.com/ko-build/ko)
-3. 💪 Opened PR [#5531](https://github.com/wolfi-dev/os/pull/5531) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#333](https://github.com/ossf/ossf-landscape/pull/333#issuecomment-1719305430) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-5. 💪 Opened PR [#5506](https://github.com/wolfi-dev/os/pull/5506) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#5613](https://github.com/wolfi-dev/os/pull/5613) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❌ Closed PR [#5572](https://github.com/wolfi-dev/os/pull/5572) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#5572](https://github.com/wolfi-dev/os/pull/5572) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#1150](https://github.com/ko-build/ko/pull/1150) in [ko-build/ko](https://github.com/ko-build/ko)
+5. 💪 Opened PR [#5531](https://github.com/wolfi-dev/os/pull/5531) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
