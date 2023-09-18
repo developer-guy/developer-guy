@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2#issuecomment-1722536379) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
-2. 💪 Opened PR [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
-3. 💪 Opened PR [#5615](https://github.com/wolfi-dev/os/pull/5615) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#5613](https://github.com/wolfi-dev/os/pull/5613) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. ❌ Closed PR [#5572](https://github.com/wolfi-dev/os/pull/5572) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#77](https://github.com/mchmarny/s3cme/pull/77#issuecomment-1723360297) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
+2. 🗣 Commented on [#333](https://github.com/ossf/ossf-landscape/pull/333#issuecomment-1723356468) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+3. 🗣 Commented on [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2#issuecomment-1722536379) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
+4. 💪 Opened PR [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
+5. 💪 Opened PR [#5615](https://github.com/wolfi-dev/os/pull/5615) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
