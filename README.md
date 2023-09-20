@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#693](https://github.com/chainguard-dev/melange/issues/693) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-2. 💪 Opened PR [#692](https://github.com/chainguard-dev/melange/pull/692) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-3. 💪 Opened PR [#13328](https://github.com/devopsdays/devopsdays-web/pull/13328) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
-4. 🗣 Commented on [#77](https://github.com/mchmarny/s3cme/pull/77#issuecomment-1723360297) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
-5. 🗣 Commented on [#333](https://github.com/ossf/ossf-landscape/pull/333#issuecomment-1723356468) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+1. 💪 Opened PR [#5740](https://github.com/wolfi-dev/os/pull/5740) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. ❗ Opened issue [#693](https://github.com/chainguard-dev/melange/issues/693) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+3. 💪 Opened PR [#692](https://github.com/chainguard-dev/melange/pull/692) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+4. 💪 Opened PR [#13328](https://github.com/devopsdays/devopsdays-web/pull/13328) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
+5. 🗣 Commented on [#77](https://github.com/mchmarny/s3cme/pull/77#issuecomment-1723360297) in [mchmarny/s3cme](https://github.com/mchmarny/s3cme)
 <!--END_SECTION:activity-->
 
 
