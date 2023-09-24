@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
-2. 💪 Opened PR [#5740](https://github.com/wolfi-dev/os/pull/5740) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. ❗ Opened issue [#693](https://github.com/chainguard-dev/melange/issues/693) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-4. 💪 Opened PR [#692](https://github.com/chainguard-dev/melange/pull/692) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
-5. 💪 Opened PR [#13328](https://github.com/devopsdays/devopsdays-web/pull/13328) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
+1. 💪 Opened PR [#5892](https://github.com/wolfi-dev/os/pull/5892) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 🎉 Merged PR [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
+3. 💪 Opened PR [#5740](https://github.com/wolfi-dev/os/pull/5740) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. ❗ Opened issue [#693](https://github.com/chainguard-dev/melange/issues/693) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
+5. 💪 Opened PR [#692](https://github.com/chainguard-dev/melange/pull/692) in [chainguard-dev/melange](https://github.com/chainguard-dev/melange)
 <!--END_SECTION:activity-->
 
 
