@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6025](https://github.com/wolfi-dev/os/pull/6025) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#6016](https://github.com/wolfi-dev/os/pull/6016) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#62](https://github.com/wolfi-dev/tools/pull/62) in [wolfi-dev/tools](https://github.com/wolfi-dev/tools)
-4. 💪 Opened PR [#5892](https://github.com/wolfi-dev/os/pull/5892) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🎉 Merged PR [#2](https://github.com/goreleaser/goreleaser-example-slsa-provenance/pull/2) in [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance)
+1. 💪 Opened PR [#6026](https://github.com/wolfi-dev/os/pull/6026) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#6025](https://github.com/wolfi-dev/os/pull/6025) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#6016](https://github.com/wolfi-dev/os/pull/6016) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#62](https://github.com/wolfi-dev/tools/pull/62) in [wolfi-dev/tools](https://github.com/wolfi-dev/tools)
+5. 💪 Opened PR [#5892](https://github.com/wolfi-dev/os/pull/5892) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
