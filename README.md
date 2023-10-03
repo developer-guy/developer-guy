@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1518](https://github.com/chainguard-images/images/pull/1518) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#190](https://github.com/podtato-head/podtato-head/pull/190) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
-3. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1742163529) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-4. 💪 Opened PR [#1511](https://github.com/chainguard-images/images/pull/1511) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#6026](https://github.com/wolfi-dev/os/pull/6026) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1744719228) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
+2. 💪 Opened PR [#1518](https://github.com/chainguard-images/images/pull/1518) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#190](https://github.com/podtato-head/podtato-head/pull/190) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
+4. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1742163529) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+5. 💪 Opened PR [#1511](https://github.com/chainguard-images/images/pull/1511) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
