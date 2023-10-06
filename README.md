@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1428](https://github.com/sigstore/sigstore/pull/1428) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-2. 💪 Opened PR [#6267](https://github.com/wolfi-dev/os/pull/6267) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#1351](https://github.com/sigstore/cosign/issues/1351#issuecomment-1747373612) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1744719228) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
-5. 💪 Opened PR [#1518](https://github.com/chainguard-images/images/pull/1518) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1750182796) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+2. 💪 Opened PR [#1428](https://github.com/sigstore/sigstore/pull/1428) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+3. 💪 Opened PR [#6267](https://github.com/wolfi-dev/os/pull/6267) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#1351](https://github.com/sigstore/cosign/issues/1351#issuecomment-1747373612) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1744719228) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
 <!--END_SECTION:activity-->
 
 
