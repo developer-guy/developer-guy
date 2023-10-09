@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1572](https://github.com/chainguard-images/images/pull/1572) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1750182796) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-3. 💪 Opened PR [#1428](https://github.com/sigstore/sigstore/pull/1428) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
-4. 💪 Opened PR [#6267](https://github.com/wolfi-dev/os/pull/6267) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#1351](https://github.com/sigstore/cosign/issues/1351#issuecomment-1747373612) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752436059) in [docker/roadmap](https://github.com/docker/roadmap)
+2. 💪 Opened PR [#1572](https://github.com/chainguard-images/images/pull/1572) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1750182796) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+4. 💪 Opened PR [#1428](https://github.com/sigstore/sigstore/pull/1428) in [sigstore/sigstore](https://github.com/sigstore/sigstore)
+5. 💪 Opened PR [#6267](https://github.com/wolfi-dev/os/pull/6267) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
