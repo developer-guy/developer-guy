@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3064](https://github.com/kyverno/kyverno/issues/3064#issuecomment-1752983606) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1752959766) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-3. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752642124) in [docker/roadmap](https://github.com/docker/roadmap)
-4. 🗣 Commented on [#351](https://github.com/ossf/ossf-landscape/pull/351#issuecomment-1752572268) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-5. 💪 Opened PR [#351](https://github.com/ossf/ossf-landscape/pull/351) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+1. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1753041194) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#3064](https://github.com/kyverno/kyverno/issues/3064#issuecomment-1752983606) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1752959766) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+4. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752642124) in [docker/roadmap](https://github.com/docker/roadmap)
+5. 🗣 Commented on [#351](https://github.com/ossf/ossf-landscape/pull/351#issuecomment-1752572268) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
 <!--END_SECTION:activity-->
 
 
