@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752642124) in [docker/roadmap](https://github.com/docker/roadmap)
-2. 🗣 Commented on [#351](https://github.com/ossf/ossf-landscape/pull/351#issuecomment-1752572268) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-3. 💪 Opened PR [#351](https://github.com/ossf/ossf-landscape/pull/351) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
-4. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752436059) in [docker/roadmap](https://github.com/docker/roadmap)
-5. 💪 Opened PR [#1572](https://github.com/chainguard-images/images/pull/1572) in [chainguard-images/images](https://github.com/chainguard-images/images)
+1. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1752959766) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+2. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752642124) in [docker/roadmap](https://github.com/docker/roadmap)
+3. 🗣 Commented on [#351](https://github.com/ossf/ossf-landscape/pull/351#issuecomment-1752572268) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+4. 💪 Opened PR [#351](https://github.com/ossf/ossf-landscape/pull/351) in [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape)
+5. 🗣 Commented on [#562](https://github.com/docker/roadmap/issues/562#issuecomment-1752436059) in [docker/roadmap](https://github.com/docker/roadmap)
 <!--END_SECTION:activity-->
 
 
