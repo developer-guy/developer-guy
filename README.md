@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4361](https://github.com/goreleaser/goreleaser/pull/4361) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 💪 Opened PR [#6485](https://github.com/wolfi-dev/os/pull/6485) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1753041194) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#3064](https://github.com/kyverno/kyverno/issues/3064#issuecomment-1752983606) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1752959766) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+1. 💪 Opened PR [#6551](https://github.com/wolfi-dev/os/pull/6551) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#6550](https://github.com/wolfi-dev/os/pull/6550) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#4361](https://github.com/goreleaser/goreleaser/pull/4361) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#6485](https://github.com/wolfi-dev/os/pull/6485) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1753041194) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
