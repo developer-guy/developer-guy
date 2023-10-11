@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6611](https://github.com/wolfi-dev/os/pull/6611) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#6576](https://github.com/wolfi-dev/os/pull/6576) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#4361](https://github.com/goreleaser/goreleaser/pull/4361#issuecomment-1757589669) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1757133643) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#6551](https://github.com/wolfi-dev/os/pull/6551) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#1597](https://github.com/chainguard-images/images/pull/1597) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#6611](https://github.com/wolfi-dev/os/pull/6611) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 💪 Opened PR [#6576](https://github.com/wolfi-dev/os/pull/6576) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#4361](https://github.com/goreleaser/goreleaser/pull/4361#issuecomment-1757589669) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1757133643) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 
