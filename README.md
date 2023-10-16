@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6896](https://github.com/wolfi-dev/os/pull/6896) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1764009759) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
-3. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1763995309) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-4. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1763982738) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
-5. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1763344545) in [oras-project/oras](https://github.com/oras-project/oras)
+1. 💪 Opened PR [#1646](https://github.com/chainguard-images/images/pull/1646) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#6896](https://github.com/wolfi-dev/os/pull/6896) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+3. 🗣 Commented on [#2152](https://github.com/actions/starter-workflows/pull/2152#issuecomment-1764009759) in [actions/starter-workflows](https://github.com/actions/starter-workflows)
+4. 🗣 Commented on [#4274](https://github.com/kyverno/kyverno/issues/4274#issuecomment-1763995309) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+5. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1763982738) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
 <!--END_SECTION:activity-->
 
 
