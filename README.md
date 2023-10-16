@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1763344545) in [oras-project/oras](https://github.com/oras-project/oras)
-2. 💪 Opened PR [#6674](https://github.com/wolfi-dev/os/pull/6674) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#315](https://github.com/wolfi-dev/advisories/pull/315) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-4. 💪 Opened PR [#313](https://github.com/wolfi-dev/advisories/pull/313) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
-5. 💪 Opened PR [#6645](https://github.com/wolfi-dev/os/pull/6645) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 🗣 Commented on [#190](https://github.com/podtato-head/podtato-head/pull/190#issuecomment-1763982738) in [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
+2. 🗣 Commented on [#1025](https://github.com/oras-project/oras/issues/1025#issuecomment-1763344545) in [oras-project/oras](https://github.com/oras-project/oras)
+3. 💪 Opened PR [#6674](https://github.com/wolfi-dev/os/pull/6674) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#315](https://github.com/wolfi-dev/advisories/pull/315) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
+5. 💪 Opened PR [#313](https://github.com/wolfi-dev/advisories/pull/313) in [wolfi-dev/advisories](https://github.com/wolfi-dev/advisories)
 <!--END_SECTION:activity-->
 
 
