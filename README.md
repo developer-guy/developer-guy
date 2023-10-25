@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1762](https://github.com/chainguard-images/images/pull/1762) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. ❌ Closed PR [#1758](https://github.com/chainguard-images/images/pull/1758) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#1758](https://github.com/chainguard-images/images/pull/1758) in [chainguard-images/images](https://github.com/chainguard-images/images)
-4. 💪 Opened PR [#1717](https://github.com/chainguard-images/images/pull/1717) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#13417](https://github.com/devopsdays/devopsdays-web/pull/13417) in [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web)
+1. 💪 Opened PR [#7393](https://github.com/wolfi-dev/os/pull/7393) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#1762](https://github.com/chainguard-images/images/pull/1762) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. ❌ Closed PR [#1758](https://github.com/chainguard-images/images/pull/1758) in [chainguard-images/images](https://github.com/chainguard-images/images)
+4. 💪 Opened PR [#1758](https://github.com/chainguard-images/images/pull/1758) in [chainguard-images/images](https://github.com/chainguard-images/images)
+5. 💪 Opened PR [#1717](https://github.com/chainguard-images/images/pull/1717) in [chainguard-images/images](https://github.com/chainguard-images/images)
 <!--END_SECTION:activity-->
 
 
