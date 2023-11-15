@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2629](https://github.com/cncf/glossary/pull/2629) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811050096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811049640) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 🗣 Commented on [#8475](https://github.com/wolfi-dev/os/pull/8475#issuecomment-1810830463) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#8475](https://github.com/wolfi-dev/os/pull/8475#issuecomment-1810819350) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#8564](https://github.com/wolfi-dev/os/pull/8564) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+2. 💪 Opened PR [#2629](https://github.com/cncf/glossary/pull/2629) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811050096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811049640) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+5. 🗣 Commented on [#8475](https://github.com/wolfi-dev/os/pull/8475#issuecomment-1810830463) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
