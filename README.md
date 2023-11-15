@@ -45,11 +45,11 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1867](https://github.com/chainguard-images/images/pull/1867) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#8564](https://github.com/wolfi-dev/os/pull/8564) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#2629](https://github.com/cncf/glossary/pull/2629) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811050096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-5. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811049640) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+1. 💪 Opened PR [#1869](https://github.com/chainguard-images/images/pull/1869) in [chainguard-images/images](https://github.com/chainguard-images/images)
+2. 💪 Opened PR [#1867](https://github.com/chainguard-images/images/pull/1867) in [chainguard-images/images](https://github.com/chainguard-images/images)
+3. 💪 Opened PR [#8564](https://github.com/wolfi-dev/os/pull/8564) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
+4. 💪 Opened PR [#2629](https://github.com/cncf/glossary/pull/2629) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#8512](https://github.com/wolfi-dev/os/pull/8512#issuecomment-1811050096) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
 <!--END_SECTION:activity-->
 
 
