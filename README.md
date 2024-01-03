@@ -43,16 +43,6 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 - [How to verify container images with Kyverno using KMS, Cosign, and Workload Identity](https://medium.com/sigstore/how-to-verify-container-images-with-kyverno-using-kms-cosign-and-workload-identity-1e07d2b85061?source=rss-57d794f14ac9------2)
 <!-- BLOG-POST-LIST:END -->
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2002](https://github.com/chainguard-images/images/pull/2002) in [chainguard-images/images](https://github.com/chainguard-images/images)
-2. 💪 Opened PR [#2001](https://github.com/chainguard-images/images/pull/2001) in [chainguard-images/images](https://github.com/chainguard-images/images)
-3. 💪 Opened PR [#10363](https://github.com/wolfi-dev/os/pull/10363) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#1983](https://github.com/chainguard-images/images/pull/1983) in [chainguard-images/images](https://github.com/chainguard-images/images)
-5. 💪 Opened PR [#1974](https://github.com/chainguard-images/images/pull/1974) in [chainguard-images/images](https://github.com/chainguard-images/images)
-<!--END_SECTION:activity-->
-
-
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
 <a href="https://batuhan-apaydin-11378.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
