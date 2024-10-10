@@ -3,7 +3,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
