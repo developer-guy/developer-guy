@@ -6,7 +6,7 @@
 <i>❝The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
+Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describe myself as a Technology Entusiast, Life-Long Learner !! 
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
@@ -27,7 +27,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 </p>
 
 
-### :octocat: Github Statistics
+### :octocat: GitHub Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
