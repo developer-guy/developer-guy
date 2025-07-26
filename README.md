@@ -3,7 +3,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
+<i>❝“How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building, which you admire as you walk around and plan how to add a wing or do some redecorating. More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”— Bill Venners   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engineer 🚀 from Turkey, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
